@@ -1,0 +1,21 @@
+<p>The big challenge in trying to geocode human created addresses is exactly<br />
+that - they were created by humans. And humans have proven to be remarkably uncreative in naming places: we tend to reuse names we already know and love when naming new places. In some cases we’re smart enough to actually add the term “New”, like in “New York”, but mostly we just dive right in to using the old name. As an example, it’s been my pleasure to attend two great universities: one in Durham, one in Cambridge, and yet neither in England!</p>
+
+<p>So what hope does a geocoder have, given that humans have  <br />
+Well this is where we ask you to give us a hint.</p>
+
+<p>Let’s take a look at a real world example. One side of my family comes from the tiny village of <a href="http://de.wikipedia.org/wiki/Heyerode">Heyerode</a> in the <a href="http://de.wikipedia.org/wiki/Eichsfeld">Eichsfeld region</a> of Thüringen, Germany. About 50 kilometers westward in the Bundesland of Hessen, there is another village named … <a href="http://de.wikipedia.org/wiki/Heyerode_%28Sontra%29">Heyerode</a> (we hate those guys). So when you send the OpenCage geocoder a request for Heyerode, we return results for both place, there’s just no way to know which one you mean. Imagine though you know you want the one true Eichsfelder Heyerode, not the pathetic Hessian pretender to the title.</p>
+
+<p>Here’s a map showing you the two Heyerodes in central Germany.</p>
+
+<p><img src="/images/tumblr_inline_n8mid8Boh71siukvl.png" alt="" /></p>
+
+<p>Surely we should give you some way for you to tell us which one you want?  Well, we do: by using the optional <a href="http://geocoder.opencagedata.com/api.html#forward-opt"><code class="highlighter-rouge">bounds</code> parameter</a> you can specify the coordinates of bounding box that all results we return must be inside. Also, though it wouldn’t be any help in this situation, we also allow you to set the <code class="highlighter-rouge">country</code> parameter to tell us to only return results from one country. This helps us make better decisions about which geocoders to run your query against. As always it’s all explained over in the <a href="http://geocoder.opencagedata.com/api.html">API docs</a></p>
+
+<p>BTW - In some cases the use of similar names is almost pathological: Lokku, our company, is <a href="http://lokku.com#contact">based in Clerkenwell area of London</a>. Within a three minute walk of our office are two completely unrelated pubs named “The Sutton Arms”. Who can say why?</p>
+
+<p><img src="/images/tumblr_inline_n8migmegcn1siukvl.png" alt="" /></p>
+
+<p>Enjoy your geocoding. For best results, when you can, use the <code class="highlighter-rouge">bounds</code> and/or <code class="highlighter-rouge">country</code> parameters to give us a hint.</p>
+
+<p>Both maps © <a href="http://osm.org/copyright">OpenStreetMap</a> contributors</p>

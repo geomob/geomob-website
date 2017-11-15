@@ -1,0 +1,13 @@
+<p>Regular readers will recall our ongoing efforts to provide a correctly formatted string for each API response. Here’s <a href="http://blog.opencagedata.com/post/99059889253/good-looking-addresses-solving-the-berlin">the detailed background</a> and <a href="http://blog.opencagedata.com/post/138991962708/an-update-on-address-formatting-help-needed">our update from a few months ago</a>. In short, it turns out humans have devised a baffling number of ways to format place names, and <a href="https://github.com/OpenCageData/address-formatting">our opensource address formatting project</a> is an attempt to create a set of templates that can be used to correctly display addresses all around the world. </p>
+
+<p> I’m very pleased to announce that this week we hit 100% test coverage on the project. <a href="https://github.com/OpenCageData/address-formatting/tree/master/testcases/countries">Each of the 249 “countries” in the world (as defined by ISO 3166-1 alpha-2 codes) now has at least one test</a>.  </p>
+
+<p>While there are several libraries available that attempt to perform this task in one programming language or another, the goal of our project was to separate the templates from the language used to render the output. The idea being that developers of all languages can contribute to the tests and configuration. Happily this seems to be working. We use and maintain <a href="https://metacpan.org/pod/Geo::Address::Formatter">a perl library that uses the templates</a>, and recently <a href="https://github.com/predicthq/address-formatter-php">a PHP implementation appeared</a>. The impressive looking <a href="https://mapzen.com/blog/inside-libpostal/">libpostal library</a> also uses the templates as an input. Hopefully more implementations will appear, several people have expressed interest in a javascript version. </p>
+
+<p>Getting at least one test for each territory (many of the “countries” are not actually countries) is a great step forward, but of course many more tests would be beneficial. Likewise we have some ideas to extend the library, which I hope to take forward as time allows. </p>
+
+<p>For someone interested in geographic trivia it’s been fun getting the project to this point. Many thanks to everyone who has contributed. Please join us to help take it forward. </p>
+
+<p>Enjoy the weekend,</p>
+
+<p><a href="https://twitter.com/freyfogle">Ed</a></p>

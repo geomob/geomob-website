@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: "FOSSGIS2015 talk"
+date: 2015-03-12 11:32:18 +0000
+tags: fossgis2015 events mtm
+---
+Yesterday OpenCage team member [Marc Tobias](http://www.openstreetmap.org/user/mtmail), had the chance to speak at [FOSSGIS2015](http://www.fossgis.de/konferenz/2015/). He gave a talk about the (insane) difficulty of geocoding in a world where silly humans insist on using non-unique placenames, and a high-level overview of the various services, both closed and open, that are available to accomplish the task. His slides are here, hopefully there’ll be video soon. 
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/45745563" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+Many thanks to the organisers and sponsors for a great event.

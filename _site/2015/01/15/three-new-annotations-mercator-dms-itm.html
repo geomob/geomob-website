@@ -1,0 +1,28 @@
+<p>Hi everyone,</p>
+
+<p>after a bit of a much needed new years break we’re back with some good news - we’ve rolled out <a href="http://geocoder.opencagedata.com/api.html#annotations">three new annotations</a> today.</p>
+
+<p>Specifically:</p>
+
+<ul>
+  <li>
+    <p><strong>DMS</strong> - for the old-school, analog among us now every result comes back with the longitude/latitude of the center point formatted in Degree Minute decimal Second format.</p>
+  </li>
+  <li>
+    <p><strong>Mercator</strong> - by <a href="https://github.com/lokku/opencagedata-roadmap/issues/3">popular request</a> (thanks Denis) we now return the EPSG: <span>3857 Spherical Mercator</span> x and y values of the center point. </p>
+  </li>
+</ul>
+
+<p>and finally, we’re hopeful our Guinness drinking friends in Ireland will raise a toast to the fact that we now supply</p>
+
+<ul>
+  <li><span><strong>ITM</strong> - the <a href="https://en.wikipedia.org/wiki/Irish_Transverse_Mercator">Irish Transverse Mercator</a> easting and northing of the center point, of course only for locations in Ireland. </span></li>
+</ul>
+
+<p><span>All the details are over on <a href="http://geocoder.opencagedata.com/api.html">the API documentation page</a>, and if you don’t need these features you can turn them off by supplying the <code class="highlighter-rouge">no_annotations</code> parameter with your query. </span></p>
+
+<p><span>happy geocoding, and please keep the feedback coming!</span></p>
+
+<p><span>- written from Spherical Mercator coords: -11403.446, 6680794.879,</span></p>
+
+<p><a href="https://twitter.com/freyfogle"><span>Ed</span></a></p>

@@ -1,0 +1,39 @@
+--- 
+layout: post
+title: "SotMCAT2015 recap"
+date: 2015-10-08 14:09:32 +0000
+tags: SotMCAT2015 events
+---
+Last week I attended
+
+As someone new to Catalonia the event reminded me a lot of some of the early OSM meetups or [#geomob events in London](http://geomobldn.org/). The crowd was small (I think 30 people in total) but obviously very passionate about the topic. We were in a community building Barceloneta, just by the beach here in Barcelona. 
+
+The last few years I’ve been to some of the larger OpenStreetMap events lioke the global SotM and SotM-Europe, and those are great because of the sheer number of things you see, but the good thing with a smaller event like SotMCAT is you get to really meet the people; you are not overwhelmed and you have time to really understand what people are up to. As an example the morning started with everyone introducing themselves. It was a mix of people from the geo industry - including several from [ICGC](http://icc.cat/), the Catalan national mapping agency - software engineers, but also people trying to use maps in their community in one way or another.
+
+![image](/images/tumblr_inline_nvwj5hMgtQ1siukvl_540.jpg)
+
+In total there were five talks:
+
+First up was [Pau Gargallo](https://twitter.com/paugargallo) of [Mapillary](https://www.mapillary.com/). Though the company is based in Sweden, he lives and works in Barcelona. THe shared with us their impressive progress in creating a crowd-sourced database of photos of the world. THey already have 39 million photos and it is growing rapidly. He showed off lots of cool technologies around photo-stitching and auto-detection of signs and things. Basically the high quality and low cost of mobile cameras tied to location data opens up all sorts of possibilities. 
+
+Next I spoke about our geocoder. It was very similar talks I have given in the past, of course with the examples changed to be relevant to this audience - nevertheless probably time for me to come up with a new talk. Here are the slides:
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/cQ2RkA9mG0XqdJ" frameborder="0" height="400" width="400"></iframe>
+
+The third talk of the day was by [Xavier Barnada](https://twitter.com/Xevib) about [OSMbot](https://twitter.com/osmbot_telegram) for [Telegram](https://telegram.org/). I’m not a telegram user, so all new material for me. Basically it is a simple command line service that allows people to query information, in this case OSM. It reminded me a lot of Fred Wilson’s recent post about [the return of the command line](http://avc.com/2015/09/the-return-of-the-command-line-interface/).   
+
+That was followed by [Jose Luis Infante](https://twitter.com/infantejl) sharing an example of a community, in his case Badalona, getting motivated to add data to [WheelMap](http://wheelmap.org/), which is a derivation of OSM targeting people with mobility issues and helping them see which venues are easily accessible. Besides general background about the project and the experience of motivating the community to map, he shared a great picture that showed the people who had come out to map. It was a broad cross section of society all working together to improve the map:
+
+![image](/images/tumblr_inline_nvwkr2Z40l1siukvl_540.jpg)
+
+The final talk of the morning was by [Hector Ramos](https://twitter.com/yopaseopor), going deep into the topic public transport mapping. There is an immense amount of information to be collected. He showed off JOSM presets that can help with the task, which I wasn’t familiar with. 
+
+There are [videos of all the talks over on youtube](https://www.youtube.com/channel/UCcj8Pg0w6U_spiaiDnnXuzQ).   
+
+That concluded the talks, we then took the requisite group photo and the group broke up for lunch. Unfortunately I had to leave at that point, so I missed the afternoon discussion. For me though the main take away, as someone new to Barcelona, was to see the passion for the topic of free and open geodata is universal. I liked that the talks were a good mix of technical, but also did not miss the human element of why to map and the benefits of having a comprehensive and free geodatabase for all to use. 
+
+For anyone interested in learning more about OpenStreetMap in Catalonia should follow [OSM en català](https://twitter.com/OSMcatala) and if your interest is the geo scene in general, you should attend [the Geoinquiets meetings](http://geoinquiets.cat/).
+
+Many thanks once again to the organisers for a fun event. 
+
+- [Ed](https://twitter.com/freyfogle)

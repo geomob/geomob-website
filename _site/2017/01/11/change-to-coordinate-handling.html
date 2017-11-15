@@ -1,0 +1,15 @@
+<p>Hi,</p>
+
+<p>today we rolled out a slight change to reverse (coordinate to location) geocoding. If you send us coordinates outside of the range of possible values we now return a response with status code <code class="highlighter-rouge">400</code> and message <code class="highlighter-rouge">invalid coordinates</code>. Previously we had treated it as a valid request and simply returned no results.</p>
+
+<p>This is not something that is happening a lot, but we do occasionally see it, and thought it was better to let the client know they have a bug in their data.</p>
+
+<p>As a general reminder coordinates should be specified in Latitude, Longitude order and in decimal format.</p>
+
+<p>As always, the full details of how to call our API and all the possible response codes are best discovered over on <a href="https://geocoder.opencagedata.com/api">the documentation page</a>.</p>
+
+<p>happy geocoding, <a href="https://twitter.com/freyfogle">Ed</a></p>
+
+<ul>
+  <li>posted from 41.40139, 2.12870</li>
+</ul>
