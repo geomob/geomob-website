@@ -1,0 +1,48 @@
+<p>One of the perverse things about geodata is that you can have too much of a good thing. And this seems to unfortunately often be the case with open geodata, where well intended contributors take the approach of making as much information as possible available. </p>
+
+<p>What do I mean? Well let’s take the example of our office here in London. If you search for “Lokku” (our parent company name) in OpenStreetMap (via Nominatim) you get back structured data like this</p>
+
+<pre>"components" : {
+    "city" : "London Borough of Islington",
+    "country" : "United Kingdom",
+    "country_code" : "gb",
+    "county" : "London",
+    "house" : "Lokku Ltd",
+    "house_number" : 82,
+    "postcode" : "EC1M 5RF",
+    "road" : "Clerkenwell Road",
+    "state" : "England",
+    "state_district" : "Greater London",
+    "suburb" : "Clerkenwell"
+},
+</pre>
+
+<p>All of that is perfectly correct. We are in England and we are in the London Borough of Islington. But if you show all of that to a normal person, it is too much and not what they are expecting. Here’s what you see when you <a href="http://www.openstreetmap.org/search?query=Lokku#map=19/51.52263/-0.10244">search for Lokku on OpenStreetMap.org</a></p>
+
+<p><img src="/images/tumblr_inline_ncvkf8nadl1siukvl.png" alt="image" /></p>
+
+<p>The consumer expectation though is likely a well formatted address like ”Lokku Ltd, 82 Clerkenwell Road, London EC1M 5RF, United Kingdom”, as UK addresses don’t contain the borough (and even if they did, everyone just refers to it as Islington, not the “London Borough of Islington”).</p>
+
+<p>But please don’t think OpenStreetMap is the only one doing this sub-optimally.</p>
+
+<p>Here’s an example I talked about recently in my #APIconUK talk. This summer I spent some time in Berlin (and I’m looking forward to heading back for <a href="http://wherecamp.de/">wherecamp.de</a> in a few weeks). For those who don’t know, Berlin is both a city and <em>Bundesland</em> (ie state). Whenever I used twitter it would specify the location as “Berlin, Berlin”, obviously using a “city, state” template for their locations. </p>
+
+<p><a href="https://twitter.com/freyfogle/status/506095909378478080"><img src="/images/tumblr_inline_ncvk2e04KN1siukvl.png" alt="image" /></a></p>
+
+<p>“Berlin, Berlin” is technically correct in some theoretical sense, but stylistically it is wrong. It’s the type of little detail that makes a digital service feel clunky and non-local. One other thing to note about this example is that we are not dealing with a full “correct” postal address. In this case it is just a city name. </p>
+
+<p>So what can we do about this? These two examples are obvious to me because life experience has taught me what the optimal answer is. But how can our geocoder know the right answer and share it with the requestor? For the past few days we’ve been working on a solution.</p>
+
+<p>I’m pleased to announce a new open source project we’ve just released: <a href="https://github.com/lokku/address-formatting/">address-formatting is a set of programming language independent templates</a> that specify rules for how to correctly format addresses and placenames. We’ve also separately released <a href="https://metacpan.org/pod/Geo::Address::Formatter">our code for parsing the templates (we use perl)</a> and creating the <code class="highlighter-rouge">formatted</code> value in our gecoder results. It is live now in <a href="http://geocoder.opencagedata.com/">our geocoder</a> for some countries, you can <a href="http://geocoder.opencagedata.com/demo.html">test it on the demo page</a>. In the coming days we’ll be adding the correct formatting for more and more countries. But of course we’re not experts in each country or territory or script style, we would very much welcome your contributions.</p>
+
+<p>We’d love to see more parsers written in other programming languages, please let us know if you do. The templates are in the widely used <a href="http://mustache.github.io/">Mustache format</a>. </p>
+
+<p>We see this problem all over the place - if you live in the UK you get used to seeing US designed software mangle UK addresses (<em>as an aside, no I don’t have fucking zipcode</em>), and we think a collaborative crowd-sourced approach is the best way to solve it.</p>
+
+<p>Together we can address the world!</p>
+
+<p>yours in good looking, opensource-made, addresses</p>
+
+<p><a href="https://twitter.com/freyfogle">Ed</a>, written from 82 Clerkenwell Road, London EC1M 5RF, United Kingdom</p>
+
+<p>One final note, if all of this makes you think addresses are just to much effort, <a href="http://blog.opencagedata.com/post/98146531423/what3words-now-provided-as-an-annotation">we recently introduced what3word annotations</a>, a technology that let’s you do away with addresses.</p>

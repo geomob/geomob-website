@@ -1,0 +1,37 @@
+--- 
+layout: post
+title: "Geomob Feb 2011 - Thank You!"
+date: 2011-02-11 11:50:00 +0000
+tags: JustMigrate
+---
+<div class="post" style="padding-top: 0px; padding-right: 15px; padding-bottom: 0px; padding-left: 15px; margin-top: 0px; margin-right: 0px; margin-bottom: 15px; margin-left: 0px; font-family: Segoe UI, Myriad Pro, Helvetica, Arial; font-size: 14px; line-height: 1.5em;">
+
+Following a successful event yesterday, we would like to say big thank you to all Geomob February 2011 [speakers](http://twitter.com/geomob/geomob-feb-2011-3 "Geomob October 2010 Speakers") and [attendees](http://lanyrd.com/2011/gemob-february/ "Geomob 2010 Attendees").
+
+If you have missed out - fear not! We have [posted all presentations online](http://www.slideshare.net/geomobldn "geomob slideshare presentations") so you can check four great talks from yesterday’s event.
+
+**PRESENTATIONS**
+
+*   **[Dan Pett](http://twitter.com/portableant "Dan Pett Twitter") - [<span style="color: #000000; font-weight: normal;"></span>](http://www.slideshare.net/geomobldn/dan-pett)******[British Museum - Enriched Archaeological Records](http://www.slideshare.net/geomobldn/dan-pett "Dan Pett Twitter")****
+*   **[Simon Cross](http://twitter.com/#!/sicross "Simon Cross") - <span style="font-weight: normal;">**[Facebook - Mobile, First](http://www.slideshare.net/geomobldn/simon-cross-facebook-mobile-first-geomob-feb-2011 "Dan Pett Twitter")**</span>**
+*   **[Pardeep Kullar](http://twitter.com/kullar "Pardeep Kullar Twitter") - <span style="font-weight: normal;">**[LikeOurselves - Bringing Online Communities Offline via Geo Location](http://www.slideshare.net/geomobldn/pardeep-kullar-likeourselves "Pardeep Kullar Twitter")**</span>**
+*   **<span style="font-weight: normal; color: #8e8e8e;">**[Ben Dowling](http://twitter.com/coderholic "Ben Dowling Twitter")**</span> - <span style="font-weight: normal;">**<span style="font-weight: normal; color: #8e8e8e;">**[Geomium - Building a Geo App ](http://www.slideshare.net/geomobldn/ben-dowling-geomium "Ben Dowling Twitter")**</span>**</span>**
+*   **[Ben Brown](http://twitter.com/benbrownww "Vouchacha") - <span style="font-weight: normal;">**[VouChaCha - Mobile Deals](http://www.slideshare.net/geomobldn/ben-brown-vouchacha-mobile-deals-geomob-feb-2011 "Vouchacha")**</span>**
+
+**KEEP IN TOUCH**
+
+Follow [@geomob](http://twitter.com/#!/geomob "Geomob twitter") and [Geomob Feb ‘11: Speakers](http://twitter.com/geomob/geomob-feb-2011-3 "Geomob October 2010 Speaker List") list on Twitter.
+
+[Sign up on Lanyrd as “Attending”](http://lanyrd.com/2011/gemob-may/ "Sign up for next Geomob") for our next event on **12th May 2011**.
+
+**THANKS**
+
+Finally, a big thank you to our [SPONSORS](http://geomobldn.org/pages/sponsors-26 "sponsors"):
+
+[PROfounders Capital](http://www.profounderscapital.com/)
+
+[Lokku Ltd](http://www.lokku.com/ "Lokku Limited")
+
+and the [BCS - The Chartered Institute for IT](http://www.bcs.org/) for hosting the event
+
+</div>

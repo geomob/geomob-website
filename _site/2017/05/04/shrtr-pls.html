@@ -1,0 +1,19 @@
+<p>One of the aspects users of our API like most is that we supply a <code class="highlighter-rouge">formatted</code> response (<a href="https://geocoder.opencagedata.com/api#formatted">see the docs</a>). Open data sources like OpenStreetMap are a phenomenal resource, but precisely because people all over the world are adding all sorts of things all the time, it can be a bit of a burden for a developer to try to sift through everything and figure out how best to display a result to an end user. The problem grows in complexity as you start to consider multiple countries - the format that seems intuitive in country A is wrong in country B. Should that address contain the state or province? Does the postal code come before or after the city? If you want to provide a smooth service for your users these details need to be correct, but spending valuable developer time on them is very expensive. We solve it by using our <a href="https://github.com/OpenCageData/address-formatting">open-sourced address-formatting templates</a>.</p>
+
+<p>As an example when you send us a query like <code class="highlighter-rouge">41.40139,2.12870</code> our response contains a <code class="highlighter-rouge">formatted</code> value of <code class="highlighter-rouge">Carrer de Calatrava, 68, 08017 Barcelona, Spain</code>.</p>
+
+<p>This works well, but recently one of our clients asked if we could also abbreviate the response to make it easier to display in situations where screen space is limited, for example on a mobile device. We agreed - it makes more sense to solve this on our side than have each user reinvent the wheel. Last week we added support for a new optional parameter: <code class="highlighter-rouge">abbrv</code>. When set, ie add <code class="highlighter-rouge">abbrv=1</code> to your query we attempt to abbreviate the formatted result.</p>
+
+<p>The query above then returns: <code class="highlighter-rouge">C Calatrava, 68, 08017 Barcelona, Spain</code>.</p>
+
+<p>The query <code class="highlighter-rouge">35.1406,-78.8738</code> with <code class="highlighter-rouge">abbrv=1</code> added returns <code class="highlighter-rouge">5838 Ramsey St, Fayetteville, NC 28311, USA</code> instead of the lengthier <code class="highlighter-rouge">5838 Ramsey Street, Fayetteville, NC 28311, United States of America</code>.</p>
+
+<p>For now, we only <a href="https://github.com/OpenCageData/address-formatting/tree/master/conf/abbreviations">have abbreviations for a few languages</a>. We’ll be adding more over time, but we obviously don’t speak every in the world. If you’d like your language please contribute.</p>
+
+<p>We hope this new feature helps you save time and effort. Learn more about the <a href="https://geocoder.opencagedata.com/api#forward-opt">various optional parameters</a> you can send our API.</p>
+
+<p>Happy geocoding,</p>
+
+<p><a href="https://twitter.com/freyfogle">Ed</a></p>
+
+<p>written from C Calatrava, 68, 08017 Barcelona, Spain</p>

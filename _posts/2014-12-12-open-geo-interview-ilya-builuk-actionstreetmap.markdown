@@ -1,0 +1,39 @@
+--- 
+layout: post
+title: "Open Geo interview - Ilya Builuk - ActionStreetMap"
+date: 2014-12-12 16:00:14 +0000
+tags: interview ilyabuiluk actionstreetmap
+---
+Today we continue our look at alternate uses of OpenStreetMap by speaking with Ilya Builuk, the maker of [ActionStreetMap](http://actionstreetmap.github.io/demo/) a way to 3D render OSM data for use in games. 
+
+**1\. Who are you and what do you do? What got you into OpenStreetMap?**
+
+_My name is [Ilya Builuk](https://github.com/ibuiluk), I’m Software Engineer. My primary experience is related to development using .NET Framework platform: ASP.NET, Windows Forms, Windows Phone. I found the OSM project when I was searching for free offline maps to develop some map based software as my hobby project._
+
+**2\. What is ActionStreetMap? What are the goals of the project?**
+
+_ActionStreetMap (ASM) is an engine for building real city environment dynamically using OpenStreetMap data. It works pretty simply: you download the map data from OpenStreetMap, provide it to the engine, and voila! It generates you a 3D environment with almost every data available on the map; buildings, roads, traffic lights, bus stops etc. After getting your real 3D city environment (maybe your neighborhood) the sky is the limit. Since it’s in Unity3D, you can port it to almost every platform. Build a game based on ASM engine, that can be run on mobile, web and desktop. You can even go further and build a Virtual Reality environment of your neighborhood using the engine. Although you can create pretty nice 3D city for your own use, the engine is not flawless and it’s in alpha stage. There are a lot to be done and we need contributors._
+
+_![](/images/tumblr_inline_ngh5bh4ub51siukvl.png)_
+
+**3\. What are the most interesting implementations so far?**
+
+_The engine itself open-sourced just several weeks ago. Therefore the only implementation we got so far is a project for demonstration purposes. In this demo project you have a tank that you can go around the city you built, explore it and shoot the buildings/landscapes that bothers you._
+
+**![](/images/tumblr_inline_ngh5gfHNr11siukvl.png)**
+
+**4\. What is the best way for people to contribute?**
+
+_Since [I just open-sourced the project](https://github.com/ActionStreetMap/framework), there are not many contributors yet. We need help in almost all possible ways that an open-source project can get contribution. The most important contribution in this point of the project might be focused on the presentation side of the engine: add better shaders, models, etc. We need help creating a public profile for the project, managing social accounts, documentation, bug fixes, new feature implementations… in short there are many ways to contribute to this project._
+
+**![](/images/tumblr_inline_ngh5hqs8gN1siukvl.png)**
+
+**5\. OSM recently celebrated its 10th birthday, where do you think the project will be in 10 years time?**
+
+_I think OSM will have more data for 3D rendering: 3D buildings, elevation data, in-door experience. This will allow to use OSM data to build virtual reality or simulation on VR devices. I believe that virtual reality and simulations are the future. 10 years from now, we will be seeing VR sets as a standard device that can be found at every home and easily accessible?So I think that 10 years from now, ASM engine will be empowering many VR environments, games, educational tools and many more. On the other hand I also believe that unity 3D, provides a unified experience in all platforms and offers a very flexible development environment. So going with this platform will be a safe bet for the next 10 years and hopefully the project will have continuous interest from other developers._
+
+Many thanks Ilya for speaking with us, and congrats the your project. I live in the Barbican, a huge housing complex in the centre of London and not a day passes that i don’t think it would be cool to see it rendered in a Doom style FPS engine. Great to see continued innovation around 3D rendering and OSM use in gaming. 
+
+- [Ed](https://twitter.com/freyfogle) 
+
+You can see [all the Open Geo interviews here](http://blog.opencagedata.com/tagged/interview). If you are or know of someone we should interview, please get in touch, we’re [always looking to promote people doing interesting things with open geo data](http://blog.opencagedata.com/post/98139732993/call-for-open-geo-openstreetmap-interviewees).

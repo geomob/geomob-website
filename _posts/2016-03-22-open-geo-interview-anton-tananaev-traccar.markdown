@@ -1,0 +1,65 @@
+--- 
+layout: post
+title: "Open Geo interview - Anton Tananaev - Traccar"
+date: 2016-03-22 21:33:03 +0000
+tags: traccar tananaev interview
+---
+Our latest interview with open geo thought leaders is with [Anton Tananaev](https://github.com/tananaev), the lead developer of [Traccar](https://www.traccar.org/) - a free and open source GPS tracking platform.
+
+![image](/images/tumblr_inline_o4gixdd6kS1siukvl_540.png)
+
+**1\. Who are you and what do you do? What got you into the geo space?**
+
+_My name is Anton Tananaev. I am the main developer of [Traccar open source GPS tracking software](https://www.traccar.org/). I started writing server code back in 2009 and then decided to make it open source in early 2010\. Up to this point Traccar was my side project, but my long term goal is to make it make main full time job. At the moment my main job is a mobile developer and I mostly work on Android projects._
+
+**2\. What is the Traccar project? Who is behind it? What is the goal?**
+
+_Traccar project contains several applications:_
+
+_- [Traccar Server](https://www.traccar.org/server/)  - main piece of software. It contains modules to communicate with various GPS tracking devices, store data in the database, data filtering etc. It also includes embedded Jetty web server to provide API and serve web interface files._
+
+_- Web app - web interface for managing GPS tracking devices, users, generating reports etc._
+
+_- [Traccar Client](https://www.traccar.org/client/) - mobile app for Android and iOS that reports phone’s location to the server. Basically it allows people to use their phones as tracking devices instead of buying a separate special hardware._
+
+_- Traccar Manager - mobile app for Android (iOS version if coming later this year). It’s a native mobile alternative to the web app. It has a limited functionality at the moment, but the plan is to make it on par with web interface._ 
+
+_As a single main developer on the project, I develop all above software on my own. Occasionally I get pull requests from Traccar users who want to share what they have implemented with community. One area where I get a lot of help from community is localization. Everyone is welcome to help adding or correcting translations via [Transifex platform](https://www.transifex.com/traccar/traccar/)._
+
+_The main goal of this project is to make a fully featured alternative to commercial tracking systems. I plan to keep project completely free and open source for the foreseeable future._
+
+**3\. How is the project going? How many people use the software, who are they? What is the feedback?**
+
+_The project is going very well. It becomes more popular every day. It’s growing very fast especially last couple of years. The GPS tracking industry is growing as well, so it’s a very promising area. As I mentioned in my previous answer, I am the only official developer for Traccar project. It would be nice to have more developers to help with the project, but it’s hard to find someone with enough skill, experience and free time to work on an open source project._
+
+**4\. What is the best way for people to get involved in the Traccar project? **
+
+_There are many ways people can help and support the project:_
+
+_- Feedback - this is the easiest way to get involved in the project, but it’s also very important because it helps me to understand the needs of the customers. I don’t really use Traccar myself, so feedback from actual users is very valuable._
+
+_- Pull requests - developers can send pull requests with new features or bug fixes and improvements. I always try my best to include those in the project._
+
+_- Localization - at the time of writing Traccar project includes 39 different languages and all of them require regular updates and maintenance. People can also add new languages via Transifex website._
+
+_- [Donations](https://www.traccar.org/donate/) - are always welcome. It doesn’t have to be money. For example, some people donate VPS servers that are used now to host free demo service._
+
+**5\. What’s the roadmap for the project going forward?**
+
+_The main priority on the project roadmap is to implement missing major features in Traccar server. It includes geo-fencing, alerts, notifications and more sophisticated reporting system._
+
+_Traccar Manager apps are the second highest priority. Android app is out on Google Play, but many features are missing at the moment. iOS version is in the process of development and should be available on the App Store some time later this year. There are many smaller features and improvements on the roadmap for the project._
+
+**6\. Our classic question: in 2014 OSM celebrated its 10th birthday, where do you think the project will be in 10 years time?**
+
+_I first heard about the OpenStreetMap project back in 2009\. Back then I worked on a proprietary tracking system and it was a good alternative to Google Maps. Surprisingly many people don’t know that terms and conditions for Google Maps are very restrictive. Free version is not allowed to be used for asset tracking, and business license was very expensive at that time. OSM was a very good options without any such restrictions._
+
+_Originally OSM was rather slow I guess because of the hardware limitations that they had. Since then it became much more stable and performant. In the coming years I expect it to improve even more as OSM project gets more supports from their sponsors._
+
+_Another growth area is map data quality. At the moment it varies very much in different areas. Some people still prefer Google Maps and other commercial providers because of better maps quality in their areas. In 10 years time I believe this problem will disappear or at least become less severe as OSM collects more data from various sources._  
+
+Many thanks Anton. We agree, Google Maps terms of use are very restrictive! Congrats on the success of Traccar and we’re delighted that Traccar users [can easily use our geocoder for their reverse geocoding needs](https://www.traccar.org/reverse-geocoding/).  Good luck taking the service forward. Anyone interested in learning more should [follow @TraccarOrg on twitter](https://twitter.com/TraccarOrg), [sign up for Traccar email updates](https://www.traccar.org/subscribe/) and/or follow [the project blog](https://www.traccar.org/blog/). 
+
+- [Ed](https://twitter.com/freyfogle)  
+
+You can see [all the Open Geo interviews here](http://blog.opencagedata.com/tagged/interview). If you are or know of someone we should interview, please get in touch, we’re [always looking to promote people doing interesting things with open geo data](http://blog.opencagedata.com/post/98139732993/call-for-open-geo-openstreetmap-interviewees).

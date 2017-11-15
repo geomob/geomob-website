@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: "Q22012 #geomob  - 17 May at UCL"
+date: 2012-04-13 09:40:00 +0000
+tags: JustMigrate 20120517 geomob
+---
+Fellow geomobsters,
+
+I’m pleased to announce the line up of our next event to be held on Thursday the 17th of May. We will once again generously be hosted by our good friends at [UCL](http://www.cege.ucl.ac.uk/), who have made a lecture theatre in the basement of the Chadwich building available for us ([room B05](http://www.openstreetmap.org/?mlat=51.524&mlon=-0.133890&zoom=18&layers=M)).We will have signs up on campus guiding you to the room.
+
+As always things will kick off at 18:30, please be on time.We ask that you [register on the Lanyrd page](http://lanyrd.com/2012/geomob-may/) so that we can get aa rough idea of numbers
+
+Our lineup this time features a great set of speakers:
+
+*   Longtime London geo presence [Harry Wood](http://twitter.com/harry_wood) will talk about the work of the [Humanitarian OpenStreetMap Team](http://hot.openstreetmap.org/). 
+*   We’ll get a behind the scenes peak at the good work going at at [FixMyStreet](http://www.fixmystreet.com) from [Mark Longair](http://twitter.com/mhl20%20).
+*   [Mark Iliffe](http://twitter.com/markiliffe) continues the evening’s theme of using maps to make the world a much nicer place by telling us about [Taarifa](http://taarifa.org/).
+*   Finally we’ll close by learning of [Robin Houston](http://twitter.com/robinhouston)’s work on [CarbonMap](http://www.carbonmap.org/).
+
+As per tradition, the group will then adjourn to the nearby [Jeremy Bentham pub](http://www.beerintheevening.com/pubs/s/66/666/Jeremy_Bentham/Bloomsbury) for geobeers and reflection on the evening’s talks. The whole thing is again generoudly sponsored by Lokku, makers of [property search engine Nestoria](http://www.nestoria.com). If that makes them sound like nice people, you should know they [are hiring](http://www.lokku.com/jobs/).
+
+We look forward to seeing you at 18:30 on the 17th.

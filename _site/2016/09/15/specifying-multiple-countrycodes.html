@@ -1,0 +1,13 @@
+<p>Hi everyone,</p>
+
+<p>yesterday, at the request of a client, we rolled out a slight tweak to the optional <code class="highlighter-rouge">countrycode</code> parameter you can include in your calls to our geocoding API. Previously you could specify only a single two-letter countrycode, now you can specify a comma separated list.</p>
+
+<p>Countrycodes are <a href="https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2">ISO 3166-1 Alpha 2 codes</a>, and the “country” part of the name might be a bit confusing, as the regions represented are not necessarily countries. For historical reasons many non-country territories and regions have their own codes. This was one of the reasons for making this change. If, for example, you wanted to geocode a place-name and limit results to all territories of France you could use <code class="highlighter-rouge">countrycode=fr,bl,gf,gp,mf,mq,nc,pf,pm,re,tf,wf,yt</code> France is complicated.</p>
+
+<p>Many thanks to the client who suggested this improvement. Please keep the feedback coming.</p>
+
+<p>You can see <a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fgeocoder.opencagedata.com%2Fapi%23forward-opt&amp;t=OWQ1MTllMzc5ODllYmFjN2RjODk5MTk0NTQyYTg2MzI5NmM1NmM4NSxDSk1qZFhudg%3D%3D">all the optional parameters</a> you can use to improve your geocoding experience.</p>
+
+<p>happy geocoding,</p>
+
+<p><a href="https://twitter.com/freyfogle">Ed</a></p>

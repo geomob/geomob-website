@@ -1,0 +1,22 @@
+<p>Hello geocoders,</p>
+
+<p>we’ve just rolled out another <a href="http://geocoder.opencagedata.com/api.html#annotations">new annotation - timezones</a>. This is a feature <a href="https://trac.openstreetmap.org/ticket/4200">we’ve seen asked for several times on the nominatim request list</a>. For various reasons the nominatim team has decided it’s not a core part of the service and they’d rather not implement, which is fair enough. But we know at least some developers want it, so here it is.</p>
+
+<p>We now return the following:</p>
+
+<pre>"timezone" : {
+  "name" : "Europe/Berlin",
+  "now_in_dst" : 1,
+  "offset_sec" : 7200,
+  "offset_string" : 200,
+  "short_name" : "CEST"
+}
+</pre>
+
+<p>Hopefully this is just one of many small examples of useful tweaks we can add to make developers’ lives easier.</p>
+
+<p>Timezones and time in general is of course a fairly rich technical topic, if you want to learn more <a href="http://en.wikipedia.org/wiki/List_of_tz_database_time_zones">Wikipedia is a great place to dive in</a>. </p>
+
+<p>We welcome any and all feedback, and especially suggestions for more annotations you’d like to see. As always you can turn annotations off via the <code class="highlighter-rouge">no_annotations</code> parameter.</p>
+
+<p>Ed, posting from “Europe/Berlin”</p>
