@@ -35,7 +35,9 @@ Our speakers for the evening:
 
 * Yet another #geomob veteran, [Chris Thorpe](https://twitter.com/jaggeree), will return to reveal [Bimble](https://bimblehq.com/)
 
-* more speakers to be announced in the near future
+* [Max Stephan](https://twitter.com/GeospatialMax) shares [CityCycler](https://citycycler.cc/) with us 
+
+* one more speaker to be announced in the near future
 
 
 See you at the BCS on the 23rd of January, and looking forward to a great second decade of #geomob!
