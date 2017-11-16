@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div>
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        {% assign date_format = site.minima.date_format | default: "%-d %b %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+    {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% endif %}
+  </div>
+</div>

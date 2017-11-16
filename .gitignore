@@ -1,0 +1,12 @@
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+
+# generic temporary files
+.DS_Store
+._.DS_Store
+.*.sw?
+*#
+*~
+.#*
