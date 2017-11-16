@@ -3,8 +3,9 @@ layout: post
 title: "Sept 19th #geomob at Traveltech Lab"
 date: 2017-06-20 23:04:18 +0000
 tags: geomob 20170919 traveltechlab avuxi esplorio bubbl schedjoules illustreets
+permalink: /post/162060081955/sept-19th-geomob-at-traveltech-lab
 ---
-The next #geomob will be at 18:30 on Tuesday the 19th of September,  we’ll be back at [Traveltech Lab](http://thetrampery.com/workspaces/traveltech-lab/) by Tower Bridge, specifically at [6th Floor, 2 More London Riverside, London SE1 2RR](http://www.openstreetmap.org/?mlat=51.505232602357864&mlon=-0.08056014776229858#map=17/51.50523/-0.08056). 
+The next #geomob will be at 18:30 on Tuesday the 19th of September,  we’ll be back at [Traveltech Lab](http://thetrampery.com/workspaces/traveltech-lab/) by Tower Bridge, specifically at [6th Floor, 2 More London Riverside, London SE1 2RR](http://www.openstreetmap.org/?mlat=51.505232602357864&mlon=-0.08056014776229858#map=17/51.50523/-0.08056).
 
 Please sign up [on the Lanyrd page](http://lanyrd.com/2017/geomob-september/) so we have a sense of the numbers to expect.   
 

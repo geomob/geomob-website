@@ -3,6 +3,7 @@ layout: post
 title: "March 29th #geomob back at Geovation"
 date: 2017-02-01 11:28:08 +0000
 tags: geomob 20170329 geovation
+permalink: /post/156665928080/march-29th-geomob-back-at-geovation
 ---
 Many thanks to everyone who came out for [the first #geomob of 2017](http://geomobldn.org/post/154396358235/first-geomob-of-2017-25th-jan-at-new-venue) last week.
 

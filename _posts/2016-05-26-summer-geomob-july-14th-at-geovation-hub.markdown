@@ -3,10 +3,11 @@ layout: post
 title: "Summer #geomob - July 14th at Geovation Hub"
 date: 2016-05-26 21:38:20 +0000
 tags: 20160714 geovation
+permalink: /post/144971223060/summer-geomob-july-14th-at-geovation-hub
 ---
 Many thanks to all of you who came out to our May event, and a special congratulations to [Andrew Trigg](https://twitter.com/adtrigg) of the Land Registry who won the SplashMaps best speaker prize.
 
-![image](/images/tumblr_inline_o7swcyCmQX1rgtjbv_540.jpg)
+![image](/images/tumblr_inline_o7swcyCmQX1rgtjbv_540.jpg){: .center-image }
 
 Our summer event will take place on the evening of July 14th, I’m delighted to announce we’ll be back in Clerkenwell at the Ordnance Survey’s [Geovation Hub](https://geovation.uk/hub/). It is a great facility and we’re fortunate that they’re once again hosting us. The evening will follow the time-honoured routine: we will have five speakers, each will present to the group for 10-15 minutes then field a few questions from the audience. Afterwards we’ll vote for the best speaker and then head to the pub where the drinks are generously made possible by our sponsors: [OpenCage Data](https://geocoder.opencagedata.com/), [Knowwhere Consulting](http://knowwhereconsulting.co.uk/), [What3Words](http://what3words.com/), [iGeolise](http://www.igeolise.com/), and [Splashmaps](http://www.splash-maps.com/).
 

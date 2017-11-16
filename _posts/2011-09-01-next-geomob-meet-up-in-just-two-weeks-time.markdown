@@ -3,6 +3,7 @@ layout: post
 title: "Two weeks to the next Geomob!"
 date: 2011-09-01 13:03:00 +0000
 tags: JustMigrate
+permalink: /post/43642065239/next-geomob-meet-up-in-just-two-weeks-time
 ---
 As we mentioned some time ago, the next Geomob meeting will take place on Thursday 15th of September.
 

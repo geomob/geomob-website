@@ -3,8 +3,9 @@ layout: post
 title: "Spring #geomob - 25th of April at UCL"
 date: 2013-03-01 14:25:00 +0000
 tags: 25042013 UCL geomob
+permalink: /post/44291757142/spring-geomob-25th-of-april-at-ucl
 ---
-Fellow geomobbsters, 
+Fellow geomobbsters,
 
 <span>many thanks for the strong turn out [at our February event](http://geomobldn.org/post/43642061371/first-geomob-of-2013-7-feb-at-the-bcs). A good time was had by all. </span>
 

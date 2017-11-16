@@ -3,6 +3,7 @@ layout: post
 title: "Line up of 20 Sept #geomob"
 date: 2012-09-14 10:47:00 +0000
 tags: JustMigrate 20120920 geomob googlecampus
+permalink: /post/43642062612/line-up-of-20-sept-geomob
 ---
 Fellow geomobsters,
 

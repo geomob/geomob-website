@@ -3,6 +3,7 @@ layout: post
 title: "March 18th #geomob near Old Street"
 date: 2014-02-10 14:42:00 +0000
 tags: geomob 20140318
+permalink: /post/76219634034/march-18th-geomob-near-old-street
 ---
 Hail fellow geomobsters!
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Back at the BCS for the 7th Sept #geomob"
 date: 2016-08-01 23:35:31 +0000
-
+permalink: /post/148317905840/back-at-the-bcs-for-the-7th-sept-geomob
 ---
 Our next #geomob will see us returning to [the BCS](http://www.bcs.org/) near Covent Garden (5 Southampton Street) at 18:30 on Wednesday the 7th of September. Many thanks to them for once again generously hosting us at their excellent facilities. [Please sign up on the lanyrd page](http://lanyrd.com/2016/geomob-september/) so we can estimate numbers, you’ll also find a map to the venue on that page. 
 

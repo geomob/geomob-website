@@ -3,10 +3,11 @@ layout: post
 title: "October 25th #geomob details"
 date: 2017-09-27 10:27:33 +0000
 tags: 20171025 geomob
+permalink: /post/165790781600/october-25th-geomob-details
 ---
 Many thanks to everyone who came to our September 19th #geomob, and special congratulations to [Tim Fernando](https://twitter.com/timfernando) of [Esplorio](https://esplor.io/) who won the SplashMaps best speaker prize!
 
-![image](/images/tumblr_inline_owxm9cwSpW1rgtjbv_540.jpg)
+![image](/images/tumblr_inline_owxm9cwSpW1rgtjbv_540.jpg){: .center-image }
 
 Our final #geomob event of 2017 will be on the evening of Wednesday, 25th October. Our friends at [Geovation Hub](https://geovation.uk/hub/) have once again made their excellent facility available to us. Doors open at 18:00 and the talks will start at 18:30\. We extend a special welcome to everyone from across the UK who has made the trip to London for the AGI’s [#GeoCom17](http://www.agi.org.uk/events/calendar/geocom17) which is the following day.  
 

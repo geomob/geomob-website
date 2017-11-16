@@ -3,6 +3,7 @@ layout: post
 title: "First #geomob of 2012 - Feb 16th at UCL"
 date: 2012-01-20 22:30:00 +0000
 tags: JustMigrate
+permalink: /post/43642064127/first-geomob-of-2012-feb-16th-at-ucl-26152
 ---
 Fellow geomobbers, I digitally come before you today with good news: we’ve finalized the line up for our first event of 2012 and I believe you’ll agree that we are in for a geotreat (and I’m not just refering to the post event geobeers).
 

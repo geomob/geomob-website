@@ -3,6 +3,7 @@ layout: post
 title: "Make the 12th of May a GeoMob Day"
 date: 2011-05-03 12:07:00 +0000
 tags: JustMigrate
+permalink: /post/43642066847/update-for-our-geomob-event-on-thursday-12th
 ---
 <span style="font-family: Arial; font-size: 14px; line-height: 16px;">London is full of exciting tech events, but if you are into geo and mobile you should join us on the [12th May for Geomob](http://lanyrd.com/2011/gemob-may/). </span>
 

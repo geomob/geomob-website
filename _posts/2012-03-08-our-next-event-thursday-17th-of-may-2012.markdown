@@ -3,6 +3,7 @@ layout: post
 title: "Our next event - Thursday 17th of May, 2012"
 date: 2012-03-08 11:24:00 +0000
 tags: JustMigrate geomob
+permalink: /post/43642063754/our-next-event-thursday-17th-of-may-2012
 ---
 Fellow geomobsters,
 

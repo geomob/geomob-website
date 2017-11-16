@@ -3,6 +3,7 @@ layout: post
 title: "Details of the Nov. 2nd #geomob"
 date: 2016-09-19 10:12:38 +0000
 tags: 20161102
+permalink: /post/150628164010/details-of-the-nov-2nd-geomob
 ---
 Many thanks to one and all that came to [our September event](http://geomobldn.org/post/148317905840/back-at-the-bcs-for-the-7th-sept-geomob). The next #geomob will be 18:30 on Wednesday the 2nd of November. The good folks at [the BCS](http://www.bcs.org/) have once again agreed to host us in their facilities at 5 Southampton Street, near Covent Garden. [Please sign up on lanyrd](http://lanyrd.com/2016/geomob-november/) so we can have an idea of the numbers. 
 

@@ -1,14 +1,14 @@
---- 
+---
 layout: post
 title: "CARTO sponsors #geomob"
 date: 2017-10-17 08:51:15 +0000
-
+permalink: /post/166494375425/carto-sponsors-geomob
 ---
 Friends,
 
 I am delighted to announce that [CARTO](https://carto.com/) has become a #geomob sponsor!
 
-[![image](/images/tumblr_inline_oxyj36boLF1rgtjbv_540.png)](https://carto.com)
+[![image](/images/tumblr_inline_oxyj36boLF1rgtjbv_540.png)](https://carto.com){: .center-image }
 
 CARTO is the platform for turning location data into business outcomes.
 
@@ -16,7 +16,7 @@ Their tools make it simple for anyone - especially those without a deep GIS back
 
 Here’s a screenshot:
 
-![image](/images/tumblr_inline_oxyj59V9SK1rgtjbv_540.png)
+![image](/images/tumblr_inline_oxyj59V9SK1rgtjbv_540.png){: .center-image }
 
 This is an exciting development not just because CARTO is a great geo brand, building amazing tools, but also because they first presented at #geomob back in September of 2012\. Since then the business has grown significantly, with offices in the UK, Spain, Estonia, and the US (East and West Coast). It is a great #geomob success story. They are [hiring for numerous roles](https://carto.com/careers/). You can learn more about CARTO and their products [on their site](https://carto.com), or by [following @CARTO](https://twitter.com/CARTO) on twitter.
 

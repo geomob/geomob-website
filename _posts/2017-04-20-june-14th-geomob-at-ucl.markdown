@@ -3,8 +3,9 @@ layout: post
 title: "June 14th - #geomob at UCL"
 date: 2017-04-20 15:56:41 +0000
 tags: geomob 20170614 thankyouUCL
+permalink: /post/159791260180/june-14th-geomob-at-ucl
 ---
-Fellow geo-enthusiasts, 
+Fellow geo-enthusiasts,
 
 the next #geomob will be Wednesday the 14th of June at 18:30\. Thanks to the generosity of our long-time supporter [Muki Haklay](https://twitter.com/mhaklay), we’ll again be back in Pearson Lecture Theatre at UCL.
 

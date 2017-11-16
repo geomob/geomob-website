@@ -3,6 +3,7 @@ layout: post
 title: "September 30th #geomob details"
 date: 2015-08-24 23:23:48 +0000
 tags: geomob 20150930 thankyouUCL
+permalink: /post/127508264290/september-30th-geomob-details
 ---
 Fellow geomobsters,
 

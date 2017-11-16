@@ -3,6 +3,7 @@ layout: post
 title: "First #geomob of 2017 - 25th Jan at new venue"
 date: 2016-12-13 00:45:11 +0000
 tags: geomob 20170125
+permalink: /post/154396358235/first-geomob-of-2017-25th-jan-at-new-venue
 ---
 Friends,
 

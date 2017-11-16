@@ -3,12 +3,13 @@ layout: post
 title: "Welcome new #geomob sponsor what3words!"
 date: 2015-01-26 20:34:34 +0000
 tags: Sponsorship what3words
+permalink: /post/109224046990/welcome-new-geomob-sponsor-what3words
 ---
 Great news geomobbers, [what3words](http://what3words.com/) is joining us as a sponsor!  
 
 For those that don’t know what3words is a new, simpler way to communicate location. In true #geomob spirit what3words is not only an innovative geo idea trying to change the world, but also it was invented in London.
 
-![](/images/tumblr_inline_nisty3pLLQ1rgtjbv.png)
+![](/images/tumblr_inline_nisty3pLLQ1rgtjbv.png){: .center-image }
 
 Most pleasing for me is that the business has made the transition from #geomob speaker to sponsor: CEO and founder Chris Sheldrick was one of our speakers last May ([you can see all past](http://geomobldn.org/past-speakers) [speakers here](http://geomobldn.org/past-speakers)).  
 

@@ -3,6 +3,7 @@ layout: post
 title: "May 18th #geomob Details"
 date: 2016-04-20 12:02:16 +0000
 tags: 20160518
+permalink: /post/143107825400/may-18th-geomob-details
 ---
 Geofriends,
 

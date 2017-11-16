@@ -3,6 +3,7 @@ layout: post
 title: "Autumn #geomob - Tuesday, 29th of October at UCL"
 date: 2013-09-26 12:20:00 +0000
 tags: geomob 20131029
+permalink: /post/62323396116/autumn-geomob-tuesday-29th-of-october-at-ucl
 ---
 Geomobsters,
 

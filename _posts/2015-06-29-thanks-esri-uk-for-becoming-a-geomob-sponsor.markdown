@@ -3,6 +3,7 @@ layout: post
 title: "Thanks Esri UK for becoming a #geomob sponsor"
 date: 2015-06-29 11:24:54 +0000
 tags: sponsorship esriuk
+permalink: /post/122756697890/thanks-esri-uk-for-becoming-a-geomob-sponsor
 ---
 Fellow geoenthusiasts,
 
@@ -10,7 +11,7 @@ I’m delighted to write that [Esri UK](http://www.esriuk.com/) has joined the #
 
 Of particular interest to the #geomob crew might be the  [Esri Startup Program](https://developers.arcgis.com/en/startups/), which is a three year program to help emerging businesses. Please check it out.
 
-![image](/images/tumblr_inline_nqr27lGKZK1rgtjbv_540.png)
+![image](/images/tumblr_inline_nqr27lGKZK1rgtjbv_540.png){: .center-image }
 
 Past #geomob speaker and Esri UK developer evangelist [James Milner](https://twitter.com/JamesLMilner) will be on hand at our next event ([at 18:30 July 15th at the BCS, see you there](http://geomobldn.org/post/120609751325/july-15th-geomob-lineup)), to answer any and all Esri questions, and hopefully there will also be a strong turn out from his colleagues. If that’s just too long to wait I encourage you to start following [@esriuk](https://twitter.com/esriuk) on twitter to learn more. 
 

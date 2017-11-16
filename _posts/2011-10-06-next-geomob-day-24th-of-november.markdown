@@ -3,6 +3,7 @@ layout: post
 title: "Another Geomob before Christmas? Sure, 24th of November..."
 date: 2011-10-06 14:02:00 +0000
 tags: JustMigrate
+permalink: /post/43642064870/next-geomob-day-24th-of-november
 ---
 We typically run Geomob events every three months or so. But following a lot of interest from the speakers, we thought to squeeze one more in, before the year is out.
 

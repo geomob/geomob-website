@@ -3,6 +3,7 @@ layout: post
 title: "Geomob October 2010 - Thank you!"
 date: 2010-10-22 15:02:00 +0000
 tags: JustMigrate events geomob
+permalink: /post/43642069076/geomob-october-2010-thank-you
 ---
 Following a successful event yesterday, we would like to say big thank you to all Geomob October 2010 [speakers](http://twitter.com/#!/geomob/geomob-oct-10-speakers "Geomob October 2010 Speakers") and [attendees](http://lanyrd.com/2010/geomob-october/attendees/ "Geomob 2010 Attendees").
 

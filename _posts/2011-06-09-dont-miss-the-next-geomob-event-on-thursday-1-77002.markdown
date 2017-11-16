@@ -3,6 +3,7 @@ layout: post
 title: "Next Geomob - Thursday, 15th of September!"
 date: 2011-06-09 14:30:00 +0000
 tags: JustMigrate
+permalink: /post/43642065588/dont-miss-the-next-geomob-event-on-thursday-1-77002
 ---
 We know it’s still six weeks away, but you should mark your diary to not miss the great line up of speakers.
 

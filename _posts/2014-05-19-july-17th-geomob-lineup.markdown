@@ -3,6 +3,7 @@ layout: post
 title: "July 17th #geomob lineup "
 date: 2014-05-19 16:12:00 +0000
 tags: geomob 20140717
+permalink: /post/86215066805/july-17th-geomob-lineup
 ---
 We’ve now nailed down the lineup of the July 17th #geomob. I’m pleased to report the evening (as per tradition we will kick off at 18:30, please do your best to be on time) will feature:
 

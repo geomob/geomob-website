@@ -3,6 +3,7 @@ layout: post
 title: "September 16th #geomob details"
 date: 2014-07-22 21:38:00 +0000
 tags: geomob 20140916
+permalink: /post/92562019930/september-16th-geomob-details
 ---
 I’m pleased to announce a fantastic lineup for our next #geomob  
 to be held at 18:30 on Tuesday the 16th of September at the facilities of [the BCS](http://www.bcs.org/) at 5 Southampton Street near Covent Garden. We’ve had occasional #geomobs at the BCS in the past, they are generous hosts, and I am pleased to announce they are now our formal location sponsor! We will continue to have events elsewhere but will now be spending more time at the BCS. Many thanks to them for their generosity. If you are not yet a member of the BCS I encourage you to have a look at their offering.

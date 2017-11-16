@@ -3,6 +3,7 @@ layout: post
 title: "Lineup and details for the Nov 4th #geomob"
 date: 2014-09-20 23:11:00 +0000
 tags: geomob 20141104
+permalink: /post/98001859550/lineup-and-details-for-the-nov-4th-geomob
 ---
 The details are now clear for the next #geomob which will take place at 18:30 on Tuesday the 4th of November. We’ll once again be at the BCS at 5 Southampton Street near Covent Garden, many thanks to them for their continued support. Please [sign up on Lanyrd](http://lanyrd.com/2014/geomob-nov/) so we have a sense of the numbers to expect.
 

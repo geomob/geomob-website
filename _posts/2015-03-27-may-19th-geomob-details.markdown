@@ -3,6 +3,7 @@ layout: post
 title: "May 19th #geomob Details"
 date: 2015-03-27 00:44:42 +0000
 tags: geomob 20150519 clerkenwell ordnancesurveyhub
+permalink: /post/114709761080/may-19th-geomob-details
 ---
 Great news geomobsters: Ordnance Survey is [opening a new innovation hub in Clerkenwell](http://www.ordnancesurvey.co.uk/innovate/hub/index.html). Even better news - our next #geomob will be held there! I look forward to seeing you all there at 18:30 on the evening of Tuesday, May 19th. While the venue will be new, our format for the evening will be the time-tested norm; 6 speakers will each have 10-15 minutes to present their slides and answer a few questions from the audience. Afterwards we will retire to a nearby pub to discuss. 
 

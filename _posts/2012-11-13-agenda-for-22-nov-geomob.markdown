@@ -2,7 +2,8 @@
 layout: post
 title: "Agenda for 22 Nov #geomob"
 date: 2012-11-13 13:44:00 +0000
-tags: JustMigrate geomob 20121122
+tags: geomob 20121122
+permalink: /post/43642061742/agenda-for-22-nov-geomob
 ---
 Fellow geomobbsters,
 

@@ -3,6 +3,7 @@ layout: post
 title: "What are you up to on Thursday, 10th of February? "
 date: 2011-01-13 13:53:00 +0000
 tags: JustMigrate
+permalink: /post/43642068755/what-are-you-up-to-10th-of-february
 ---
 Why, attending the next Geomob of course!
 

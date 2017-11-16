@@ -3,6 +3,7 @@ layout: post
 title: "First #geomob of 2014 - Tuesday 14th Jan 18:30"
 date: 2013-10-30 17:07:48 +0000
 tags: 20140114 geomob
+permalink: /post/65529756180/first-geomob-of-2014-tuesday-14th-jan-1830
 ---
 Many thanks to everyone who came to [last night’s event](http://geomobldn.org/post/62323396116/autumn-geomob-tuesday-29th-of-october-at-ucl). It was one of our best geomobs yet, with six great speakers and a large audience of regulars and also many new faces. As always many thanks to the great folks at UCL who made a venue available for us. 
 
@@ -23,12 +24,12 @@ I hope you agree it has all appearances of a great evening, we hope to see you t
 
 One final note, if you’re worried January is a long time to go without a geofix, our good friends at [OSMLondon](https://twitter.com/OSMLondon) have put together a [nice list of London winter geoevents](http://wiki.openstreetmap.org/wiki/London/Winter_2013-2014_events). 
 
-See you all in January! Until then I close with a few pictures from last nights event taken by [Alex Balhatchet](https://twitter.com/kaokun). 
+See you all in January! Until then I close with a few pictures from last nights event taken by [Alex Balhatchet](https://twitter.com/kaokun).
 
-![](/images/tumblr_inline_mvhok7ogDy1rgtjbv.jpg)
+![](/images/tumblr_inline_mvhok7ogDy1rgtjbv.jpg){: .center-image }
 
 [Dimi Sztanko](https://twitter.com/sztanko) shows off his new creation [walks.io](http://walks.io/)
 
-![](/images/tumblr_inline_mvhommV4y41rgtjbv.jpg)
+![](/images/tumblr_inline_mvhommV4y41rgtjbv.jpg){: .center-image }
 
 [David Overton](https://twitter.com/dbyhundred) updates us on the progress of [SplashMaps](http://www.splashmaps.net/)

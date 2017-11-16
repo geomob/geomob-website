@@ -3,8 +3,9 @@ layout: post
 title: "Date set for October #geomob"
 date: 2013-07-22 11:58:55 +0000
 tags: geomob 20131029
+permalink: /post/56136912977/date-set-for-october-geomob
 ---
-Hail fellow geomobsters, 
+Hail fellow geomobsters,
 
 many thanks to everyone who made it to our July event, especially the speakers, our hosts Google, and the sponsors. Several of the speakers have posted their slides, you can find links in the [geomob twitter stream](https://twitter.com/geomob). 
 

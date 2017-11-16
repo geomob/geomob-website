@@ -3,6 +3,7 @@ layout: post
 title: "Geomob May '11 - Bing, Eeve, CASA..."
 date: 2011-05-16 18:14:00 +0000
 tags: JustMigrate geo geomob mobile
+permalink: /post/43642066332/geomob-may-11-bing-eeve-casa
 ---
 Once again, Geomob community did not disappoint.
 

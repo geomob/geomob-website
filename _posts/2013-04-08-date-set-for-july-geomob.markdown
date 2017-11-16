@@ -3,6 +3,7 @@ layout: post
 title: "Date set for July #geomob"
 date: 2013-04-08 22:05:09 +0000
 tags: geomob 20130711
+permalink: /post/47481139743/date-set-for-july-geomob
 ---
 Fellow geomobsters,
 

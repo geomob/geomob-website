@@ -3,6 +3,7 @@ layout: post
 title: "october geomob event"
 date: 2010-09-22 17:32:00 +0000
 tags: JustMigrate
+permalink: /post/43642070092/october-geomob-event
 ---
 **DATE**
 
@@ -105,10 +106,6 @@ Geobeers will be had at the [Jeremy Bentham pub](http://www.beerintheevening.com
 
 <span style="">[Cloudmade](http://www.cloudmade.com/)</span>
 
- <span style=""></span> 
-
 **THANK YOU TO THE [UCL GEOGRAPHY DEPARTMENT](http://www.geog.ucl.ac.uk%20) FOR HOSTING THE EVENT**
-
- **<span style="font-weight: normal;"></span>** 
 
 see you there!

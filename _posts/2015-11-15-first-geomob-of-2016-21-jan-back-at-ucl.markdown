@@ -3,6 +3,7 @@ layout: post
 title: "First #geomob of 2016 - 21 Jan back at UCL"
 date: 2015-11-15 16:18:39 +0000
 tags: geomob 20160121 thankyouUCL
+permalink: /post/133268214275/first-geomob-of-2016-21-jan-back-at-ucl
 ---
 Fellow geomobsters,
 

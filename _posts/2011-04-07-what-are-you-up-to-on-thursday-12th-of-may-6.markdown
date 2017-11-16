@@ -3,10 +3,9 @@ layout: post
 title: "Are you attending the next GeoMob event on Thursday, 12th of May?"
 date: 2011-04-07 11:32:00 +0000
 tags: JustMigrate
+permalink: /post/43642067309/what-are-you-up-to-on-thursday-12th-of-may-6
 ---
-<span style="color: #8e8e8e; font-family: Helvetica, Arial, sans-serif; font-size: small;"><span style="font-size: 11px;">     </span></span><span style="font-family: Segoe UI, Myriad Pro, Helvetica, Arial; font-size: 14px; line-height: 21px;">If not then you should be.</span>
-
-<div class="post" style="padding-top: 0px; padding-right: 15px; padding-bottom: 0px; padding-left: 15px; margin-top: 0px; margin-right: 0px; margin-bottom: 15px; margin-left: 0px; font-family: Segoe UI, Myriad Pro, Helvetica, Arial; font-size: 14px; line-height: 1.5em;">
+If not then you should be.
 
 We have a [brilliant line up of speakers](http://lanyrd.com/2011/gemob-may/) who are all innovating in the field of geo location. So, here are the details, with more to follow soon.
 
@@ -40,12 +39,5 @@ We would like to give a big thanks to the UCL Department of Civil, Environmental
 
 **PLEASE SIGN UP AS “ATTENDING” for this event on [lanyrd](http://lanyrd.com/2011/gemob-may/)**
 
-<div style="padding-top: 5px; padding-right: 0px; padding-bottom: 5px; padding-left: 0px; font-family: Segoe UI, Myriad Pro, Helvetica, Arial; font-size: 14px; line-height: 1.5em; margin: 0px;">
-
 **Follow [@geomob](http://twitter.com/geomob "geomob on twitter") on Twitter**
 
- **<span style="font-family: Verdana; font-size: small;"><span style="font-size: 12px; font-weight: normal; line-height: 16px;"></span></span>** 
-
-</div>
-
-</div>

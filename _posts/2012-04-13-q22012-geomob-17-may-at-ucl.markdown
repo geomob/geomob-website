@@ -3,6 +3,7 @@ layout: post
 title: "Q22012 #geomob  - 17 May at UCL"
 date: 2012-04-13 09:40:00 +0000
 tags: JustMigrate 20120517 geomob
+permalink: /post/43642063357/q22012-geomob-17-may-at-ucl
 ---
 Fellow geomobsters,
 

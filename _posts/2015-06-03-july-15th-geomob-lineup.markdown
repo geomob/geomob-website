@@ -3,10 +3,11 @@ layout: post
 title: "July 15th #geomob lineup"
 date: 2015-06-03 14:37:05 +0000
 tags: geomob 20150715
+permalink: /post/120609751325/july-15th-geomob-lineup
 ---
 Many thanks to everyone who joined us on the 19th of May, and a special  congratulations to [Jerry Clough](https://twitter.com/SK53onOSM) who took home the SplashMaps best speaker prize. Here’s a picture of Jerry going his talk (photo credits to [Harry Wood](https://www.flickr.com/photos/harrywood/18071657196/in/photolist-twVY5u-qxbkSY-sCrhvV-tyYcYS-tzmLut-twVXhY-sCfMaS-thFKyU-rNVoqz-rNNBuw-rwkqt9-ruAGLF-rwt1BM-rLCryW-qxatBA-qPJA4i-pSXBd4-pyujYe-pwrVbS-pgZnY1-pyujHV-pyujDg-pydaBg-pwrUVS-pgYt5V-fb2w6r-fb2vZz-nCkh4B-njTixp-njT9AQ-nB5UyT-nkQQW6-nzk3E1-njTayu-nB5Utc-njTapm-h8HCVq-f7yjcg-fbgLGd-fb2vWv-fb2vSX-dTg55w-dTarVF-dTg54m-dTarQD-dTg52W-dTg4YG-dTarMz-dvELsb-dvELqC)):
 
-![](/images/tumblr_inline_npdf3fbH7g1rgtjbv_540.png)
+![](/images/tumblr_inline_npdf3fbH7g1rgtjbv_540.png){: .center-image }
 
 The next #geomob will be on the 15th of July. We’re fortunate to once again  rely on the generosity of the BCS to host us at their excellent facilities near Covent Garden. Please [sign up on the lanyrd page](http://lanyrd.com/2015/geomob-july/) so we can estimate the numbers.
 

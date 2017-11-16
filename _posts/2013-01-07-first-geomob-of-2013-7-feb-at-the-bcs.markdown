@@ -3,6 +3,7 @@ layout: post
 title: "First #geomob of 2013 - 7 Feb at the BCS"
 date: 2013-01-07 11:52:00 +0000
 tags: JustMigrate geomob 20130207
+permalink: /post/43642061371/first-geomob-of-2013-7-feb-at-the-bcs
 ---
 Happy New Year geomobbsters!
 

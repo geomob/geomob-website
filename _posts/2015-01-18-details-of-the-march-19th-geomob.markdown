@@ -3,6 +3,7 @@ layout: post
 title: "Details of the March 19th #geomob"
 date: 2015-01-18 23:00:00 +0000
 tags: geomob 20150319 geobeers googlecampus
+permalink: /post/108481526085/details-of-the-march-19th-geomob
 ---
 After a [strong start to 2015](http://geomobldn.org/post/108249155865/2015-starts-off-well), we’ll be doing the best to keep the momentum going at our next event, which will take place at 18:30 on Thursday, the 19th of March. We’ll be back at the 3rd floor of [Campus near Old Street](https://www.campuslondon.com/), many thanks to the good folks there for once again hosting us. As always we ask you to sign up [on the lanyrd page for the event](http://lanyrd.com/2015/geomob-march/) (where you can also find a map to the venue) so we can get a sense of the numbers.
 

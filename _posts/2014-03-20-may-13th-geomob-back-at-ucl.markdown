@@ -3,18 +3,19 @@ layout: post
 title: "May 13th #geomob - back at UCL"
 date: 2014-03-20 19:07:00 +0000
 tags: geomob 20140513
+permalink: /post/80179728883/may-13th-geomob-back-at-ucl
 ---
 Nice work everyone, this week’s #geomob at Campus was our biggest yet, this shot captures only about half the audience. 
 
-![image](/images/tumblr_inline_n2qwalSiy21rgtjbv.jpg)
+![image](/images/tumblr_inline_n2qwalSiy21rgtjbv.jpg){: .center-image }
 
 My thanks to all six of our speakers. [Benjamin Hennig](https://twitter.com/geoviews) has posted an [overview of his talk](http://www.viewsoftheworld.net/?p=3978). As the other speakers make their slides public we will tweet the URLs from [the geomob account](https://twitter.com/geomob) (which you all no doubt follow).
 
 The quality of the talks over the course of the evening was a testament to the wide variety of geo-innovation happening in and around London. Against tough competition [Jason Davies](https://twitter.com/jasondavies) was able to win the crowd over with his talk about D3 and thus became the first winner of the coveted best speaker prize: [a custom SplashMap](http://www.splashmaps.net/shop/make-map/). Well done Jason! We look forward to carrying on the best speaker SplashMap tradition at all future #geomobs. Here’s a picture of SplashMaps CEO (and former two-time #geomob speaker!) [David Overton](https://twitter.com/dbyhundred) congratulating Jason on his victory. 
 
-<span>![image](/images/tumblr_inline_n2qwoaRAya1rgtjbv.jpg)</span>
+![image](/images/tumblr_inline_n2qwoaRAya1rgtjbv.jpg){: .center-image }
 
-<span>I am pleased that we’re already able to announce a great lineup for our next event. On Tuesday the 13th of May at 18:30 we’ll return to Pearson Lecture Theatre at UCL.  Exact details, including a map, can be found on</span> [the Lanyrd page for the evening](http://lanyrd.com/2014/geomob-may/)<span>, where we ask you to sign up so we can estimate the audience size.  </span>
+I am pleased that we’re already able to announce a great lineup for our next event. On Tuesday the 13th of May at 18:30 we’ll return to Pearson Lecture Theatre at UCL.  Exact details, including a map, can be found on [the Lanyrd page for the evening](http://lanyrd.com/2014/geomob-may/), where we ask you to sign up so we can estimate the audience size. 
 
 The agenda for the evening will feature 10-15 minute talks from:
 

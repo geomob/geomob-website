@@ -3,6 +3,7 @@ layout: post
 title: "Q32012 #geomob - 20 Sept at Google Campus / Old Street"
 date: 2012-06-18 16:58:00 +0000
 tags: JustMigrate
+permalink: /post/43642062972/q32012-geomob-20-sept-at-google-campus-old-st-5056
 ---
 Geomobsters,
 

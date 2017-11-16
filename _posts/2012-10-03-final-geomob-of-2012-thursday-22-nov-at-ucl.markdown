@@ -2,7 +2,8 @@
 layout: post
 title: "Final #geomob of 2012 - Thursday 22 Nov at UCL"
 date: 2012-10-03 10:23:00 +0000
-tags: JustMigrate geomob 20121022 UCL
+tags: geomob 20121022 UCL
+permalink: /post/43642062094/final-geomob-of-2012-thursday-22-nov-at-ucl
 ---
 Geomobbers,
 
