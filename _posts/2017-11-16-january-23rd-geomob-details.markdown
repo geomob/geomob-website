@@ -27,7 +27,9 @@ Our format will be the same as ever: after a few very brief announcements we wil
 
 Our speakers for the evening:
 
-* [Steven Feldman](https://twitter.com/StevenFeldman) will give us a condensed version of his much heralded "FAKE MAPS! very dishonest" talk, originally presented at FOSS4G 2017.
+* [Max Stephan](https://twitter.com/GeospatialMax) will share [CityCycler](https://citycycler.cc/) with us
+
+* next we'll here from [Olivia Mather](https://www.linkedin.com/in/olivia-mather-4b64a2141/) of [OpenSensors](https://opensensors.com)
 
 * [Isambard Poulson](https://twitter.com/ipoulson) will tell us about [huq](https://huq.io)
 
@@ -35,11 +37,9 @@ Our speakers for the evening:
 
 * Yet another #geomob veteran, [Chris Thorpe](https://twitter.com/jaggeree), will return to reveal [Bimble](https://bimblehq.com/)
 
-* [Max Stephan](https://twitter.com/GeospatialMax) shares [CityCycler](https://citycycler.cc/) with us 
+* and finally, [Steven Feldman](https://twitter.com/StevenFeldman) will give us a condensed version of his much heralded "FAKE MAPS! very dishonest" talk, originally presented at FOSS4G 2017.
 
-* one more speaker to be announced in the near future
-
-
-See you at the BCS on the 23rd of January, and looking forward to a great second decade of #geomob!
+See you at the BCS on the 23rd of January, and looking forward to a great
+second decade of #geomob!
 
 [Ed](https://twitter.com/freyfogle)
