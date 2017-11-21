@@ -15,7 +15,7 @@ Many thanks to all who have helped make it happen.
 We'll enter our second decade with an event at 18:30 on the evening of Tuesday,
 23rd of January, 2018. We're fortunate to be able to once again call upon the
 generous hospitality of our good friends at
-[the BCS](http://geospatial.bcs.org/lisg/)
+[the BCS](http://geospatial.bcs.org/lisg/).
 
 [![image](/images/bcs.png)](http://www.bcs.org/){: .center-image }
 
