@@ -29,7 +29,7 @@ Our speakers for the evening:
 
 * [Max Stephan](https://twitter.com/GeospatialMax) will share [CityCycler](https://citycycler.cc/) with us
 
-* next we'll here from [Olivia Mather](https://www.linkedin.com/in/olivia-mather-4b64a2141/) of [OpenSensors](https://opensensors.com)
+* next we'll hear from [Olivia Mather](https://www.linkedin.com/in/olivia-mather-4b64a2141/) of [OpenSensors](https://opensensors.com)
 
 * [Isambard Poulson](https://twitter.com/ipoulson) will tell us about [huq](https://huq.io)
 
