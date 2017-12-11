@@ -35,8 +35,6 @@ Our speakers for the evening:
 
 * #geomob veteran [Nina Tumanishvili](https://twitter.com/ninachinoo) returns to present [TubeChat App](https://itunes.apple.com/gb/app/tubechat/id1231933096?mt=8)
 
-* Yet another #geomob veteran, [Chris Thorpe](https://twitter.com/jaggeree), will return to reveal [Bimble](https://bimblehq.com/)
-
 * and finally, [Steven Feldman](https://twitter.com/StevenFeldman) will give us a condensed version of his much heralded "FAKE MAPS! very dishonest" talk, originally presented at FOSS4G 2017.
 
 See you at the BCS on the 23rd of January, and looking forward to a great
