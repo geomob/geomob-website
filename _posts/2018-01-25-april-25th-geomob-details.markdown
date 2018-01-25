@@ -8,8 +8,8 @@ permalink: /post/april-25th-geomob-details
 
 Many thanks to everyone who joined us on the 23rd of January for our 
 first #geomob of the year. I enjoyed the evening very much and hope you did 
-as well. A special congratulations to Nina Tumanishvili and Steven Feldman, our
- first ever joint SplashMaps best speaker winners.
+as well. A special congratulations to [Nina Tumanishvili](https://twitter.com/ninachinoo) and [Steven Feldman](https://twitter.com/StevenFeldman), our
+ first ever joint SplashMaps best speaker winners (see the [full list of all past winners](http://geomobldn.org/past-speakers))!
 
 ![image](/images/nina-and-steven.jpg){: .center-image }
 
