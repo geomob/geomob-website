@@ -29,7 +29,7 @@ Our speakers on the evening of the 25th will be:
 
 * [Eriol Fox](https://twitter.com/EriolDoesDesign) of [Ushahidi](https://www.ushahidi.com)
 
-* [Jilliam Kowalchuk](https://twitter.com/kowalchuk_jill) of [Safe and the City](https://safeandthecity)
+* [Jilliam Kowalchuk](https://twitter.com/kowalchuk_jill) of [Safe and the City](https://www.safeandthecity.com)
 
 * [Adam Hoyle](https://twitter.com/adamhoyle) of [OSM UK](https://osmuk.org)
 
