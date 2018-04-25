@@ -23,13 +23,13 @@ Our format will be the same as ever: after a few very brief announcements we wil
 
 Our speakers on the evening of the 25th will be:
 
-* [Hana Sutch](https://twitter.com/SutchFun), co-founder of [Go Jauntly](https://twitter.com/gojauntly)
+* [Ricardo Varela](https://twitter.com/phobeo) of [Localistico](http://localistico.com) 
 
 * [Tim Marston](https://twitter.com/timmarston) of [CARTO](https://carto.com)
 
 * [Eriol Fox](https://twitter.com/EriolDoesDesign) of [Ushahidi](https://www.ushahidi.com)
 
-* [Ricardo Varela](https://twitter.com/phobeo) of [Localistico](http://localistico.com) 
+* [Jilliam Kowalchuk](https://twitter.com/kowalchuk_jill) of [Safe and the City](https://safeandthecity)
 
 * [Adam Hoyle](https://twitter.com/adamhoyle) of [OSM UK](https://osmuk.org)
 
