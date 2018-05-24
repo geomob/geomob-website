@@ -22,6 +22,8 @@ Our speakers on the evening of the 6th will be:
 
 * [Meha Nelson](https://www.linkedin.com/in/meha-nelson-5a0b7a27/), co-founder of [Predina](https://predina.com)
 
+* [Dan Artus](https://twitter.com/DanOfArtus) of the [Extreme Citizen Science group at UCL](http://www.ucl.ac.uk/excites)
+
 * [Chris Hildrey](http://cargocollective.com/chrishildrey) of [ProxyAddress](http://www.proxyaddress.co.uk/)
 
 * [Hana Sutch](https://twitter.com/SutchFun) of [Go Jauntly](https://www.gojauntly.com/) 
