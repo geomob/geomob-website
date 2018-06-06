@@ -18,8 +18,6 @@ Our format will be the same as ever: after a few very brief announcements we wil
 
 Our speakers on the evening of the 6th will be:
 
-* [Charley Glynn](https://twitter.com/charley_glynn), of the Ordnance Survey, discussing the [OS Open Data Format Trial](http://data-format-trial-osonline.opendata.arcgis.com/)
-
 * [Meha Nelson](https://www.linkedin.com/in/meha-nelson-5a0b7a27/), co-founder of [Predina](http://predina.com)
 
 * [Dan Artus](https://twitter.com/DanOfArtus) of the [Extreme Citizen Science group at UCL](http://www.ucl.ac.uk/excites)
