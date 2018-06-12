@@ -37,13 +37,15 @@ Our speakers on the evening of the 6th will be:
 
 * [Damian Kysely](https://twitter.com/DamianKys), co-founder of [Skyscape](http://skyscape.global)
 
-* [Gary Gale](https://twitter.com/vicchi), talking about his secret geo side project
+* [Gary Gale](https://twitter.com/vicchi), talking about [Who's on First](https://whosonfirst.org/)
 
 * [Charley Glynn](https://twitter.com/charley_glynn), of the Ordnance Survey, discussing the [OS Open Data Format Trial](http://data-format-trial-osonline.opendata.arcgis.com/)
 
 * [Kenneth Field](https://twitter.com/kennethfield) will present a 'suitably irreverent look at something cartographic'
 
-* and more to be announced 
+* [David Piesse](https://twitter.com/mapdev) will show us [MapBoard](https://mapboard.app)
+
+* and hopefully one more to be announced shortly
 
 One final thing to note, this #geomob will be but one of many events taking 
 place as part of the [UK Mapping Festival 2018](http://events.verisk.com/events/uk-mapping-festival-2018/event-summary-67f99cfd6a43404383d2a00346b708e1.aspx), a weeklong series of events celebrating the great diversity of interesting geo
