@@ -19,7 +19,7 @@ _Geomob is a fantastic network which consistently showcases the scope and innova
 
 It is always a pleasure to watch a team make the transition from a few people with an idea, to launching their first product, to becoming a growing business (BTW - [Flock is hiring](https://flockcover.workable.com/)!) and giving back to the geo community. Thank you, Flock!
 
-Flock joins our other sponsors: [CARTO](https://carto.com), [KnowWhere Consulting](https://knowwhereconsulting.co.uk), [OpenCage Data](https://geocoder.opencagedata.com), [SplashMaps](http://www.splash-maps.com) - many thanks to all for helping support geo-innovation in London. And, in more good news, we have another new sponsor we'll be announcing shortly. Please get in touch [if your brand would like to sponsor](/sponsorship) #geomob.
+Flock joins our other sponsors: [CARTO](https://carto.com), [KnowWhere Consulting](https://knowwhereconsulting.co.uk), [OpenCage Data](https://opencagedata.com), [SplashMaps](http://www.splash-maps.com) - many thanks to all for helping support geo-innovation in London. And, in more good news, we have another new sponsor we'll be announcing shortly. Please get in touch [if your brand would like to sponsor](/sponsorship) #geomob.
 
 I look forward to seeing the Flock team, and everyone else, at [our next event on the 6th of September](/post/sept-6th-2018-geomob-details),
 
