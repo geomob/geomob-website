@@ -37,3 +37,5 @@ Many thanks to Esri in general and specifically to Esri UK developer relations m
 Until then I wish you all a geotastic summer, 
 
 [Ed](https://twitter.com/freyfogle)
+
+BTW - is your company interested in [sponsoring London geo-innovation](/sponsorship)? If so, please get in touch. 
