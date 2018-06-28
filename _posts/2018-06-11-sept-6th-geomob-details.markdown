@@ -16,7 +16,7 @@ all of our speakers and attendees for an enjoyable evening.
 ![image](/images/chris-201806.jpg){: .center-image }
 
 After a bit of a summer break our next #geomob will be on Thursday the 
-6th of September.
+6th of September, at 18:30.
 Our good friends at [Geovation Hub](https://geovation.uk/hub/ )have agreed to host us at their impressive new venue (_[Sutton Yard, 65 Goswell Rd, London EC1V 7EN](https://www.openstreetmap.org/#map=19/51.52435/-0.09975)_).
 
 While the venue will be new, our tried and tested format will not change: after a few very brief announcements we will have a mix of speakers, each presenting for ten to fifteen minutes and then facing two or three questions. At the end we will vote by show of hands for the best speaker. The winner will receive a SplashMap and unending glory (see the [full list of all past winners](http://geomobldn.org/past-speakers)). 
