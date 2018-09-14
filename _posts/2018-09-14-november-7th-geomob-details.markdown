@@ -22,9 +22,14 @@ geo cheeseboard. Thank you Kenneth!
 ![image](/images/geocheese.jpg){: .center-image }
 
 
-Our next #geomob will be on Wednesday the 7th of November, at 18:30 (as always). 
-The venue has not yet been finalized, but we will be in central London. Details
-will be posted here shortly. 
+Our next #geomob will be on Wednesday the 7th of November, at 18:30 (as always).
+
+Once again long time #geomob supporter
+[Muki Hakley](https://twitter.com/mhaklay) of
+[UCL's ExCiteS research group](https://www.ucl.ac.uk/excites)
+has made it possible for us
+to use the excellent facilities of UCL. We will be back in the
+[G22 Lecture Theatre in the Pearson Building](https://www.ucl.ac.uk/maps/pearson). 
 
 Our format for the evening will be as it always was: after a few very brief announcements we will have a mix of speakers, each presenting for ten to fifteen minutes and then facing two or three questions. At the end we will vote by show of hands for the best speaker. The winner will receive a SplashMap and unending glory (see the [full list of all past winners](http://geomobldn.org/past-speakers)). 
 
@@ -54,6 +59,6 @@ Our speakers on the evening of the 7th will be:
 
 * and hopefully one more to be announced shortly
 
-I look forward to see you on the 7th of November,
+I look forward to seeing you at UCL on the 7th of November,
 
 [Ed](https://twitter.com/freyfogle)
