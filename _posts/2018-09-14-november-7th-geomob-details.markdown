@@ -46,7 +46,7 @@ Thank you sponsors!
 Our speakers on the evening of the 7th will be:
 
 
-*  [Leigh Doods](https://twitter.com/ldodds) of [the Open Data Institute](https://theodi.org/) speaking about "how can we support the publication and use of more open geospatial data"
+*  [Leigh Dodds](https://twitter.com/ldodds) of [the Open Data Institute](https://theodi.org/) speaking about "how can we support the publication and use of more open geospatial data"
 
 *  [Marc Tobias Metten](https://twitter.com/mtmthemovie) will be discussing the
    OpenStreetMap geocoder project [nominatim](https://nominatim.openstreetmap.org/)
