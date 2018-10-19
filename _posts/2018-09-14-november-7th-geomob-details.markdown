@@ -57,7 +57,7 @@ Our speakers on the evening of the 7th will be:
 
 *  [Chris Hunt](https://twitter.com/thisisthechris) of [Controlled Frenzy](https://www.controlledfrenzy.co.uk/), will tell us about [The Common Line](https://thecommonline.uk/map/)
 
-*  [David Heyman](https://twitter.com/davidheyman) will tell us about PilotPlan and using vector tiles as a geospatial server
+*  [David Heyman](https://twitter.com/davidheyman) will tell us about [PilotPlan](https://pilotplan.org) and using vector tiles as a geospatial server
 
 I look forward to seeing you at UCL on the 7th of November,
 
