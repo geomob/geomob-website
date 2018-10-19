@@ -53,11 +53,11 @@ Our speakers on the evening of the 7th will be:
 
 *  [Tim Weil](https://www.linkedin.com/in/tweil/) will share [Navenio](https://www.navenio.com)'s indoor location solutions
 
-*  [Jason Sawle](https://twitter.com/GIS4Schools), will present [the Esri GIS for Schools Programme](https://schools.esriuk.com)
+*  [Jason Sawle](https://twitter.com/GIS4Schools) will present [the Esri GIS for Schools Programme](https://schools.esriuk.com)
 
 *  [Chris Hunt](https://twitter.com/thisisthechris) of [Controlled Frenzy](https://www.controlledfrenzy.co.uk/), will tell us about [The Common Line](https://thecommonline.uk/map/)
 
-* and hopefully one more to be announced shortly
+*  [David Heyman](https://twitter.com/davidheyman) will tell us about PilotPlan and using vector tiles as a geospatial server
 
 I look forward to seeing you at UCL on the 7th of November,
 
