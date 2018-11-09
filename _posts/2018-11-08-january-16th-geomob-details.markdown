@@ -7,16 +7,16 @@ permalink: /post/jan-16th-2019-geomob-details
 ---
 
 
-Many thanks to everyone who came along 
-[on the evening of September 6th](/post/sept-6th-2018-geomob-details) to the
-most recent #geomob. I was delighted to see long time #geomob contributor
-[Gary Gale](https://twitter.com/vicchi) take home the SplashMaps best
-speaker prize. Congrats, Gary!
+Congratulation to [David Heyman](https://twitter.com/davidheyman) of 
+[Axis Maps](https://www.axismaps.com/) for winning the SplashMaps best 
+speaker prize at [the November 7th #geomob](/post/nov-7th-2018-geomob-details)
+with his tak about vector tiles. 
 
-![image](/images/gary-201809.jpg){: .center-image }
+![image](/images/geomob-201811.jpeg){: .center-image }
 
-Our next #geomob will be at 18:30 (as always) on Wednesday the 16th of January,
- 2019. Our good friends at [Geovation Hub](https://geovation.uk/hub/) 
+Our next #geomob will be at 18:30 (as always) on Wednesday the 
+16th of January, 2019. 
+Our good friends at [Geovation Hub](https://geovation.uk/hub/) 
 will once againbe hosting us at their impressive new venue (_[Sutton Yard, 65 Goswell Rd, London EC1V 7EN](https://www.openstreetmap.org/#map=19/51.52435/-0.09975)_).
 
 Our format for the evening will be as it always has been: after a few very brief announcements we will have a mix of speakers, each presenting for ten to fifteen minutes and then facing two or three questions. At the end we will vote by show of hands for the best speaker. The winner will receive a SplashMap and unending glory (see the [full list of all past winners](http://geomobldn.org/past-speakers)). 
