@@ -26,6 +26,7 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
 
 paginate: 10
 paginate_path: "/page/:num"
@@ -37,6 +38,15 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+
+# exclude some pages from the sitemap
+# see https://github.com/jekyll/jekyll-sitemap
+defaults:
+  -
+    scope:
+      path: "google9a5d343ebd41e71b.html"
+    values:
+      sitemap: false
 
 collections:
   tagged:
