@@ -16,9 +16,13 @@ We will hear from:
 *   [Alexis Batlle](https://twitter.com/AlexisBatlle), co-founder of [AVUXI](http://www.avuxi.com/)  
 
 *   [Tim Fernando](https://twitter.com/timfernando), returns to #geomob to update us on the impressive progress of [esplorio](https://esplor.io/)
+
 *   Jo Eckersley, will tell us about [Bubbl](http://bubbl.tech/)
+
 *   [Rutger Geelen](https://twitter.com/rutgergeelen), co-founder of [SchedJoules](https://www.schedjoules.com/) 
+
 *   [Tom Charman](https://twitter.com/CharmanTom), co-founder of [KOMPAS](https://www.kompasapp.com/)
+
 *   [Manuel Timita](https://twitter.com/manueltimita), creator of [illustreets](http://illustreets.com/) 
 
 If you can’t make it on the 19th of September (and indeed even if you can!) our next #geomob will be [on the 25th of October back at Geovation in Clerkenwell](https://geomob-october-2017.confetti.events/). Please get in touch if you would like to speak! We extend a particular welcome to attendees of [#GeoCom17](http://www.agi.org.uk/events/calendar/geocom17) which will be the following day. 
