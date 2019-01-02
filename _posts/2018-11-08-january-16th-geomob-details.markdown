@@ -45,7 +45,7 @@ Our speakers on the evening of the 16th will be:
 *  [David Murray](https://www.davidmurray.media/), presenting [InYourArea](https://www.inyourarea.co.uk)
 
 It promises to be yet another interesting evening. For those looking to get a 
-jump on thier planning, our next #geomob after that will be Tuesday, the 19th 
+jump on their planning, our next #geomob after that will be Tuesday, the 19th 
 of March. Please get in touch if you would like to volunteer to speak.
 
 Enjoy the holidays, and I look forward to seeing you at Geovation on the 16th 
