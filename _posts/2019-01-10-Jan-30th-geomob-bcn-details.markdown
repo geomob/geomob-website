@@ -61,6 +61,9 @@ Our speakers on the evening will be:
 
 All that, and geobeers! A geo good time is guaranteed.
 
+Please get in touch if you would also like to speak, either on the 30th or at
+a future event.
+
 Many thanks to our speakers, Coworkidea for hosting us, and of course to our
 sponsors:
 [AVUXI](https://www.avuxi.com),
