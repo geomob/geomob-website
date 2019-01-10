@@ -25,7 +25,9 @@ that deal with location. Everyone working in or curious about the location
 space or with location services is welcome, you do not need to be some sort of
 GIS expert (though GIS experts are of course welcome as well). What I am most
 interested in is not pure geo technology, but rather the application of new
-geo technologies in services and product of all kind.
+geo technologies in services and product of all kind. The goal is not pitch
+presentations or marketing, but rather interesting talks by doers about their
+experiences.
 
 Please tell everyone you know who may find the evening interesting.
 
