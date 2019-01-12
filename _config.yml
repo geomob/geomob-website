@@ -22,7 +22,7 @@ twitter_username: geomob
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
   - jekyll-paginate
