@@ -40,8 +40,6 @@ Our speakers on the evening of the 16th will be:
 
 *  [Abigail Page](https://twitter.com/abi_edin), who will tell us about [OpenELS](https://openels.eu)
 
-* [Dave Barter](https://twitter.com/citizenfishy), who will discuss his "Map Control" project.
-
 *  [David Murray](https://www.davidmurray.media/), presenting [InYourArea](https://www.inyourarea.co.uk)
 
 It promises to be yet another interesting evening. For those looking to get a 
