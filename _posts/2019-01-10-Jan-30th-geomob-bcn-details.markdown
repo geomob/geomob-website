@@ -57,6 +57,8 @@ Our speakers on the evening will be:
 
 * [Carla Coll](https://www.linkedin.com/in/ccollroca/) will present mapping startup [Gotaki Maps](https://twitter.com/Gotakimaps)
 
+* [Xavier Ruiz](https://twitter.com/enedebe) will tell ua about [SmartMonkey](https://en.smartmonkey.io)
+
 * [Alexis Batlle](https://twitter.com/AlexisBatlle), CEO and co-founder of location intelligence service [AVUXI](http://www.avuxi.com/)
 
 All that, and geobeers! A geo good time is guaranteed.
