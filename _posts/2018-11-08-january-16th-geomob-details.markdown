@@ -42,6 +42,8 @@ Our speakers on the evening of the 16th will be:
 
 *  [David Murray](https://www.davidmurray.media/), presenting [InYourArea](https://www.inyourarea.co.uk)
 
+*  [Andrew Larcombe](https://twitter.com/andrewl), will tell us about[ publishing geo data to react components](https://www.gatsbyjs.org/packages/gatsby-source-geo/)
+
 It promises to be yet another interesting evening. For those looking to get a 
 jump on their planning, our next #geomob after that
 [will be Tuesday, the 19th of March](/post/mar-19th-2019-geomob-details), when
