@@ -42,7 +42,7 @@ Our speakers on the evening of the 16th will be:
 
 *  [Darren Sher](https://twitter.com/DarrenSher), presenting [InYourArea](https://www.inyourarea.co.uk)
 
-*  [Andrew Larcombe](https://twitter.com/andrewl), will tell us about[ publishing geo data to react components](https://www.gatsbyjs.org/packages/gatsby-source-geo/)
+*  [Andrew Larcombe](https://twitter.com/andrewl), will tell us about[ publishing geodata on the serverless web](https://www.gatsbyjs.org/packages/gatsby-source-geo/)
 
 It promises to be yet another interesting evening. For those looking to get a 
 jump on their planning, our next #geomob after that
