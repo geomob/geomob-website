@@ -40,7 +40,7 @@ Our speakers on the evening of the 16th will be:
 
 *  [Abigail Page](https://twitter.com/abi_edin), who will tell us about [OpenELS](https://openels.eu)
 
-*  [David Murray](https://www.davidmurray.media/), presenting [InYourArea](https://www.inyourarea.co.uk)
+*  [Darren Sher](https://twitter.com/DarrenSher), presenting [InYourArea](https://www.inyourarea.co.uk)
 
 *  [Andrew Larcombe](https://twitter.com/andrewl), will tell us about[ publishing geo data to react components](https://www.gatsbyjs.org/packages/gatsby-source-geo/)
 
