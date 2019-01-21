@@ -30,10 +30,17 @@ Thank you sponsors!
 Our speakers on the evening of the 19th will be:
 
 * [Paul Stewart](https://twitter.com/pjstewart1984) will tell us about "Mapping Burnmouth, Scotland"
+
 * [Carla Coll](https://www.linkedin.com/in/ccollroca/) will present mapping startup [Gotaki Maps](https://twitter.com/Gotakimaps)
+
 * [Steven Feldman](https://twitter.com/StevenFeldman) returns with a presentation entitled "So, you want me to invest in your geo start-up"
+
 * [Nick Nicholaou](https://twitter.com/nowplainzero) will present [Instant Street View](https://www.instantstreetview.com)
+
 * [Karolina Alexiou](https://twitter.com/_sandtweets) poses the question "Is London a Forest? How to Use GIS and Open Data to Find Out."
+
+* [Tomas Holderness](https://twitter.com/iHolderness) of [Addresscloud](https://www.addresscloud.com) will tell us about some of their recent projects.
+
 
 All that, and geobeers! A geo good time is guaranteed.
 
