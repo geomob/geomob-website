@@ -10,6 +10,12 @@ Many thanks to everyone who came out and helped make
 [our first #geomobBCN](/post/jan-30th-2019-geomob-barcelona-details)
 a success. Steven Feldman wrote [a great summary of the evening](https://knowwhereconsulting.co.uk/blog/geomob-bcn-is-born/).
 
+<center>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ca" dir="ltr">Comencem la <a href="https://twitter.com/hashtag/geomobBCN?src=hash&amp;ref_src=twsrc%5Etfw">#geomobBCN</a>, un nou event de la comunitat GEO de Barcelona. <a href="https://twitter.com/hashtag/map?src=hash&amp;ref_src=twsrc%5Etfw">#map</a> <a href="https://twitter.com/geoinquiets?ref_src=twsrc%5Etfw">@geoinquiets</a> <a href="https://twitter.com/geomob?ref_src=twsrc%5Etfw">@geomob</a> <a href="https://t.co/u4pPnO6OCc">pic.twitter.com/u4pPnO6OCc</a></p>&mdash; Marc Torres (@marc_torres_) <a href="https://twitter.com/marc_torres_/status/1090664048226697222?ref_src=twsrc%5Etfw">30. Januar 2019</a></blockquote>
+</center>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 Based on the enthusiastic response to our first event, I am pleased to say
 we will work on making it a regular thing, aiming for 3-4 #geomobBCNs per year.
 Of course that would not be possible without the generousity of our venue
@@ -29,8 +35,11 @@ to have so many people volunteer. Please get in touch if you would like
 to speak at a future #geomobBCN.
 
 The talks are a chance to learn, but equally important is the dialogue between
-the attendees, which is why I hope everyone can also stay for #geobeers (paid
-for by the sponsors) at a nearby bar after the talks. 
+the attendees, which is why I hope everyone can also stay for #geobeers -
+generously paid for by our sponsors: [AVUXI](https://www.avuxi.com),
+[KnowWhere Consulting](https://knowwhereconsulting.co.uk/) and 
+[OpenCage Data](https://opencagedata.com/). 
+  - at a nearby bar after the talks. 
 
 We will follow the time-tested #geomob format:
 
@@ -57,17 +66,19 @@ Our speakers on the 24th of April will be
 
 And hopefully one of two more.
 
-All of that, and geobeers! A geo good time is guaranteed.
+All of that, and geobeers and good discussion - a good time is guaranteed.
+
+<center>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/geobeers?src=hash&amp;ref_src=twsrc%5Etfw">#geobeers</a> at <a href="https://twitter.com/hashtag/geomobBCN?src=hash&amp;ref_src=twsrc%5Etfw">#geomobBCN</a> <a href="https://t.co/9BgClLLN9p">pic.twitter.com/9BgClLLN9p</a></p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1090693746000318470?ref_src=twsrc%5Etfw">30. Januar 2019</a></blockquote>
+</center>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Please get in touch if you would also like to speak, either on the 30th or at
 a future event.
 
 Many thanks to our speakers, Coworkidea for hosting us, and of course to our
-sponsors:
-[AVUXI](https://www.avuxi.com),
-[KnowWhere Consulting](https://knowwhereconsulting.co.uk/) and 
-[OpenCage Data](https://opencagedata.com/). 
-
+sponsors for making #geomobBCN possible.
 Please share the event details with everyone you know who may find the
 evening interesting.
 
