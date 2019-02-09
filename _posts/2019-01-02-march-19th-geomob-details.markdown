@@ -29,8 +29,6 @@ Thank you sponsors!
 
 Our speakers on the evening of the 19th will be:
 
-* [Paul Stewart](https://twitter.com/pjstewart1984) will tell us about "Mapping Burnmouth, Scotland"
-
 * [Carla Coll](https://www.linkedin.com/in/ccollroca/) will present mapping startup [Gotaki Maps](https://twitter.com/Gotakimaps)
 
 * [Steven Feldman](https://twitter.com/StevenFeldman) returns with a presentation entitled "So, you want me to invest in your geo start-up"
