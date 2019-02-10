@@ -37,6 +37,8 @@ Our speakers on the evening of the 19th will be:
 
 * [Karolina Alexiou](https://twitter.com/_sandtweets) poses the question "Is London a Forest? How to Use GIS and Open Data to Find Out."
 
+* [David Piesse](https://twitter.com/mapdev) returns to present "Simple, Lovable, Complete - Building a geo SaaS to fix a problem"
+
 * [Tomas Holderness](https://twitter.com/iHolderness) of [Addresscloud](https://www.addresscloud.com) will tell us about some of their recent projects.
 
 
