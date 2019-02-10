@@ -36,8 +36,11 @@ to speak at a future #geomobBCN.
 
 The talks are a chance to learn, but equally important is the dialogue between
 the attendees, which is why I hope everyone can also stay for #geobeers -
-generously paid for by our sponsors: [AVUXI](https://www.avuxi.com),
-[KnowWhere Consulting](https://knowwhereconsulting.co.uk/) and 
+generously paid for by our sponsors:
+[AVUXI](https://www.avuxi.com),
+[Localistico](https://localistico.com/),
+[Mappery](http://mappery.org),
+and
 [OpenCage Data](https://opencagedata.com/). 
   - at a nearby bar after the talks. 
 

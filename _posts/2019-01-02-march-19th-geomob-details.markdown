@@ -21,8 +21,8 @@ Our format for the evening will be as it always has been: after a few very brief
 After the talks we will head to a nearby pub for beers paid for by our 
 generous sponsors: 
 [Esri](https://developers.arcgis.com/startups/),
-[Flock](https://flockcover.com), 
-[KnowWhere Consulting](https://knowwhereconsulting.co.uk/),
+[Localistico](https://localistico.com/),
+[Mappery](http://mappery.org),
 [OpenCage Data](https://opencagedata.com/), 
 and [SplashMaps](http://www.splash-maps.com/).
 Thank you sponsors! 
