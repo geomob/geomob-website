@@ -47,6 +47,10 @@ defaults:
       path: "google9a5d343ebd41e71b.html"
     values:
       sitemap: false
+    scope:
+      path: "mailing-list-success.html"
+    values:
+      sitemap: false
 
 collections:
   tagged:
