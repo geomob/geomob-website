@@ -14,7 +14,7 @@ Yet again long time #geomob supporter
 [UCL's ExCiteS research group](https://www.ucl.ac.uk/excites)
 has made it possible for us
 to use the excellent facilities of UCL. We will be back in the
-[G22 Lecture Theatre in the Pearson Building](https://www.ucl.ac.uk/maps/pearson). 
+[B05 Lecture Theatre in the Chadwick Building](https://www.ucl.ac.uk/maps/chadwick-building). 
 
 Our format for the evening will be as it always has been: after a few very brief announcements we will have a mix of speakers, each presenting for ten to fifteen minutes and then facing two or three questions. At the end we will vote by show of hands for the best speaker. The winner will receive a SplashMap and unending glory (see the [full list of all past winners](http://geomobldn.org/past-speakers)). 
 
