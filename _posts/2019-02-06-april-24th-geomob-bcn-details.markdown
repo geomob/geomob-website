@@ -41,8 +41,7 @@ generously paid for by our sponsors:
 [Localistico](https://localistico.com/),
 [Mappery](http://mappery.org),
 and
-[OpenCage Data](https://opencagedata.com/). 
-  - at a nearby bar after the talks. 
+[OpenCage Data](https://opencagedata.com/) - at a nearby bar after the talks. 
 
 We will follow the time-tested #geomob format:
 
