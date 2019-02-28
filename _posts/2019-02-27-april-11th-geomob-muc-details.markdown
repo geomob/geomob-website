@@ -29,6 +29,8 @@ The details of our first Munich event:
 -
 [OSM](https://www.openstreetmap.org/?mlat=48.14800&mlon=11.55017#map=19/48.14800/11.55017))
 
+Please note - since this event is in a private office you will need to register in advance, so we have a sense of how many people will attend. [Please do so here](http://meetu.ps/c/4ghHM/sZJmr/a). Danke!
+
 **Who should attend:** Geomob is for everyone who is interested in geospatial technology - be it mobility, location intelligence, computer vision, indoor mapping, navigation, drone, GIS or any other location data driven industry.
 
 We are pleased to welcome our speakers: 
