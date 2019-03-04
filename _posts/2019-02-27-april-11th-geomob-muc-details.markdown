@@ -52,3 +52,4 @@ this event.
 
 Can't attend? [Get on the #geomob mailing list](/mailing-list) for an event summary of this Geomob and events in other cities. 
 
+{% include sponsors_ALL.html %}

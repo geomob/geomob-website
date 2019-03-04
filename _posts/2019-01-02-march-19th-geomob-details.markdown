@@ -5,7 +5,6 @@ date: 2019-01-02 14:20:07 +0000
 tags: 20190319 geomob
 permalink: /post/mar-19th-2019-geomob-details
 ---
-
 Our second #geomob of 2019 will be at 18:30 (as always) on Tuesday the 
 19th of March, 2019. 
 
@@ -49,3 +48,6 @@ If you can't make it in March, our next event after that will be in mid-June. We
 I look forward to seeing you all at UCL on the 19th of March,
 
 [Ed](https://twitter.com/freyfogle)
+
+{% include sponsors_LON.html %}
+{% include venues_LON.html %}

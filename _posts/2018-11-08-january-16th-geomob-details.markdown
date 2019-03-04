@@ -54,3 +54,6 @@ Enjoy the holidays, and I look forward to seeing you at Geovation on the 16th
 of January,
 
 [Ed](https://twitter.com/freyfogle)
+
+{% include sponsors_LON.html %}
+{% include venues_LON.html %}

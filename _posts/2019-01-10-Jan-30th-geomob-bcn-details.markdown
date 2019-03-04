@@ -75,3 +75,6 @@ sponsors:
 I look forward to seeing you all at 6:00 on the 30th of January for the first #geomobBCN,
 
 [Ed](https://twitter.com/freyfogle)
+
+{% include sponsors_BCN.html %}
+{% include venues_BCN.html %}

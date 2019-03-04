@@ -91,3 +91,8 @@ evening interesting.
 I look forward to seeing you all at 6:00 on the 24th of April 
 
 [Ed](https://twitter.com/freyfogle)
+
+{% include sponsors_BCN.html %}
+{% include venues_BCN.html %}
+
+
