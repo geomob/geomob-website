@@ -32,8 +32,6 @@ Our speakers on the evening of the 19th will be:
 
 * [Steven Feldman](https://twitter.com/StevenFeldman) returns with a presentation entitled "So, you want me to invest in your geo start-up"
 
-* [Nick Nicholaou](https://twitter.com/nowplainzero) will present [Instant Street View](https://www.instantstreetview.com)
-
 * [Karolina Alexiou](https://twitter.com/_sandtweets) poses the question "Is London a Forest? How to Use GIS and Open Data to Find Out."
 
 * [David Piesse](https://twitter.com/mapdev) returns to present "Simple, Lovable, Complete - Building a geo SaaS to fix a problem"
