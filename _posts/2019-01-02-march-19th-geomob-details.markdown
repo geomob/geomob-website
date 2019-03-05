@@ -36,7 +36,7 @@ Our speakers on the evening of the 19th will be:
 
 * [David Piesse](https://twitter.com/mapdev) returns to present "Simple, Lovable, Complete - Building a geo SaaS to fix a problem"
 
-* [Tomas Holderness](https://twitter.com/iHolderness) of [Addresscloud](https://www.addresscloud.com) will tell us about some of their recent projects.
+* [Tomas Holderness](https://twitter.com/iHolderness) of [Addresscloud](https://www.addresscloud.com) will talk about "Faster Rasters in The Cloud".
 
 
 All that, and geobeers! A geo good time is guaranteed.
