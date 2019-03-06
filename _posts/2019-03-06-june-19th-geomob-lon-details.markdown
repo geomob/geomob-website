@@ -25,7 +25,7 @@ Thank you sponsors!
 
 Our speakers on the evening of the 19th will be:
 
-* James Smith from Kings College will tell us about _Mapping air quality on the London underground_.
+* [James Smith](https://twitter.com/TheRealJimShady) from King's College will tell us about _Air quality on the London underground_.
 
 More speakers will be added here, as people volunteer. Pleasse let us know if you would like to speak.
 
