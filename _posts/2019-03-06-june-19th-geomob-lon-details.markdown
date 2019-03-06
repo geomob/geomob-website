@@ -6,7 +6,7 @@ tags: 20190619 geomob
 permalink: /post/june-19th-2019-geomoblon-details
 ---
 
-The third London #geomob of 2019 will be at 18:30 (as always) on Tuesday the 
+The third London #geomob of 2019 will be at 18:30 (as always) on Wednesday the 
 19th of June, 2019. 
 
 Our good friends at [Geovation Hub](https://geovation.uk/hub/) 
