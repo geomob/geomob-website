@@ -60,17 +60,15 @@ Our speakers on the 24th of April will be
 
 * [Tomaso Brezzi](https://twitter.com/TomasoBrezzi) of [Nested](https://nested.net/)
 
-* [Joana Simoes](https://twitter.com/doublebyte) presenting a personal project about finding nearby people to transact with.
+* [Joana Simoes](https://twitter.com/doublebyte) presenting a personal project about finding nearby people to transact with
 
-* [Ricardo Varela](https://twitter.com/phoebe) of [Localistico](https://localistico.com/).
+* [Ricardo Varela](https://twitter.com/phoebe) of [Localistico](https://localistico.com/)
 
-* [Jorge Ferrer García](https://twitter.com/jfsebastian) will describe some of the projects being worked on at [inAtlas](http://www.inatlas.com).
+* [Jorge Ferrer García](https://twitter.com/jfsebastian) will describe some of the projects being worked on at [inAtlas](http://www.inatlas.com)
 
 * [Adrienne Fanning](https://www.linkedin.com/in/adrienne-fanning-460b9340/) of [Sawcer](https://www.sawcer.com)
 
-* [Xavier Banque](https://twitter.com/xavierbanque) of [Rokubun](https://rokubun.cat/).
-
-And hopefully one of two more.
+* [Xavier Banque](https://twitter.com/xavierbanque) of [Rokubun](https://rokubun.cat/)
 
 All of that, and geobeers and good discussion - a good time is guaranteed.
 
