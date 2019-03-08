@@ -27,7 +27,9 @@ Our speakers on the evening of the 19th will be:
 
 * [James Smith](https://twitter.com/TheRealJimShady) from King's College will tell us about _Air quality on the London underground_.
 
-More speakers will be added here, as people volunteer. Pleasse let us know if you would like to speak.
+* [Steve Karmeinsky](https://twitter.com/stevekennedyuk) will present his "_Digital Placemakers_" project.
+
+More speakers will be added here as people volunteer. Please let us know if you would like to speak.
 
 Interesting talks, and geobeers! A geo good time is guaranteed.
 
