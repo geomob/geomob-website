@@ -29,7 +29,7 @@ Our speakers on the evening of the 19th will be:
 
 * [Steve Karmeinsky](https://twitter.com/stevekennedyuk) will present his "_Digital Placemakers_" project.
 
-* [Graham Vowles](https://twitter.com/gvowles) will speak about "_Geography meets Creativity: What happens when an unstoppable force meets an immovable object?_"
+* [Graham Vowles](https://twitter.com/gvowles) of [Bloxstore](https://www.bloxstore.net/) will speak about "_Geography meets Creativity: What happens when an unstoppable force meets an immovable object?_"
 
 More speakers will be added here as people volunteer. Please let us know if you would like to speak.
 
