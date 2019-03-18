@@ -28,8 +28,6 @@ Thank you sponsors!
 
 Our speakers on the evening of the 19th will be:
 
-* [Carla Coll](https://www.linkedin.com/in/ccollroca/) will present mapping startup [Gotaki Maps](https://twitter.com/Gotakimaps)
-
 * [Steven Feldman](https://twitter.com/StevenFeldman) returns with a presentation entitled "So, you want me to invest in your geo start-up"
 
 * [Karolina Alexiou](https://twitter.com/_sandtweets) poses the question "Is London a Forest? How to Use GIS and Open Data to Find Out."
