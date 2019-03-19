@@ -29,17 +29,17 @@ Thank you sponsors!
 
 Our speakers on the evening of the 19th will be:
 
-* [Steven Feldman](https://twitter.com/StevenFeldman) returns with a presentation entitled "So, you want me to invest in your geo start-up"
+* [Steven Feldman](https://twitter.com/StevenFeldman) returns with a presentation entitled "_So, you want me to invest in your geo start-up_"
 
-* [Karolina Alexiou](https://twitter.com/_sandtweets) poses the question "Is London a Forest? How to Use GIS and Open Data to Find Out."
+* [Karolina Alexiou](https://twitter.com/_sandtweets) poses the question "_Is London a Forest? How to Use GIS and Open Data to Find Out._"
 
-* [David Piesse](https://twitter.com/mapdev) returns to present "Simple, Lovable, Complete - Building a geo SaaS to fix a problem"
+* [David Piesse](https://twitter.com/mapdev) returns to present "_Simple, Lovable, Complete - Building a geo SaaS to fix a problem_".
 
 * [Dan Stowell](https://twitter.com/mclduk) asks "_Where *exactly* are the solar panels_"
 
 * [Dominic Stubbins](https://twitter.com/DomStubbins) will tell us about "_Ways different organisations are using AI to solve spatial problems_".
 
-* [Tomas Holderness](https://twitter.com/iHolderness) of [Addresscloud](https://www.addresscloud.com) will talk about "Faster Rasters in The Cloud".
+* [Tomas Holderness](https://twitter.com/iHolderness) of [Addresscloud](https://www.addresscloud.com) will talk about "_Faster Rasters in The Cloud_".
 
 
 All that, and geobeers! A geo good time is guaranteed.
