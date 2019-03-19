@@ -22,6 +22,7 @@ generous sponsors:
 [Esri](https://developers.arcgis.com/startups/),
 [Localistico](https://localistico.com/),
 [Mappery](http://mappery.org),
+[Navenio](https://www.navenio.com),
 [OpenCage Data](https://opencagedata.com/), 
 and [SplashMaps](http://www.splash-maps.com/).
 Thank you sponsors! 
