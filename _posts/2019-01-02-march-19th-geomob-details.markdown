@@ -35,6 +35,10 @@ Our speakers on the evening of the 19th will be:
 
 * [David Piesse](https://twitter.com/mapdev) returns to present "Simple, Lovable, Complete - Building a geo SaaS to fix a problem"
 
+* [Dan Stowell](https://twitter.com/mclduk) asks "_Where *exactly* are the solar panels"
+
+* [Dominic Stubbins](https://twitter.com/DomStubbins) will tell us about _Ways different organisations are using AI to solve spatial problems_
+
 * [Tomas Holderness](https://twitter.com/iHolderness) of [Addresscloud](https://www.addresscloud.com) will talk about "Faster Rasters in The Cloud".
 
 
