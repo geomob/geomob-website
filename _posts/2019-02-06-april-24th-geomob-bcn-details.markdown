@@ -62,7 +62,7 @@ Our speakers on the 24th of April will be
 
 * [Joana Simoes](https://twitter.com/doublebyte) presenting a personal project about finding nearby people to transact with
 
-* [Ricardo Varela](https://twitter.com/phoebe) of [Localistico](https://localistico.com/)
+* [Ricardo Varela](https://twitter.com/phobeo) of [Localistico](https://localistico.com/)
 
 * [Jorge Ferrer García](https://twitter.com/jfsebastian) will describe some of the projects being worked on at [inAtlas](http://www.inatlas.com)
 
