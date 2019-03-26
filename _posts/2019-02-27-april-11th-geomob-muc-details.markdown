@@ -35,17 +35,26 @@ Please note - since this event is in a private office you will need to register 
 
 We are pleased to welcome our speakers: 
 
- * [NavVis](https://www.navvis.com)
- 
- * [Esri Deutschland](https://www.esri.de)
+ * "Mapping the indoors for unleashing the power of indoor spatial intelligence" by [NavVis](https://www.navvis.com)
 
-Interested in speaking at the event? Send us an email at info@geoawesomeness.com
+ * ”Working with Planetary-Scale Data in the Cloud” by [Jed Sundwall](https://twitter.com/jedsundwall), Global Open Data Lead, Amazon Web Services
+
+ * “Democratizing geo for man and machine” by [Yashar Moradi](https://twitter.com/yasharmoradi), CTO @ [CloudEO](https://cloudeo.group/)
+
+ * "From machine to map to machine" by [Dario Manns](https://www.linkedin.com/in/dario-manns-581a0aa1/), Co-founder @ [FairFleet](https://www.fairfleet360.com/)
+
+ * "Real-time 3D maps for an automated and smart future” by [Johannes Start](https://www.linkedin.com/in/johannes-start-28438b9/), Product Owner @ [Artisense.ai](https://www.artisense.ai/)
+
+* “Smart Information Layer as knowledge base for situational awarness and industry 4.0“ by [Siegfried Hartmann](https://www.linkedin.com/in/siegfried-hartmann-48187b5/), founder, [Analytical Semantics](http://www.analyticalsemantics.info/) 
+
+
+Interested in speaking at a future #geomobMUC (most likely in July)? Send us an email at info@geoawesomeness.com
 
 Afterwards we will host a discussion and networking session and we are looking forward to get everyone connected with each other!
 
 Come by and join us! 
 
-Special thank you to Esri for sponsoring the drinks and refreshments during the event and to NavVis for opening their doors and allowing us to use their office for this event.
+Special thank you to Esri Deutschland und Esri Suisse for sponsoring the drinks and refreshments during the event and to NavVis for opening their doors and allowing us to use their office for this event.
 
 Many thanks to [Muthu Kumar](https://twitter.com/muthukumarceg) for organising
 this event.
