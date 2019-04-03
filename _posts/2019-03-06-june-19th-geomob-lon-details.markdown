@@ -31,6 +31,8 @@ Our speakers on the evening of the 19th will be:
 
 * [Steve Chilton](https://twitter.com/steev8) tells us about "_OpenStreetMap, London and I_".
 
+* [Gopi Garge](https://www.linkedin.com/in/gopikrishna-garge-3539/) from [GeoSpoc](https://geospoc.com) will give a talk entitled "_Stories from the field - Business, Utility, and Humanitarian Help_".
+
 * [Graham Vowles](https://twitter.com/gvowles) of [Bloxstore](https://www.bloxstore.net/) will speak about "_Geography meets Creativity: What happens when an unstoppable force meets an immovable object?_"
 
 More speakers will be added here as people volunteer. Please let us know if you would like to speak.
