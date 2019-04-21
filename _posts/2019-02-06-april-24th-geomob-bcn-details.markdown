@@ -62,8 +62,6 @@ Our speakers on the 24th of April will be
 
 * [Joana Simoes](https://twitter.com/doublebyte) presenting [FindMeACoin](https://doublebyteblog.wordpress.com/2018/10/25/findmeacoin-a-platform-to-support-offline-trading-of-cryptocurrencies/)
 
-* [Ricardo Varela](https://twitter.com/phobeo) of [Localistico](https://localistico.com/)
-
 * [Jorge Ferrer García](https://twitter.com/jfsebastian) will describe some of the projects being worked on at [inAtlas](http://www.inatlas.com)
 
 * [Adrienne Fanning](https://www.linkedin.com/in/adrienne-fanning-460b9340/) of [Sawcer](https://www.sawcer.com)
