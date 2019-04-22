@@ -62,7 +62,7 @@ Our speakers on the 24th of April will be
 
 * [Joana Simoes](https://twitter.com/doublebyte) presenting [FindMeACoin](https://doublebyteblog.wordpress.com/2018/10/25/findmeacoin-a-platform-to-support-offline-trading-of-cryptocurrencies/)
 
-* [Didier Grimaldi](https://twitter.com/didiergrimaldi) will tell us about location intelligence start-up [EIXOS](http://eixos.cat/)
+* [Didier Grimaldi](https://twitter.com/didiergrimaldi) will tell us about location intelligence business [EIXOS](http://eixos.cat/)
 
 * [Jorge Ferrer García](https://twitter.com/jfsebastian) will describe some of the projects being worked on at [inAtlas](http://www.inatlas.com)
 
