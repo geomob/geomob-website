@@ -58,7 +58,7 @@ sponsors.
 
 Our speakers on the 24th of April will be
 
-* [Tomaso Brezzi](https://twitter.com/TomasoBrezzi) of [Nested](https://nested.net/)
+* [Eudald Arranz](https://twitter.com/eaarranz) of [Nested](https://nested.net/)
 
 * [Joana Simoes](https://twitter.com/doublebyte) presenting [FindMeACoin](https://doublebyteblog.wordpress.com/2018/10/25/findmeacoin-a-platform-to-support-offline-trading-of-cryptocurrencies/)
 
