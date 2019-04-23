@@ -35,6 +35,8 @@ Our speakers on the evening of the 19th will be:
 
 * [Graham Vowles](https://twitter.com/gvowles) of [Bloxstore](https://www.bloxstore.net/) will speak about "_Geography meets Creativity: What happens when an unstoppable force meets an immovable object?_"
 
+* [Tom Timms](https://twitter.com/TomTheMap) _Probably the largest Geospatial data capture project you have never heard of._
+
 More speakers will be added here as people volunteer. Please let us know if you would like to speak.
 
 Interesting talks, and geobeers! A geo good time is guaranteed.
