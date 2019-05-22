@@ -25,9 +25,9 @@ Thank you sponsors!
 
 Our speakers on the evening of the 19th will be:
 
-* [James Smith](https://twitter.com/TheRealJimShady) from King's College will tell us about _Air quality on the London underground_.
-
 * [Steve Karmeinsky](https://twitter.com/stevekennedyuk) will present his "_Digital Placemakers_" project.
+
+* Annette Scheffer of the [Marine Stewardship Council](https://www.msc.org/) will talk about using spatial data for global sustainable fishery certification.
 
 * [Steve Chilton](https://twitter.com/steev8) tells us about "_OpenStreetMap, London and I_".
 
