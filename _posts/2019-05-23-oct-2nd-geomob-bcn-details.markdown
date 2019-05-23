@@ -59,7 +59,7 @@ Our speakers on the 2nd of October will be
 
 * a member of the team from parental digital control service [Qustodio](https://www.qustodio.com)
 
-* a member of the team from online marketplaces company [Adevinta](https://www.adevinta.com)
+* [Paco Orozco](https://twitter.com/pakusland) from online marketplaces company [Adevinta](https://www.adevinta.com)
 
 * [Luis Peralta](https://twitter.com/luisperalta) from the Google Maps team in Zürich
 
