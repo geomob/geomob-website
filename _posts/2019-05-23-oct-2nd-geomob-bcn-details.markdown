@@ -63,9 +63,6 @@ Our speakers on the 2nd of October will be
 
 * [Luis Peralta](https://twitter.com/luisperalta) from the Google Maps team in Zürich
 
-* [Sergei Gimpel](https://github.com/sgimp) discussing his popular
-["My Location" application](https://play.google.com/store/apps/details?id=com.location.test)
-
 
 All of that, and geobeers and good discussion - a good time is guaranteed.
 
