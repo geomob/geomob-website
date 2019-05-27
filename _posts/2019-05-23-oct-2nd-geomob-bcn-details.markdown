@@ -57,7 +57,7 @@ Our speakers on the 2nd of October will be
 
 * [Diego Pajarito Grajales](https://twitter.com/diegopajarito) telling us about his work on visualizing and understanding cycling networks
 
-* a member of the team from parental digital control service [Qustodio](https://www.qustodio.com)
+* [Sergio Morales](https://www.linkedin.com/in/sergiomorales/) from parental digital control service [Qustodio](https://www.qustodio.com)
 
 * [Paco Orozco](https://twitter.com/pakusland) from online marketplaces company [Adevinta](https://www.adevinta.com)
 
