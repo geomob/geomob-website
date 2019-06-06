@@ -53,7 +53,7 @@ sponsors.
 
 Our speakers on the 2nd of October will be
 
-* [Sacha Piperno](https://www.linkedin.com/in/sacha-piperno-a4a887104/) discussing aerial/satellite image processing
+* [Ana Pérez Bao](https://www.linkedin.com/in/ana-p%C3%A9rez-bao-ab088759/) presenting [GreenDEX](https://greendex.es) - using satellite image analysis to calculate vegetation coverage.
 
 * [Diego Pajarito Grajales](https://twitter.com/diegopajarito) telling us about his work on visualizing and understanding cycling networks
 
@@ -62,7 +62,6 @@ Our speakers on the 2nd of October will be
 * [Paco Orozco](https://twitter.com/pakusland) from online marketplaces company [Adevinta](https://www.adevinta.com)
 
 * [Luis Peralta](https://twitter.com/luisperalta) from the Google Maps team in Zürich
-
 
 All of that, and geobeers and good discussion - a good time is guaranteed.
 
