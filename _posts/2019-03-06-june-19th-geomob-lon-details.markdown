@@ -37,8 +37,6 @@ Our speakers on the evening of the 19th will be:
 
 * [Tom Timms](https://twitter.com/TomTheMap) will present _Probably the largest Geospatial data capture project you have never heard of._
 
-More speakers will be added here as people volunteer. Please let us know if you would like to speak.
-
 Interesting talks, and geobeers! A geo good time is guaranteed.
 
 If you can't attend (or even if you can) be sure to sign up for
