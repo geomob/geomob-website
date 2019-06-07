@@ -68,7 +68,7 @@ Our speakers on the 24th of April will be
 
 * [Adrienne Fanning](https://www.linkedin.com/in/adrienne-fanning-460b9340/) of [Sawcer](https://www.sawcer.com)
 
-* [Xavier Banque](https://twitter.com/xavierbanque) of [Rokubun](https://rokubun.cat/)
+* [Xavier Banque](https://twitter.com/xavierbanque) of [Rokubun](https://www.rokubun.cat/)
 
 All of that, and geobeers and good discussion - a good time is guaranteed.
 
