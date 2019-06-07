@@ -40,7 +40,13 @@ Please note - since this event is in a private office you will need to register 
 
 **Speakers:**
 
-We are currently defining the speaker list, but our theme for the evening will be _Maps, Machine learning and AI_
+  * [Wolfgang Deigele](https://twitter.com/WDeigele), Master student, TU Munich, _Wind throw detection using deep learning on Planet and high-resolution aerial images_
+
+  * [David Nogué](https://twitter.com/ddnogue) of [EIXOS](http://eixos.cat/html/portada-1-eng.html), _Location Based Business Opportunity Detector_
+
+  * [Aleksander Buczkowski](https://twitter.com/abuczkowski), of PwC, _How drones, AI and geospatial analytics are transforming the Energy sector_
+
+  * [Bilge Kobas](https://twitter.com/bilgekobas), Co-founder, [Bits’ n Bricks](http://bitsnbricks.com/), _Design by Data_
 
 Afterwards the talks there will be a discussion and networking session and we are looking forward to get everyone connected with each other!
 
