@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Oct 9th, 2019 #geomobLON details"
+title: "October 9th, 2019 #geomobLON details"
 date: 2019-07-08 14:21:06 +0000
 tags: 20191009 geomob
 permalink: /post/oct-9th-2019-geomoblon-details
