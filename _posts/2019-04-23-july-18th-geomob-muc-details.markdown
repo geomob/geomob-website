@@ -1,4 +1,3 @@
-
 --- 
 layout: post
 title: "July 18th, 2019 - #geomobMUC details"
@@ -6,7 +5,6 @@ date: 2019-04-23 06:09:23 +0000
 tags: 20190718 geomob geomobMUC
 permalink: /post/july-18th-2019-geomobmuc-details
 ---
-
 
 Many thanks to everyone who made it to
 [our first #geomobMUC event on the 11th of April](/post/apr-11th-2019-geomobmuc-details). 
