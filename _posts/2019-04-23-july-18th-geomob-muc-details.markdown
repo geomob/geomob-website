@@ -1,3 +1,4 @@
+
 --- 
 layout: post
 title: "July 18th, 2019 - #geomobMUC details"
@@ -24,8 +25,6 @@ for promoting the event. Our friends at Esri have written
 Following the success of the first event, I am delighted to announce
 **the second #geomobMUC will take place on 18th of July!**
 
-
-
 The details of the event:
 
 **When:** 18.00, 18 July 2019
@@ -47,6 +46,8 @@ Please note - since this event is in a private office you will need to register 
   * [Aleksander Buczkowski](https://twitter.com/abuczkowski), of PwC, _How drones, AI and geospatial analytics are transforming the Energy sector_
 
   * [Bilge Kobas](https://twitter.com/bilgekobas), Co-founder, [Bits’ n Bricks](http://bitsnbricks.com/), _Design by Data_
+
+  * [Cassi Welling](https://www.linkedin.com/in/cassi-welling-1707a721/), COO, [Hawa Dawa GmbH](https://www.hawadawa.com), _Grasping the invisible: Machine Learning & AI to drive air quality management in the smart city_
 
 Afterwards the talks there will be a discussion and networking session and we are looking forward to get everyone connected with each other!
 
