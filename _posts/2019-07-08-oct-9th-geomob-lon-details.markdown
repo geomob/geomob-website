@@ -1,16 +1,14 @@
 --- 
 layout: post
-title: "October 9th, 2019 #geomobLON details"
+title: "October 8th, 2019 #geomobLON details"
 date: 2019-07-08 14:21:06 +0000
-tags: 20191009 geomob
-permalink: /post/oct-9th-2019-geomoblon-details
+tags: 20191008 geomob
+permalink: /post/oct-8th-2019-geomoblon-details
 ---
 
-The fourth London #geomob of 2019 will be at 18:30 (as always) on Wednesday the 
-9th of October, 2019. 
+The fourth London #geomob of 2019 will be at 18:30 (as always) on Tuesday the 8th of October, 2019 at at [Geovation Hub](https://geovation.uk/hub/) at (_[Sutton Yard, 65 Goswell Rd, London EC1V 7EN](https://www.openstreetmap.org/#map=19/51.52435/-0.09975)_).
 
-
-We are still waiting for confirmation of the exact venue, but we will be in central London. Our format for the evening will be as it always has been: after a few very brief announcements we will have a mix of speakers, each presenting for ten to fifteen minutes and then facing two or three questions. At the end we will vote by show of hands for the best speaker. The winner will receive a SplashMap and unending glory (see the [full list of all past winners](http://geomobldn.org/past-speakers)). 
+Our format for the evening will be as it always has been: after a few very brief announcements we will have a mix of speakers, each presenting for ten to fifteen minutes and then facing two or three questions. At the end we will vote by show of hands for the best speaker. The winner will receive a SplashMap and unending glory (see the [full list of all past winners](http://geomobldn.org/past-speakers)). 
 
 After the talks we will head to a nearby pub for beers paid for by our 
 generous sponsors: 
