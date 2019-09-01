@@ -9,7 +9,7 @@ permalink: /post/sept-12th-2019-geomobmuc-details
 
 Our third #geomobMUC will take place on 12th of September.
 Many thanks to [WERK1 München](https://en.werk1.com/) at Atelierstraße 29 ([map](https://goo.gl/maps/hf6tVqdELXykDEbx5))
-for hosting us. Doors will open at 18:00, all talsk will be in English.
+for hosting us. Doors will open at 18:00, all talks will be in English.
 
 Please note - you will need to register in advance, so we have a sense of how many people will attend. [Please do so here](https://www.meetup.com/de-DE/Geomob-Munich-geomobMUC/events/263009646/). Danke!
 
