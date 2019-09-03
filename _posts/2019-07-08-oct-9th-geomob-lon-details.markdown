@@ -30,6 +30,8 @@ We'll be hearing from:
 
 * [Dennis Bauszus](https://twitter.com/goldrydigital) returns to share one of his recent projects. 
 
+* [James Morley](https://twitter.com/jamesinealing) will presents a bit of geo focused cultural heritage and history via his [A Street Near You](https://astreetnearyou.org) service.
+
 All of that, and geobeers! A geo good time is guaranteed.
 
 If you can't attend (or even if you can) be sure to sign up for
