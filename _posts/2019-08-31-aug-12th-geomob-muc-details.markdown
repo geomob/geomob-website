@@ -41,4 +41,6 @@ Send us an email at muthu@geoawesomeness.com
 
 Many thanks to [Muthu Kumar](https://twitter.com/muthukumarceg) for organising this event, and to WERK1 and Esri for supporting the geomob community.
 
-{% include sponsors_ALL.html %}
+{% include sponsors_MUC.html %}
+
+
