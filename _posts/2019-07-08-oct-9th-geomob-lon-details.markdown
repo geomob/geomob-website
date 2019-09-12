@@ -23,8 +23,7 @@ We'll be hearing from:
 
 * [Shammi Arora](https://twitter.com/sarora211) co-founder of travel and food app [Grabbd](https://apps.apple.com/us/app/grabbd-social-foodie-travel/id1060585858?mt=8)
 
-* [Lisha Tan](https://twitter.com/lisha_tan_uk) of neighbourhood search engine
-[smartpostcode](https://www.smartpostcode.co.uk/)
+* [Lukasz Bonenberg](https://twitter.com/LKBLab) of Nottingham University will share the [FLAMINGO initiative](https://www.flamingognss.com/) with us.
 
 * [Saber Razmjooei](https://www.linkedin.com/in/saber-razmjooei-321a753b/) will present [Input](https://inputapp.io), an open source mobile app (based on QGIS) for surveying.
 
