@@ -61,8 +61,6 @@ Our speakers on the 2nd of October will be
 
 * [Paco Orozco](https://twitter.com/pakusland) from online marketplaces company [Adevinta](https://www.adevinta.com)
 
-* [Luis Peralta](https://twitter.com/luisperalta) from the Google Maps team in Zürich
-
 All of that, and geobeers and good discussion - a good time is guaranteed.
 
 Geomob would not be possible without speakers, and I was delighted
