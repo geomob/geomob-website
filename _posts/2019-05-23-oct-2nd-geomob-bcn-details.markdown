@@ -57,6 +57,8 @@ Our speakers on the 2nd of October will be
 
 * [Diego Pajarito Grajales](https://twitter.com/diegopajarito) telling us about his work on visualizing and understanding cycling networks
 
+* [Saber Razmjooei](https://www.linkedin.com/in/saber-razmjooei-321a753b/) will present [Input](https://inputapp.io), an open source mobile app (based on QGIS) for surveying.
+
 * [Sergio Morales](https://www.linkedin.com/in/sergiomorales/) from parental digital control service [Qustodio](https://www.qustodio.com)
 
 * [Paco Orozco](https://twitter.com/pakusland) from online marketplaces company [Adevinta](https://www.adevinta.com)
