@@ -1,9 +1,9 @@
 --- 
 layout: post
-title: "Oct 10th, 2019 #geomobLIS details"
+title: "Oct 10th, 2019 #geomobLX details"
 date: 2019-09-17 17:48:13 +0000
 tags: 20191010 geomob
-permalink: /post/oct-10th-2019-geomoblis-details
+permalink: /post/oct-10th-2019-geomoblx-details
 ---
 
 <div class="heading">When and where?</div>
