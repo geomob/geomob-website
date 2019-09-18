@@ -53,8 +53,6 @@ sponsors.
 
 * [Paco Orozco](https://twitter.com/pakusland) from online marketplaces company [Adevinta](https://www.adevinta.com)
 
-All of that, and geobeers and good discussion - a good time is guaranteed.
-
 <div class="heading">The organizer:</div>
 GeomobBCN is organized by [Ed Freyfogle](https://twitter.com/freyfogle)
 
