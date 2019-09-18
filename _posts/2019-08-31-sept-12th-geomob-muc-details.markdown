@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Sept 12th, 2019 - #geomobMUC details"
-date: 2019-08-31 11:15:18 +0000
+date: 2019-05-20 11:15:18 +0000
 tags: 20190912 geomob geomobMUC
 permalink: /post/sept-12th-2019-geomobmuc-details
 ---
