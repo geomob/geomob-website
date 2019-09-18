@@ -1,29 +1,23 @@
 --- 
 layout: post
-title: "October 2nd, 2019 - #geomobBCN details"
+title: "Oct 2nd, 2019 - #geomobBCN details"
 date: 2019-05-23 09:11:37 +0000
 tags: 20191002 geomob geomobBCN
 permalink: /post/oct-2nd-2019-geomobbcn-details
 ---
 
 
-Friends, amics, amigos,
-
-our next #geomobBCN will be at 18:00 on Wednesday, the 2nd of October.
+<div class="heading">When and where?</div>
+The next #geomobBCN will be at
+<span class="b">18:00 on Wednesday, the 2nd of October</span>.
 I am delighted that we can once again rely on the hospitality of our friends at
 [CoWorkIdea](https://coworkidea.com/en/), who will host us at their
 excellent co-working space at [Carrer de Torres i Amat, 21, First Floor](https://goo.gl/maps/wEAX4uRU8EN2).
 
 
-Here's a picture from [our April 24th #geomobBCN event](/post/apr-24th-2019-geomobbcn-details):
+<div class="heading">Why?</div>
 
-<center>
-<blockquote class="twitter-tweet" data-lang="de"><p lang="en" dir="ltr">About to start <a href="https://twitter.com/hashtag/geomobBCN?src=hash&amp;ref_src=twsrc%5Etfw">#geomobBCN</a> <a href="https://t.co/8qFFKuGI75">pic.twitter.com/8qFFKuGI75</a></p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1121088789877858305?ref_src=twsrc%5Etfw">24. April 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
-
-Just like in our past events, the goal of this
-#geomobBCN will be to provide a forum to learn and exchange ideas about any
+The goal of Geomob is to provide a forum to learn and exchange ideas about any
 interesting services and projects that deal with location. Everyone working in
 or curious about the location space or with location services is welcome. You
 absolutely do not need to be some sort of GIS expert (though GIS experts are
@@ -31,27 +25,23 @@ of course welcome as well).
 
 The talks are a chance to learn, but equally important is the dialogue between
 the attendees, which is why I hope everyone can also stay for #geobeers -
-generously paid for by our sponsors:
-[AVUXI](https://www.avuxi.com),
-[Localistico](https://localistico.com/),
-[Mappery](http://mappery.org),
-and
-[OpenCage Data](https://opencagedata.com/) - at a nearby bar after the talks. 
+generously paid for by our sponsors at a nearby bar after the talks. 
 
-We will follow the time-tested #geomob format:
+<div class="heading">Agenda</div>
 
-* doors open at 18:00
+* doors open at 18:00, set up and general mingling
 
-* at 18:30 we begin with a very brief introduction
+* at 18:30 we begin the talks with a very brief introduction
 
-* a few speakers presenting their projects. Each speaker will have slides and
-speak for 10-15 minutes. After each talk there will be time for 2-3 questions.
+* Each speaker will have slides and speak for 10-15 minutes.
+After each talk there will be time for 2-3 questions.
 The talks will be in English.
 
-* after the talks we will head to a nearby bar for #geobeers paid for by the
+* We head to a nearby bar for discussion and #geobeers paid for by the
 sponsors. 
 
-Our speakers on the 2nd of October will be
+
+<div class="heading">The speakers:</div>
 
 * [Ana Pérez Bao](https://www.linkedin.com/in/ana-p%C3%A9rez-bao-ab088759/) presenting [GreenDEX](https://greendex.es) - using satellite image analysis to calculate vegetation coverage.
 
@@ -65,16 +55,20 @@ Our speakers on the 2nd of October will be
 
 All of that, and geobeers and good discussion - a good time is guaranteed.
 
+<div class="heading">The organizer:</div>
+GeomobBCN is organized by [Ed Freyfogle](https://twitter.com/freyfogle)
+
+<div class="heading">Thanks</div>
+
 Geomob would not be possible without speakers, and I was delighted
 to have so many people volunteer. Please get in touch if you would like
-to speak at a future #geomobBCN. Many thanks to our speakers, Coworkidea for hosting
-us, and of course to our sponsors for making #geomobBCN possible.
+to speak at a future #geomobBCN. Many thanks to our speakers, our hosts
+and of course to our sponsors for making the event possible.
+
+<div class="heading">Spread the word:</div>
+
 Please share the event details with everyone you know who may find the
 evening interesting.
-
-I look forward to seeing you all at 6:00 on the 2nd of October
-
-[Ed](https://twitter.com/freyfogle)
 
 {% include sponsors_BCN.html %}
 {% include venues_BCN.html %}
