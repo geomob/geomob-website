@@ -35,6 +35,9 @@ Talks will be in English.
 
 * [Joaquim Cardeira](https://www.linkedin.com/in/joaquim-cardeira-bb95544/) will discuss his vehicle tracking company [Fleetrack](https://www.fleetrack.cl)
 
+* [Pável Calado](https://www.linkedin.com/in/pavelcalado/) will
+share [Flaner](https://flaner.com/), the app for sharing and remembering places.
+
 * more speakers will be added shortly
 
 <div class="heading">The organizer:</div>
