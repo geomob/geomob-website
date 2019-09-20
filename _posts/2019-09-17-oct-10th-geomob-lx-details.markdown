@@ -29,9 +29,11 @@ Talks will be in English.
 
 <div class="heading">The speakers:</div>
 
-* [Joana Simoes](https://twitter.com/doublebyte) presenting [FindMeACoin](https://doublebyteblog.wordpress.com/2018/10/25/findmeacoin-a-platform-to-support-offline-trading-of-cryptocurrencies/)
+* [Joana Simoes](https://twitter.com/doublebyte) will present [FindMeACoin](https://doublebyteblog.wordpress.com/2018/10/25/findmeacoin-a-platform-to-support-offline-trading-of-cryptocurrencies/)
 
 * [Paulo Morgado](https://twitter.com/MorgadoPaulo9) from the Institute of Geography and Spatial Planning of the University of Lisbon will discuss the eMOTIONAL Cities study.
+
+* [Joaquim Cardeira](https://www.linkedin.com/in/joaquim-cardeira-bb95544/) will discuss his vehicle tracking company [Fleetrack](https://www.fleetrack.cl)
 
 * more speakers will be added shortly
 
