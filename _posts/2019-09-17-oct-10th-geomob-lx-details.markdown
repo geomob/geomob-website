@@ -25,7 +25,7 @@ Our format for the evening will be as it always has been:
 After each talk there will be time for 2-3 questions.
 Talks will be in English.
 
-* We head to a nearby pub for discussion and #geobeers paid for by the sponsors.
+* We head to a nearby bar for discussion and #geobeers paid for by the sponsors.
 
 <div class="heading">The speakers:</div>
 
