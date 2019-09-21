@@ -38,7 +38,7 @@ Talks will be in English.
 * [Pável Calado](https://www.linkedin.com/in/pavelcalado/) will
 share [Flaner](https://flaner.com/), the app for sharing and remembering places.
 
-* more speakers will be added shortly
+* [Cristina Nunes](https://www.linkedin.com/in/cmnunes/) from [Aptoide](https://www.aptoide.com/en/home)
 
 <div class="heading">The organizer:</div>
 GeomobLIS is organized by [Joana Simoes](https://twitter.com/doublebyte)
