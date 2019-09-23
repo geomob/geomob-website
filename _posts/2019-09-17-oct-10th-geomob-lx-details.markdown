@@ -8,7 +8,7 @@ permalink: /post/oct-10th-2019-geomoblx-details
 
 <div class="heading">When and where?</div>
 Our first ever Geomob Lisbon (#geomobLX) will be 
-<span class="b">after work (exact time not yet set) on Thursday the 10th of October </span>
+<span class="b">after work (exact time not yet set) on Thursday, the 10th of October </span>
 at the headquarters of [Aptoide](https://www.aptoide.com/en/home) at (_[R. Soeiro Pereira Gomes Lote 1 3-D, 1600-196 Lisboa, Portugal](https://www.google.com/maps/place/Aptoide,+S.A./@38.744936,-9.1625197,17z/data=!3m1!4b1!4m5!3m4!1s0xd19331afdcd244f:0x1c484312630c078f!8m2!3d38.744936!4d-9.160331)_).
 
 {% include why_geomob.html %}
