@@ -33,8 +33,6 @@ Talks will be in English.
 
 * [Paulo Morgado](https://twitter.com/MorgadoPaulo9) from the Institute of Geography and Spatial Planning of the University of Lisbon will discuss the eMOTIONAL Cities study.
 
-* [Joaquim Cardeira](https://www.linkedin.com/in/joaquim-cardeira-bb95544/) will discuss his vehicle tracking company [Fleetrack](https://www.fleetrack.cl)
-
 * [Pável Calado](https://www.linkedin.com/in/pavelcalado/) will
 share [Flaner](https://flaner.com/), the app for sharing and remembering places.
 
