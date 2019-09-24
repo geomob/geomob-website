@@ -29,14 +29,16 @@ Talks will be in English.
 
 <div class="heading">The speakers:</div>
 
-* [Joana Simoes](https://twitter.com/doublebyte) will present [FindMeACoin](https://doublebyteblog.wordpress.com/2018/10/25/findmeacoin-a-platform-to-support-offline-trading-of-cryptocurrencies/)
+* [Joana Simoes](https://twitter.com/doublebyte) will present [FindMeACoin](https://doublebyteblog.wordpress.com/2018/10/25/findmeacoin-a-platform-to-support-offline-trading-of-cryptocurrencies/).
 
-* [Paulo Morgado](https://twitter.com/MorgadoPaulo9) from the Institute of Geography and Spatial Planning of the University of Lisbon will discuss the eMOTIONAL Cities study.
+* [Paulo Morgado](https://twitter.com/MorgadoPaulo9) from the [Institute of Geography and Spatial Planning of the University of Lisbon](https://www.ulisboa.pt/en/unidade-organica/institute-geography-and-spatial-planning) will discuss the eMOTIONAL Cities study.
 
 * [Pável Calado](https://www.linkedin.com/in/pavelcalado/) will
 share [Flaner](https://flaner.com/), the app for sharing and remembering places.
 
-* [Cristina Nunes](https://www.linkedin.com/in/cmnunes/) from [Aptoide](https://www.aptoide.com/en/home)
+* [Cristina Nunes](https://www.linkedin.com/in/cmnunes/) from [Aptoide](https://www.aptoide.com/en/home).
+
+* [Filipa Peleja](https://twitter.com/filipapeleja) from [Vodafone Portugal](https://www.linkedin.com/company/vodafone/).
 
 <div class="heading">The organizer:</div>
 GeomobLIS is organized by [Joana Simoes](https://twitter.com/doublebyte)
