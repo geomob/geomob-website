@@ -41,7 +41,7 @@ share [Flaner](https://flaner.com/), the app for sharing and remembering places.
 * [Filipa Peleja](https://twitter.com/filipapeleja) will tell us about one of her data science projects at [Vodafone Portugal](https://www.linkedin.com/company/vodafone/).
 
 <div class="heading">The organizer:</div>
-GeomobLIS is organized by [Joana Simoes](https://twitter.com/doublebyte)
+GeomobLX is organized by [Joana Simoes](https://twitter.com/doublebyte)
 
 {% include thanks.html %}
 {% include spread_the_word.html %}
