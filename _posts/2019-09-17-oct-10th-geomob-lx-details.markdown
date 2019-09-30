@@ -43,6 +43,8 @@ share [Flaner](https://flaner.com/), the app for sharing and remembering places.
 <div class="heading">The organizer:</div>
 GeomobLX is organized by [Joana Simoes](https://twitter.com/doublebyte)
 
+If you would like to join, please get a free ticket [here](https://www.eventbrite.com/e/geomob-lisbon-geoinnovation-meetup-tickets-74259495149?fbclid=IwAR2wmSmm65pLfDIMqpadVPDxFwrbJbAQYCoAgJnK1FMXlzlevaU3EjToefM).
+
 {% include thanks.html %}
 {% include spread_the_word.html %}
 {% include sponsors_LX.html %}
