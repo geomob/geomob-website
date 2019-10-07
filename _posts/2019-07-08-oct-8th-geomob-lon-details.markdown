@@ -35,7 +35,7 @@ sponsors.
 
 * [Saber Razmjooei](https://www.linkedin.com/in/saber-razmjooei-321a753b/) will present [Input](https://inputapp.io), an open source mobile app (based on QGIS) for surveying.
 
-* [Dennis Bauszus](https://twitter.com/goldrydigital) returns to share one of his recent projects. 
+* [Dennis Bauszus](https://twitter.com/goldrydigital) will talk about "_Custom and drawful application interfaces_" 
 
 * [James Morley](https://twitter.com/jamesinealing) will presents a bit of geo focused cultural heritage and history via his [A Street Near You](https://astreetnearyou.org) service.
 
