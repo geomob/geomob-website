@@ -39,6 +39,9 @@ sponsors.
 
 * [James Morley](https://twitter.com/jamesinealing) will presents a bit of geo focused cultural heritage and history via his [A Street Near You](https://astreetnearyou.org) service.
 
+* [Simon Gillespie](https://twitter.com/anjin_games) of Anjin Games
+will discuss _Creating a realtime streaming model of Manhattan for VR_
+
 <div class="heading">The organizer:</div>
 Geomob London is organized by [Ed Freyfogle](https://twitter.com/freyfogle)
 
