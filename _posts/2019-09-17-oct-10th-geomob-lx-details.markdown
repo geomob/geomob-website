@@ -38,7 +38,7 @@ share [Flaner](https://flaner.com/), the app for sharing and remembering places.
 
 * [Cristina Nunes](https://www.linkedin.com/in/cmnunes/), from [Aptoide](https://www.aptoide.com/en/home), will talk about geolocation at Aptoide.
 
-* [Filipa Peleja](https://twitter.com/filipapeleja) will tell us about one of her data science projects at [Vodafone Portugal](https://www.linkedin.com/company/vodafone/).
+* [Filipa Peleja](https://twitter.com/filipapeleja) will tell us about a location analytics project at [Vodafone Portugal](https://www.linkedin.com/company/vodafone/).
 
 <div class="heading">The organizer:</div>
 GeomobLX is organized by [Joana Simoes](https://twitter.com/doublebyte)
