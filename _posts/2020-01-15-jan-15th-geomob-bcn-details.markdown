@@ -34,6 +34,8 @@ sponsors.
 
 * [Luis Peralta](https://twitter.com/luisperalta) from the Google Maps team in Zürich
 
+* [Alberto Santos](https://twitter.com/asantosestevez) will discuss [Urban Data Analytics](http://www.urbandataanalytics.com/en/)
+
 * [Toni del Hoyo](https://twitter.com/tonidelhoyo) will introduce [Worldsensing](https://www.worldsensing.com)
 
 * [Roger Veciana](https://twitter.com/rveciana) will talk about some of his work at [SkySight](https://skysight.io/?&hl=en_US)
