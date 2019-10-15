@@ -33,7 +33,7 @@ sponsors.
 
 * [Shammi Arora](https://twitter.com/sarora211) co-founder of travel and food app [Grabbd](https://apps.apple.com/us/app/grabbd-social-foodie-travel/id1060585858?mt=8)
 
-* [Paul Chapman](linkedin.com/in/paulchap) from
+* [Paul Chapman](linkedin.com/in/paulchap) from property market data platform 
 [Landworth](https://www.landworth.org)
 
 * [Lisha Tan](https://twitter.com/lisha_tan_uk) of neighbourhood search engine
