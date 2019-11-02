@@ -33,6 +33,8 @@ sponsors.
 
 * [Shammi Arora](https://twitter.com/sarora211) co-founder of travel and food app [Grabbd](https://apps.apple.com/us/app/grabbd-social-foodie-travel/id1060585858?mt=8)
 
+* [Sam Murphy](https://twitter.com/samsammurphy) founder of [earthscope](https://earthscope.app/)
+
 * [Lisha Tan](https://twitter.com/lisha_tan_uk) of neighbourhood search engine
 [smartpostcode](https://www.smartpostcode.co.uk/)
 
