@@ -40,6 +40,8 @@ sponsors.
 
 * [James David Smith](https://twitter.com/TheRealJimShady) will tell us about air quality on the London underground.
 
+* [Jez Nicholson](https://twitter.com/jnicho02), a director at [OSM UK](https://osmuk.org/), will discuss the ongoing project to match UK Food Hygiene Ratings to every food outlet in the UK. 
+
 * more speakers to be announced shortly
 
 <div class="heading">The organizer:</div>
