@@ -8,7 +8,7 @@ permalink: /post/jan-8th-2022-geomoblon-details
 
 <div class="heading">When and where?</div>
 The first London Geomob of 2020 will be at
-<span class="b">18:30 on Tuesday the 8th of January, 2020 </span>
+<span class="b">18:30 on Wednesday the 8th of January, 2020 </span>
 at [Geovation Hub](https://geovation.uk/hub/) at (_[Sutton Yard, 65 Goswell Rd, London EC1V 7EN](https://www.openstreetmap.org/#map=19/51.52435/-0.09975)_).
 
 {% include why_geomob.html %}
