@@ -42,7 +42,7 @@ sponsors.
 
 * [Jez Nicholson](https://twitter.com/jnicho02), a director at [OSM UK](https://osmuk.org/), will discuss the ongoing project to match UK Food Hygiene Ratings to every food outlet in the UK. 
 
-* more speakers to be announced shortly
+* Perhaps one more speaker. Any volunteers?
 
 <div class="heading">The organizer:</div>
 Geomob London is organized by [Ed Freyfogle](https://twitter.com/freyfogle)
