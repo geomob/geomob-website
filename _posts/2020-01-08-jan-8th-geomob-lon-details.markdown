@@ -31,7 +31,7 @@ sponsors.
 
 <div class="heading">The speakers:</div>
 
-* [Andrew Hart](https://twitter.com/AndrewProjDent) of indoor AR navigation service [DentReality](https://www.dentreality.com)
+* [Andrew Hart](https://twitter.com/AndrewProjDent) of indoor AR navigation service [Dent Reality](https://www.dentreality.com)
 
 * [Shammi Arora](https://twitter.com/sarora211) of travel and food app [Grabbd](https://apps.apple.com/us/app/grabbd-social-foodie-travel/id1060585858?mt=8)
 
