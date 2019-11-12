@@ -36,6 +36,8 @@ sponsors.
 
 * [Alberto Santos](https://twitter.com/asantosestevez) will discuss [Urban Data Analytics](http://www.urbandataanalytics.com/en/)
 
+* [Álvaro Arredondo](https://www.linkedin.com/in/alvaro-arredondo/) from [CARTO](https://carto.com)
+
 * [Toni del Hoyo](https://twitter.com/tonidelhoyo) will introduce [Worldsensing](https://www.worldsensing.com)
 
 * [Roger Veciana](https://twitter.com/rveciana) will talk about some of his work at [SkySight](https://skysight.io/?&hl=en_US)
