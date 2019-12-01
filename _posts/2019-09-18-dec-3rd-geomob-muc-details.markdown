@@ -24,7 +24,7 @@ Please note - you will need to register in advance, so we have a sense of how ma
 
   * [Lüder Kaiser](https://www.linkedin.com/in/l%C3%BCder-kaiser-7b771a40/), discussing laws governing Autonomous Driving
 
-  * Someone from smart parking company [AlterMobili](https://www.altermobili.com/)
+  * [László Török](https://www.linkedin.com/in/laszlotorok007/) from smart parking company [AlterMobili](https://www.altermobili.com/)
 
   * and a few lightening talks!
 
