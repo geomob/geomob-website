@@ -7,7 +7,6 @@ permalink: /post/mar-18th-2020-geomoblon-details
 ---
 
 <div class="heading">When and where?</div>
-The first London Geomob of 2020 will be at
 <span class="b">18:30 on Wednesday the 18th of March, 2020 </span>
 at [Geovation Hub](https://geovation.uk/hub/) at (_[Sutton Yard, 65 Goswell Rd, London EC1V 7EN](https://www.openstreetmap.org/#map=19/51.52435/-0.09975)_).
 
@@ -31,6 +30,9 @@ After each talk there will be time for 2-3 questions.
 sponsors. 
 
 <div class="heading">The speakers:</div>
+
+* Chris Barrington Brown of [Cunning Running](http://www.cunningrunning.co.uk)
+will discuss some of the work they do around threat analysis mapping 
 
 * To be announced soon. Please volunteer if you would like to speak.
 
