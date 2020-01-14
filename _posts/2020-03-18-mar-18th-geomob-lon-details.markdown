@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "March 18th, 2020 #geomobLON details"
-date: 2019-01-10 03:27:41 +0000
+date: 2020-01-10 03:27:41 +0000
 tags: 20200318 geomob
 permalink: /post/mar-18th-2020-geomoblon-details
 ---
@@ -36,6 +36,9 @@ will discuss some of the work they do around threat analysis mapping
 
 * [Monika Swiderska](https://www.linkedin.com/in/monika-swiderska-aa370782/)
 will present a GIS case study in simplicity
+
+* [Dan Winchester](https://www.dan.co.uk/) will share his experience building
+[GetTheData](https://www.getthedata.com/)
 
 * To be announced soon. Please volunteer if you would like to speak.
 
