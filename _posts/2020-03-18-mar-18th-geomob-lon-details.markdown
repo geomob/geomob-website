@@ -34,6 +34,9 @@ sponsors.
 * Chris Barrington Brown of [Cunning Running](http://www.cunningrunning.co.uk)
 will discuss some of the work they do around threat analysis mapping 
 
+* [Monika Swiderska](https://www.linkedin.com/in/monika-swiderska-aa370782/)
+will present a GIS case study in simplicity
+
 * To be announced soon. Please volunteer if you would like to speak.
 
 
