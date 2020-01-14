@@ -40,6 +40,10 @@ will present a GIS case study in simplicity
 * [Dan Winchester](https://www.dan.co.uk/) will share his experience building
 [GetTheData](https://www.getthedata.com/)
 
+* [Jelte Liebrand](https://www.linkedin.com/in/jelte-liebrand/) will present
+sailing navigation service [savvy navvy](https://www.savvy-navvy.com/)
+
+
 * To be announced soon. Please volunteer if you would like to speak.
 
 
