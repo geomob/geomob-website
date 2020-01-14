@@ -31,7 +31,7 @@ sponsors.
 
 <div class="heading">The speakers:</div>
 
-* Chris Barrington Brown of [Cunning Running](http://www.cunningrunning.co.uk)
+* [Chris Barrington Brown](https://www.linkedin.com/in/chris-barrington-brown-410a9355/) of [Cunning Running](http://www.cunningrunning.co.uk)
 will discuss some of the work they do around threat analysis mapping 
 
 * [Monika Swiderska](https://www.linkedin.com/in/monika-swiderska-aa370782/)
