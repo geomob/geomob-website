@@ -43,6 +43,7 @@ will present a GIS case study in simplicity
 * [Jelte Liebrand](https://www.linkedin.com/in/jelte-liebrand/) will present
 sailing navigation service [savvy navvy](https://www.savvy-navvy.com/)
 
+* [MinLue Wang](https://www.linkedin.com/in/minlue-wang-b572b432/) from [Shipamax](https://shipamax.com)
 
 * To be announced soon. Please volunteer if you would like to speak.
 
