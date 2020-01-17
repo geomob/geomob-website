@@ -35,7 +35,7 @@ sponsors.
 will discuss some of the work they do around threat analysis mapping 
 
 * [Monika Swiderska](https://www.linkedin.com/in/monika-swiderska-aa370782/)
-will present a GIS case study in simplicity
+will present a talk entitled "The power of keeping it simple"
 
 * [Dan Winchester](https://www.dan.co.uk/) will share his experience building
 [GetTheData](https://www.getthedata.com/)
