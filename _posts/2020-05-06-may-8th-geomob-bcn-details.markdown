@@ -32,8 +32,9 @@ sponsors.
 
 * [Ernest Artiaga](https://twitter.com/ernest_artiaga) from [Albora](https://albora.io/)
 
-
 * [Eduard Porquet](https://www.linkedin.com/in/eduard-porquet-mateu-188a037/) of [Transports Metropolitans de Barcelona (TMB)](https://www.tmb.cat)
+
+* [Ricardo Varela](https://twitter.com/phobeo), founder of [Localistico](https://localistico.com/)
 
 * To be announced. Please volunteer if you would like to speak.
 
