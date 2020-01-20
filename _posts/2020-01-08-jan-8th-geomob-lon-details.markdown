@@ -6,6 +6,9 @@ tags: 20200108 geomob
 permalink: /post/jan-8th-2022-geomoblon-details
 ---
 
+<div class="heading">Event summary:</div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Many thanks to everyone who came along to last night&#39;s <a href="https://twitter.com/hashtag/geomobLON?src=hash&amp;ref_src=twsrc%5Etfw">#geomobLON</a>, the speakers, <a href="https://twitter.com/Geovation?ref_src=twsrc%5Etfw">@Geovation</a> for hosting us, and the sponsors! Here&#39;s our tweet summary of the evening <a href="https://t.co/t4IOw20INZ">pic.twitter.com/t4IOw20INZ</a></p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1215188531599069185?ref_src=twsrc%5Etfw">January 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="heading">When and where?</div>
 The first London Geomob of 2020 will be at
 <span class="b">18:30 on Wednesday the 8th of January, 2020 </span>

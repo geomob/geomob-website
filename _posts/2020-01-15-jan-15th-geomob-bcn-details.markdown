@@ -6,6 +6,10 @@ tags: 20200115 geomob geomobBCN
 permalink: /post/jan-15th-2020-geomobbcn-details
 ---
 
+
+<div class="heading">Event summary:</div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you to the attendees, speakers, sponsors, and our hosts <a href="https://twitter.com/Coworkidea?ref_src=twsrc%5Etfw">@Coworkidea</a> for making last night&#39;s <a href="https://twitter.com/hashtag/geomobBCN?src=hash&amp;ref_src=twsrc%5Etfw">#geomobBCN</a> our best yet. Here&#39;s a thread summarising the evening <a href="https://t.co/XwKxw55W5v">pic.twitter.com/XwKxw55W5v</a></p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1217706889280217089?ref_src=twsrc%5Etfw">January 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="heading">When and where?</div>
 The next #geomobBCN will be at
 <span class="b">18:00 on Wednesday, the 15th of January, 2020</span>.

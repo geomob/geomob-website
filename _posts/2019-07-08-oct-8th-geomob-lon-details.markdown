@@ -6,6 +6,10 @@ tags: 20191008 geomob
 permalink: /post/oct-8th-2019-geomoblon-details
 ---
 
+
+<div class="heading">Event summary:</div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s our summary of last night&#39;s <a href="https://twitter.com/hashtag/geomobLON?src=hash&amp;ref_src=twsrc%5Etfw">#geomobLON</a> Thank you to all of our speakers and of course to <a href="https://twitter.com/Geovation?ref_src=twsrc%5Etfw">@Geovation</a> for letting us once again use their excellent facilities <a href="https://t.co/aa3m0QikTp">pic.twitter.com/aa3m0QikTp</a></p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1181829404793753600?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 <div class="heading">When and where?</div>
 The fourth London #geomob of 2019 will be at
 <span class="b">18:30 on Tuesday the 8th of October </span>

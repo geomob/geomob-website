@@ -6,6 +6,8 @@ tags: 20191002 geomob geomobBCN
 permalink: /post/oct-2nd-2019-geomobbcn-details
 ---
 
+<div class="heading">Event summary:</div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As promised here is a thread that summarises last night’s <a href="https://twitter.com/hashtag/geomobBCN?src=hash&amp;ref_src=twsrc%5Etfw">#geomobBCN</a> <a href="https://t.co/VC5NKxid7f">pic.twitter.com/VC5NKxid7f</a></p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1179654859508858881?ref_src=twsrc%5Etfw">October 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <div class="heading">When and where?</div>
 The next #geomobBCN will be at
