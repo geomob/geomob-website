@@ -36,6 +36,8 @@ sponsors.
 
 * [Ricardo Varela](https://twitter.com/phobeo), founder of [Localistico](https://localistico.com/)
 
+* [Mike Hall](https://twitter.com/thisismikehall) will present some of his maps, hopefully including his [railway map of Iberia](https://www.thisismikehall.com/railway-map-of-spain-portugal)
+
 * To be announced. Please volunteer if you would like to speak.
 
 <div class="heading">The organizer:</div>
