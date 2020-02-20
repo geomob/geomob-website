@@ -43,7 +43,7 @@ Afterwards the talks there will be a discussion and networking session and we ar
 
 **Interested in speaking at a #geomobMUC?**
 
-Send an email to abhishek.adams@gmail.com
+Send an email to karen.geomobmuc@gmail.com or abhishek.adams@gmail.com
 
 {% include geomob_background.html %}
 
