@@ -7,8 +7,8 @@ permalink: /post/mar-26th-2020-geomobmuc-details
 ---
 
 
-The first #geomobMUC of 2020 will take place on March 26th!
-We are still confirming the exact venue details and will post them shortly. 
+The first #geomobMUC of 2020 will take place 18:30 on Thursday, March 26th!
+The event will be held at [Mindspace Viktualienmarkt](https://www.mindspace.me/munich/viktualienmarkt/) at Viktualienmarkt 8, 80331 Munich ([OpenStreetMap](https://www.openstreetmap.org/#map=19/48.13542/11.57527), [Google Map](https://goo.gl/maps/auJu15Jo7vyVEZqx9)).
 
 
 **Our Speakers:**
@@ -35,9 +35,6 @@ We are still confirming the exact venue details and will post them shortly.
    
    * Shruti Kuber, [HERE Technologies](https://www.here.com/), (Topic will be announced shortly)
    
-
-
-  * Please volunteer if you would like to speak.
 
 Afterwards the talks there will be a discussion and networking session and we are looking forward to get everyone connected with each other!
 
