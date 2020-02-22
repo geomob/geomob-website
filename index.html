@@ -1,31 +1,17 @@
 ---
 layout: default
 ---
-
-<div>
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-    {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    {% if paginator.next_page %}
-      &nbsp;<a href="{{ paginator.next_page_path }}" class="next">Next</a>
-    {% endif %}
+<div class="row pt10">
+  <div class="col-md-3 gray pt10">
+    {% include stay-informed.html %}
   </div>
+  <div class="col-md-1"> </div>
+  <div class="col-md-4 gray pt10">
+    {% include upcoming-events.html %}    
+  </div>
+  <div class="col-md-1"> </div>  
+  <div class="col-md-3 gray pt10">
+      {% include learn-more.html %}          
+  </div>  
 </div>
 
-
-<div class="p20">
-  {% include sponsors_ALL.html %}
-</div>
-  
