@@ -1,6 +1,6 @@
 --- 
 layout: podcast
-title: "Geomob Podcast: 1. Welcome"
+title: "Geomob Podcast - 1. Welcome"
 date: 2020-02-22 14:29:18 +0000
 tags: 
 permalink: /podcast/episode-1
