@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% assign post = page %}
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <a href=""></a>
+  <header class="post-header">
+    <a href="/">Home</a> 
+    
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <div class="row">
+      <div class="col-md-8">
+        {{ content }}
+      </div>
+      <div class="col-md-4">
+        <div id="sidebar">
+            {% include stay-informed.html %}
+          </div>
+      </div>
+    </div>
+  </div>
+
+</article>
