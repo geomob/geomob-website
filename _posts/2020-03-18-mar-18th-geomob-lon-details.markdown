@@ -42,7 +42,8 @@ will present a talk entitled "The power of keeping it simple"
 
 * [Minlue Wang](https://www.linkedin.com/in/minlue-wang-b572b432/) from [Shipamax](https://shipamax.com)
 
-* To be announced soon. Please volunteer if you would like to speak.
+* [Dāvis Viļums](https://twitter.com/DavisVilums) will show off his [All the Streets](http://davis.vilums.me/all-the-streets/) project
+
 
 
 <div class="heading">The organizer:</div>
