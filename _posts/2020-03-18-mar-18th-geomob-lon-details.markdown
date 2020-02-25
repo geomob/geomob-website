@@ -37,6 +37,8 @@ will discuss some of the work they do around threat analysis mapping
 * [Monika Swiderska](https://www.linkedin.com/in/monika-swiderska-aa370782/)
 will present a talk entitled "The power of keeping it simple"
 
+* [Jacob Goonetillake](https://twitter.com/j15goonetillake) will present micromobility company [Ginger](https://www.ginger.town/)
+
 * [Dan Winchester](https://www.dan.co.uk/) will share his experience building
 [GetTheData](https://www.getthedata.com/)
 
