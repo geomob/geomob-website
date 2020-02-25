@@ -35,10 +35,10 @@ Please [RSVP on the meetup page](https://www.meetup.com/Geomob-Munich-geomobMUC/
    * Monitoring crisis areas in the world using cloud-based satellite imagery
    Pascal Schichor - [European Space Imaging](https://www.euspaceimaging.com/)
    
-   * Shruti Kuber, [HERE Technologies](https://www.here.com/), (Topic will be announced shortly)
+   * Shruti Kuber, [HERE Technologies](https://www.here.com/), will talk about AI-powered Live Sense that detects hazard in real-time and aware the drivers of their environment.
    
 
-Afterwards the talks there will be a discussion and networking session and we are looking forward to get everyone connected with each other!
+After the talks there will be a discussion and networking session and we are looking forward to get everyone connected with each other!
 
 **Interested in speaking at a #geomobMUC?**
 
@@ -50,7 +50,7 @@ Send an email to karen.geomobmuc@gmail.com or abhishek.adams@gmail.com
 
 [Get on the #geomob mailing list](/mailing-list) for an event summary of this Geomob and events in other cities. 
 
-Many thanks to [Abhi Manadhar](https://twitter.com/abheeman) for organising this event, and to Esri for supporting the geomobMUC community.
+Many thanks to [Abhi Manadhar](https://twitter.com/abheeman) for organising this event, and to Esri and HERE for supporting the geomobMUC community.
 
 {% include sponsors_MUC.html %}
 
