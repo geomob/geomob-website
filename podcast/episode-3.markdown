@@ -1,5 +1,5 @@
 --- 
-layout: podcast
+layout: podcast-episode
 title: "Geomob Podcast - 3. Steven tells us about Mappery and FOSS4G"
 date: 2020-02-24 06:03:19 +0000
 tags: StevenFeldman, mappery, FOSS4G

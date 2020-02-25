@@ -1,5 +1,5 @@
 --- 
-layout: podcast
+layout: podcast-episode
 title: "Geomob Podcast - 1. Welcome"
 date: 2020-02-22 14:29:18 +0000
 tags: 

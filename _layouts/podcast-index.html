@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="row pt10">
+  <div class="col-md-12">
+    <h2>The Geomob podcast</h2>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-8">
+    {% include podcast-hosts.html %}
+    {{ content }}
+  </div>
+  <div class="col-md-4">
+    <div id="sidebar">
+      {% include subscribe-to-podcast.html %}          
+      {% include stay-informed.html %}
+    </div>
+  </div>
+</div>

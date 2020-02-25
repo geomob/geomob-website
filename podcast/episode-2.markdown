@@ -1,5 +1,5 @@
 --- 
-layout: podcast
+layout: podcast-episode
 title: "Geomob Podcast - 2. Introducing Steven Feldman"
 date: 2020-02-23 08:15:47 +0000
 tags: StevenFeldman
