@@ -16,7 +16,9 @@ permalink: /podcast/episode-1
     Some relevant links from this episode's discussion:
 
     <ul>
-    <li class="pt10">The <a href="https://mapscaping.com/blogs/the-mapscaping-podcast">Mapscaping podcast</a></li>
+    <li class="pt10"><a href="https://mapscaping.com/blogs/the-mapscaping-podcast/geomob-geoinnovation-for-the-people-by-the-people">Ed's interview on MapScaping about what Geomob is</a></li>
+
+    <li class="pt10">The <a href="https://mapscaping.com/blogs/the-mapscaping-podcast">MapScaping podcast</a></li>
 
     <li class="pt10">The <a href="https://geodorable.com/">Geodorable podcast</a></li>
 
