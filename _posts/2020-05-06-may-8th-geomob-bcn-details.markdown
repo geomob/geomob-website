@@ -34,6 +34,8 @@ sponsors.
 
 * [Eduard Porquet](https://www.linkedin.com/in/eduard-porquet-mateu-188a037/) of [Transports Metropolitans de Barcelona (TMB)](https://www.tmb.cat)
 
+* [Camila Gonzalez Arango](https://twitter.com/camigonz41) will share her experience working on the [Aparcabicibcn](http://current-eco.maps.arcgis.com/apps/Cascade/index.html?appid=f6c16453f2d842c697669ff8a88a80c2) project
+
 * [Ricardo Varela](https://twitter.com/phobeo), founder of [Localistico](https://localistico.com/)
 
 * [Mike Hall](https://twitter.com/thisismikehall) will present some of his maps, hopefully including his [railway map of Iberia](https://www.thisismikehall.com/railway-map-of-spain-portugal)
