@@ -20,21 +20,19 @@ Please [RSVP on the meetup page](https://www.meetup.com/Geomob-Munich-geomobMUC/
   * [JP Mens](https://twitter.com/jpmens) will tell us about open-source,
   privacy-focused, self-hosted, location tracking service [OwnTracks](https://owntracks.org/)
   
-  * Multi-risk analysis and information system components for the Andes Region.
+  * Multi-risk analysis and information system components for the Andes Region.<br/>
   Michael Langbein from DLR will give an overview of the work being done by the [RIESGOS](https://www.riesgos.de/en/)(Multi-risk
-  analysis and information system components for the Andes region) project.Natural hazards often consist of multiple, cascading
-  processes (an earthquake causes a tsunami which damages power lines), whereas scientific models usually try to model just one of these
-  processes at a time. The RIESGOS team in collaboration with DLR, have exposed several scientific models as WPS and combined them in a
-  simple web-frontend to allow for a more holistic approach to multi step risk management.
+  analysis and information system components for the Andes region) project.
   
-   * Cloud-based service to monitor ground surface movements using Sentinel-1 SAR image
+   * Cloud-based service to monitor ground surface movements using Sentinel-1 SAR image. <br/>
    Project engineer Moritz Seidel from [Geosystems GmbH](https://www.geosystems.de/) will talk us through their cloud-based Geo
    information service designed for the precise monitoring of ground surface deformation, infrastructure stability and areas subject to
    subsidence or landslides by using the PSI method.
    
-   * Monitoring crisis areas in the world using cloud-based satellite imagery
-   Pascal Schichor - [European Space Imaging](https://www.euspaceimaging.com/)
-   
+   * Very High Resolution Satellite Imagery in support of Safety & Security applications. <br/>
+   Satellite images are utilized for a broad variety of applications, information derived from these images can provide useful data for      many verticals. Pascal Schichor of [European Space](https://www.euspaceimaging.com/) imaging will talk us through the security and    
+   safety aspects as well as the technical innovations in this domain.
+  
    * Shruti Kuber, [HERE Technologies](https://www.here.com/), will talk about AI-powered Live Sense that detects hazard in real-time and aware the drivers of their environment.
    
 
