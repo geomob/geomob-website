@@ -30,7 +30,7 @@ Please [RSVP on the meetup page](https://www.meetup.com/Geomob-Munich-geomobMUC/
    subsidence or landslides by using the PSI method.
    
    * Very High Resolution Satellite Imagery in support of Safety & Security applications. <br/>
-   Satellite images are utilized for a broad variety of applications, information derived from these images can provide useful data for      many verticals. Pascal Schichor of [European Space](https://www.euspaceimaging.com/) imaging will talk us through the security and    
+   Satellite images are utilized for a broad variety of applications, information derived from these images can provide useful data for      many verticals. Pascal Schichor of [European Space Imaging](https://www.euspaceimaging.com/) will talk us through the security and    
    safety aspects as well as the technical innovations in this domain.
   
    * Shruti Kuber, [HERE Technologies](https://www.here.com/), will talk about AI-powered Live Sense that detects hazard in real-time and aware the drivers of their environment.
