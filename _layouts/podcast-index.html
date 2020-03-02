@@ -8,14 +8,14 @@ layout: default
 </div>
 
 <div class="row">
-  <div class="col-md-8">
-    {% include podcast-hosts.html %}
-    {{ content }}
-  </div>
   <div class="col-md-4">
     <div id="sidebar">
       {% include subscribe-to-podcast.html %}          
       {% include stay-informed.html %}
     </div>
+  </div>
+  <div class="col-md-8">
+    {% include podcast-hosts.html %}
+    {{ content }}
   </div>
 </div>
