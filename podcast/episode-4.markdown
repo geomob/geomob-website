@@ -10,7 +10,7 @@ permalink: /podcast/episode-4
 
 
 <div class="pt20">
-  Ed speakes with Joana Simoes, veteran of the Barcelona geo scene and organizer of Geomob Lisbon (#geomobLX)
+  Ed speaks with Joana Simoes, veteran of the Barcelona geo scene and organizer of Geomob Lisbon (#geomobLX)
 </div>
 
 <div class="pt20">
