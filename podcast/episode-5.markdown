@@ -19,6 +19,8 @@ permalink: /podcast/episode-5
     <li class="pt10"><a href="https://www.datawrapper.de">Datawrapper</a></li>
     <li class="pt10"><a href="https://twitter.com/worldmapper/status/1235336559337054208">Example tweet with a cartogram representation of coronavirus spread</a></li>
     <li class="pt10"><a href="https://www.reddit.com/r/MapsWithoutNZ/">Maps without New Zealand</a></li>
+    <li class="pt10"><a href="https://letsencrypt.org">Let's Encrypt for SSL Certificates</a></li>
+    <li class="pt10"><a href="https://zerossl.com">ZeroSSL is a simple way to create SSL cerificates once you have set up an account with Let's Encrypt</a></li>
   </ul>  
 </div>
 
