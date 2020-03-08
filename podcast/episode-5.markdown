@@ -9,13 +9,13 @@ permalink: /podcast/episode-5
 <iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/158758" frameborder="0" scrolling="no" width="100%" height="150"></iframe>
 
 <div class="pt20">
-  Ed and Steve discuss <a href="https://twitter.com/kennethfield">Kenneth Field</a>'s recent blog post <a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/">Mapping coronavirus, responsibly</a>
+  Ed and Steve discuss <a href="https://twitter.com/kennethfield">Kenneth Field</a>'s recent blog post <a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/">Mapping coronavirus, responsibly</a>.
 </div>
 
 <div class="pt20">
   Relevant links:
   <ul>
-    <li class="pt10">Joana is on Twitter as <a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/">Ken's blog poast about mapping coronavirus, responsibly</a></li>
+    <li class="pt10"><a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/">Ken's blog poast about mapping coronavirus, responsibly</a></li>
     <li class="pt10"><a href="https://www.datawrapper.de">Datawrapper</a></li>
     <li class="pt10"><a href="https://twitter.com/worldmapper/status/1235336559337054208">Example tweet with a cartogram representation of coronavirus spread</a></li>
     <li class="pt10"><a href="https://www.reddit.com/r/MapsWithoutNZ/">Maps without New Zealand</a></li>
