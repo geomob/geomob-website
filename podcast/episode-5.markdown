@@ -1,6 +1,6 @@
 --- 
 layout: podcast-episode
-title: "Geomob Podcast - 5. Interview with Joana Simoes"
+title: "Geomob Podcast - 5. Mapping the coronavirus
 date: 2020-03-03 19:30:31 +0000
 tags: StevenFeldman, freyfogle, 
 permalink: /podcast/episode-5
