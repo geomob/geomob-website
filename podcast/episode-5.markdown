@@ -16,7 +16,7 @@ permalink: /podcast/episode-5
   Relevant links:
   <ul>
     <li class="pt10"><a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/">Ken's blog poast about mapping coronavirus, responsibly</a></li>
-    <li class="pt10"><a href="https://www.datawrapper.de">Datawrapper</a> You might also read this <a href="https://blog.datawrapper.de/coronaviruscharts/">blog from Datawrapper</a></li>
+    <li class="pt10"><a href="https://www.datawrapper.de">Datawrapper</a> You might also read this <a href="https://blog.datawrapper.de/coronaviruscharts/">blog from Datawrapper on Coronavirus</a></li>
     <li class="pt10"><a href="https://twitter.com/worldmapper/status/1235336559337054208">Example tweet with a cartogram representation of coronavirus spread</a></li>
     <li class="pt10"><a href="https://www.reddit.com/r/MapsWithoutNZ/">Maps without New Zealand</a></li>
     <li class="pt10"><a href="https://letsencrypt.org">Let's Encrypt sign up for free SSL Certificates</a></li>
