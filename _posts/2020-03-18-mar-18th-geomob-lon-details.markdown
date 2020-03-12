@@ -7,6 +7,7 @@ permalink: /post/mar-18th-2020-geomoblon-details
 ---
 
 <div class="heading">When and where?</div>
+{% include cancelled.html %}
 <div class="alert alert-danger" role="alert">
   This event has unfortunately been cancelled. We hope to reschedule the speakers in the future. Stay healthy everyone.
 </div>

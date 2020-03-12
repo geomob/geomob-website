@@ -6,9 +6,10 @@ tags: 20200326 geomob geomobMUC
 permalink: /post/mar-26th-2020-geomobmuc-details
 ---
 
+<div class="heading">When and where?</div>
+{% include cancelled.html %}
 
-The first #geomobMUC of 2020 will take place 18:30 on Thursday, March 26th!
-The event will be held at [Mindspace Viktualienmarkt](https://www.mindspace.me/munich/viktualienmarkt/) at Viktualienmarkt 8, 80331 Munich ([OpenStreetMap](https://www.openstreetmap.org/#map=19/48.13542/11.57527), [Google Map](https://goo.gl/maps/auJu15Jo7vyVEZqx9)).
+<span style="text-decoration:line-through">The first #geomobMUC of 2020 will take place 18:30 on Thursday, March 26th! The event will be held at [Mindspace Viktualienmarkt](https://www.mindspace.me/munich/viktualienmarkt/) at Viktualienmarkt 8, 80331 Munich ([OpenStreetMap](https://www.openstreetmap.org/#map=19/48.13542/11.57527), [Google Map](https://goo.gl/maps/auJu15Jo7vyVEZqx9))</span>.
 
 Please [RSVP on the meetup page](https://www.meetup.com/Geomob-Munich-geomobMUC/events/267860450/) so we have an estimate of numbers. 
 
