@@ -8,9 +8,6 @@ permalink: /post/mar-18th-2020-geomoblon-details
 
 <div class="heading">When and where?</div>
 {% include cancelled.html %}
-<div class="alert alert-danger" role="alert">
-  This event has unfortunately been cancelled. We hope to reschedule the speakers in the future. Stay healthy everyone.
-</div>
 <span style="text-decoration:line-through">18:30 on Wednesday the 18th of March, 2020 at [Geovation Hub](https://geovation.uk/hub/) at (_[Sutton Yard, 65 Goswell Rd, London EC1V 7EN](https://www.openstreetmap.org/#map=19/51.52435/-0.09975)_).</span>
 
 {% include why_geomob.html %}
