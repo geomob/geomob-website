@@ -19,7 +19,9 @@ Ed and Steve discuss the challenges around privacy and location.
     <li class="pt10"><a href="https://www.edparsons.com/2020/02/the-ethics-of-location-sharing/">Ed Parson's blog post - The Ethics of Location Sharing</A></li>
     <li class="pt10"><a href="https://usefathom.com/ref/Q1OOEC">Fathom Analytics</a></li>    
     <li class="pt10"><a href="https://opencagedata.com/gdpr">OpenCage GDPR statement</a></li>
-    <li class="pt10"><a href="https://www.qustodio.com/en/">Qustodio</a></li>    
+    <li class="pt10"><a href="https://www.qustodio.com/en/">Qustodio</a></li>
+    <li class="pt10"><a href="https://www.teragence.com/">Teragence</a></li>
+    <li class="pt10"><a href="https://owntracks.org">OwnTracks</a></li>    
     <li class="pt10"><a href="https://radar.io/">Radar.io</a></li>
   </ul>  
 </div>
