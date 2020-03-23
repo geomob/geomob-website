@@ -6,7 +6,7 @@ tags: AlexisBatlle, freyfogle, AVUXI, interview
 permalink: /podcast/episode-8
 ---
 
-<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/163831" frameborder="0" scrolling="no" width="100%" height="150"></iframe>
+<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/163831"></iframe>
 
 <div class="pt20">
 Ed talks with <a href="https://twitter.com/AlexisBatlle">Alexis Batlle</a>, CEO and co-founder of traveltech start-up <a href="https://www.avuxi.com">AVUXI</a>, and one of the very few people to speak at Geomob in multiple ciites (London and Barcelona).
