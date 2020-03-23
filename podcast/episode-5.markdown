@@ -6,7 +6,7 @@ tags: StevenFeldman, freyfogle,
 permalink: /podcast/episode-5
 ---
 
-<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/158758" frameborder="0" scrolling="no" width="100%" height="150"></iframe>
+<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/158758"></iframe>
 
 <div class="pt20">
   Ed and Steve discuss <a href="https://twitter.com/kennethfield">Kenneth Field</a>'s recent blog post <a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/">Mapping coronavirus, responsibly</a>.

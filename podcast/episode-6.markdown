@@ -6,7 +6,7 @@ tags: StevenFeldman, steev8, interview
 permalink: /podcast/episode-6
 ---
 
-<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/159486" frameborder="0" scrolling="no" width="100%" height="150"></iframe>
+<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/159486"></iframe>
 
 <div class="pt20">
 Steven talks with long time London OpenStreetMapper <a href="https://twitter.com/steev8">Steve Chilton</a>. 

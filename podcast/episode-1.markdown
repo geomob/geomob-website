@@ -7,7 +7,7 @@ permalink: /podcast/episode-1
 ---
 
 
-<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/152002" frameborder="0" scrolling="no" width="100%" height="150"></iframe>
+<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/152002"></iframe>
 
 <div class="pt20">
   This episode is a brief teaser of the Geomob podcast. What is Geomob and why are we starting a podcast now? What can you expect from the podcast? We also list some other geo podcasts we enjoy.
