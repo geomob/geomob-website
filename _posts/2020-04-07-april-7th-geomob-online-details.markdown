@@ -49,6 +49,8 @@ will present a talk entitled "The power of keeping it simple"
 
 * [JP Mens](https://twitter.com/jpmens) will tell us about open-source, privacy-focused, self-hosted, location tracking service [OwnTracks](https://owntracks.org/)
 
+* [Dāvis Viļums](https://twitter.com/DavisVilums) will show off his [All the Streets](http://davis.vilums.me/all-the-streets/) project
+
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle)
 
