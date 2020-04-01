@@ -51,6 +51,9 @@ will present a talk entitled "The power of keeping it simple"
 
 * [Dāvis Viļums](https://twitter.com/DavisVilums) will show off his [All the Streets](http://davis.vilums.me/all-the-streets/) project
 
+* Michael Langbein from [DLR](https://www.dlr.de) will give an overview of the work being done by the [RIESGOS](https://www.riesgos.de/en/)(Multi-risk analysis and information system components for the Andes region) project.
+
+
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle)
 
