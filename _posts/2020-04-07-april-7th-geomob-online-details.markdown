@@ -7,7 +7,7 @@ permalink: /post/april-7th-2020-geomob-details
 ---
 
 <div class="heading">When and where?</div>
-19:00 BST / 20:00 CEST on Wednesday the 7th of April 2020. This will be
+19:00 BST / 20:00 CEST on Tuesday the 7th of April 2020. This will be
 our first ever online event. We're very fortunate to be able to use the
 Zoom account of our good friends at [Geovation](https://geovation.uk/).
 Thank you! With that account we have space for about 100 people to watch
