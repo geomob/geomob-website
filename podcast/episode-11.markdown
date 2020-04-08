@@ -19,9 +19,10 @@ live as quickly as possible. Steven chats with <a href="https://twitter.com/edpa
 <div class="pt20">
   Relevant links:
   <ul>
-    <li class="pt10"><a href="https://www.google.com/covid19/mobility/">COVID-19 Community Mobility Reports</a></li>
-    <li class="pt10"><a href="https://www.edparsons.com/">Ed Parson's homepage</a></li>
-    <li class="pt10"><a href="https://www.nature.com/articles/s41467-019-12809-y">Hierarchical organization of urban mobility and its connection with city livability</a></li>
+    <li class="pt10"><a href="https://www.google.com/covid19/mobility/">COVID-19 Community Mobility Reports</a>.</li>
+    <li class="pt10"><a href="https://blog.google/technology/health/covid-19-community-mobility-reports/">Post from Jen Fitzpatrick, Google's SVP, Geo, providing context about the reports.</a></li>
+    <li class="pt10"><a href="https://www.edparsons.com/">Ed Parson's homepage</a>.</li>
+    <li class="pt10"><a href="https://www.nature.com/articles/s41467-019-12809-y">Nature paper: Hierarchical organization of urban mobility and its connection with city livability</a></li>
   </ul>  
 </div>
 
