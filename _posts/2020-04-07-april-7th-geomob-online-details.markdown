@@ -75,11 +75,11 @@ _[Watch the video](https://www.youtube.com/watch?v=bSthJKOMli8)_.
 _[Watch the video](https://www.youtube.com/watch?v=RyZ9CXGi1BI)_.
 
 * [Chris Barrington Brown](https://www.linkedin.com/in/chris-barrington-brown-410a9355/) of [Cunning Running](http://www.cunningrunning.co.uk) will discuss some of the work they do around threat analysis mapping.
-_[Watch the video]()_.
+_[Watch the video](https://www.youtube.com/watch?v=p3IFam2_mOo)_.
 
 * [Dāvis Viļums](https://twitter.com/DavisVilums) will show off his [All the Streets](http://davis.vilums.me/all-the-streets/) project. _[Watch the video](https://www.youtube.com/watch?v=DMhsY_bFU50)_.
 
-* Michael Langbein from [DLR](https://www.dlr.de) will give an overview of the work being done by the [RIESGOS](https://www.riesgos.de/en/)(Multi-risk analysis and information system components for the Andes region) project. _[Watch the video](https://www.youtube.com/watch?v=p3IFam2_mOo)_.
+* Michael Langbein from [DLR](https://www.dlr.de) will give an overview of the work being done by the [RIESGOS](https://www.riesgos.de/en/)(Multi-risk analysis and information system components for the Andes region) project. 
 
 
 <div class="heading">The organizer:</div>
