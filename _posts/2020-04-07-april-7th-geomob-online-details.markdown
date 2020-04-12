@@ -79,7 +79,7 @@ _[Watch the video](https://www.youtube.com/watch?v=p3IFam2_mOo)_.
 
 * [Dāvis Viļums](https://twitter.com/DavisVilums) will show off his [All the Streets](http://davis.vilums.me/all-the-streets/) project. _[Watch the video](https://www.youtube.com/watch?v=DMhsY_bFU50)_.
 
-* Michael Langbein from [DLR](https://www.dlr.de) will give an overview of the work being done by the [RIESGOS](https://www.riesgos.de/en/)(Multi-risk analysis and information system components for the Andes region) project. 
+* Michael Langbein from [DLR](https://www.dlr.de) will give an overview of the work being done by the [RIESGOS](https://www.riesgos.de/en/)(Multi-risk analysis and information system components for the Andes region) project. _[Watch the video](https://www.youtube.com/watch?v=Mltqw14-hbA)_.
 
 
 <div class="heading">The organizer:</div>
