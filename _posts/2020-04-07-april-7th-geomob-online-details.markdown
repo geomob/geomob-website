@@ -58,28 +58,33 @@ the talks.
 
 * Unless there is some sort of unplanned technical problem, we will post
 a recording of the event shortly after the event.
+**UPDATE: The videos [have been posted](https://www.youtube.com/channel/UCI2eXLC6z4k4K9EvFcHfL5g)!**
 
 * In general, please come with the right attitude and have patience as it is
 our first ever online event. If all goes well we will have more in the future.
 
 <div class="heading">The speakers:</div>
 
-* [JP Mens](https://twitter.com/jpmens) will tell us about open-source, privacy-focused, self-hosted, location tracking service [OwnTracks](https://owntracks.org/)
+* [JP Mens](https://twitter.com/jpmens) will tell us about open-source, privacy-focused, self-hosted, location tracking service [OwnTracks](https://owntracks.org/). _Note: we unfortunately failed to record this talk, but here is [another talk by JP about OwnTracks](https://www.youtube.com/watch?v=ZOkit8TVUd8)_.
 
 * [Monika Swiderska](https://www.linkedin.com/in/monika-swiderska-aa370782/)
-will present a talk entitled "The power of keeping it simple"
+will present a talk entitled "The power of keeping it simple".
+_[Watch the video](https://www.youtube.com/watch?v=bSthJKOMli8)_.
 
-* [Minlue Wang](https://www.linkedin.com/in/minlue-wang-b572b432/) from [Shipamax](https://shipamax.com)
+* [Minlue Wang](https://www.linkedin.com/in/minlue-wang-b572b432/) from [Shipamax](https://shipamax.com).
+_[Watch the video](https://www.youtube.com/watch?v=RyZ9CXGi1BI)_.
 
-* [Chris Barrington Brown](https://www.linkedin.com/in/chris-barrington-brown-410a9355/) of [Cunning Running](http://www.cunningrunning.co.uk) will discuss some of the work they do around threat analysis mapping 
+* [Chris Barrington Brown](https://www.linkedin.com/in/chris-barrington-brown-410a9355/) of [Cunning Running](http://www.cunningrunning.co.uk) will discuss some of the work they do around threat analysis mapping.
+_[Watch the video]()_.
 
-* [Dāvis Viļums](https://twitter.com/DavisVilums) will show off his [All the Streets](http://davis.vilums.me/all-the-streets/) project
+* [Dāvis Viļums](https://twitter.com/DavisVilums) will show off his [All the Streets](http://davis.vilums.me/all-the-streets/) project. _[Watch the video](https://www.youtube.com/watch?v=DMhsY_bFU50)_.
 
-* Michael Langbein from [DLR](https://www.dlr.de) will give an overview of the work being done by the [RIESGOS](https://www.riesgos.de/en/)(Multi-risk analysis and information system components for the Andes region) project.
+* Michael Langbein from [DLR](https://www.dlr.de) will give an overview of the work being done by the [RIESGOS](https://www.riesgos.de/en/)(Multi-risk analysis and information system components for the Andes region) project. _[Watch the video](https://www.youtube.com/watch?v=p3IFam2_mOo)_.
 
 
 <div class="heading">The organizer:</div>
-Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle)
+Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
+[Steven Feldman](https://twitter.com/StevenFeldman).
 
 {% include thanks.html %}
 {% include spread_the_word.html %}
