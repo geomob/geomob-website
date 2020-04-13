@@ -7,11 +7,14 @@ permalink: /post/may-6th-2020-geomobbcn-details
 ---
 
 <div class="heading">When and where?</div>
-The next #geomobBCN will be at
-<span class="b">18:00 on Wednesday, the 6th of May, 2020</span>.
+
+{% include cancelled.html %}
+
+<span style="text-decoration:line-through">The next #geomobBCN will be at
+18:00 on Wednesday, the 6th of May, 2020.
 I am delighted that we can once again rely on the hospitality of our friends at
 [CoWorkIdea](https://coworkidea.com/en/), who will host us at their
-excellent co-working space at [Carrer de Torres i Amat, 21, First Floor](https://goo.gl/maps/wEAX4uRU8EN2).
+excellent co-working space at [Carrer de Torres i Amat, 21, First Floor](https://goo.gl/maps/wEAX4uRU8EN2)</span>.
 
 {% include why_geomob.html %}
 
