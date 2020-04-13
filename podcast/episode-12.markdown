@@ -11,8 +11,14 @@ permalink: /podcast/episode-12
 <div class="pt20">
 Steven chats with <a href="https://twitter.com/kennethfield">Kenneth Field</a>,
 author of <a href="https://www.amazon.co.uk/Cartography-Kenneth-Field/dp/1589485025/ref=sr_1_1">Cartography</a>, about mapping responsibly. 
+</div>
 
+<div class="pt20">
+Images discussed in the episode:
 
+<img src="/images/kennethfield1.png" class="center-image">
+
+<img src="/images/kennethfield2.png" class="center-image">
 </div>
 
 <div class="pt20">
@@ -21,6 +27,11 @@ author of <a href="https://www.amazon.co.uk/Cartography-Kenneth-Field/dp/1589485
     <li class="pt10"><a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/">Mapping coronavirus, responsibly</a>.</li>
     <li class="pt10"><a href="http://cartonerd.com/">Kenneth's blog</a>.</li>
     <li class="pt10">Kenneth's UK cheese board, presented at GeomobLON in Septemebr 2018, was featured on the <a href="https://twitter.com/geomob/status/1069653744370049024">cover of the 2019 GeoHipster calendar</a>.</li>
+    <li class="pt10"><a href="https://www.youtube.com/watch?v=Kas0tIxDvrg&feature=emb_logo">Exponential growth and epidemics</a></li>
+    <li class="pt10"><a href="https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8">Ten Considerations Before You Create Another Chart About COVID-19</a></li>
+    <li class="pt10"><a href="https://twitter.com/CT_Bergstrom/status/1235865328074153986">The power of data graphics and scientific communication.</a></li>
+    <li class="pt10"><a href="https://blog.datawrapper.de/coronaviruscharts/">17 (or so) responsible live visualizations about the coronavirus, for you to use.</a></li>
+    <li class="pt10"><a href="https://www.visualisingdata.com/2020/03/communication-themes-from-coronavirus-outbreak/">Communication themes emerging from coverage of the Coronavirus outbreak.</a></li>    
   </ul>  
 </div>
 
