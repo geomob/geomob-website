@@ -18,7 +18,7 @@ author of <a href="https://www.amazon.co.uk/Cartography-Kenneth-Field/dp/1589485
 <div class="pt20">
   Relevant links:
   <ul>
-    <li class="pt10"><a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/">Mapping coronavirus, responsibly</a></li>.
+    <li class="pt10"><a href="https://www.esri.com/arcgis-blog/products/product/mapping/mapping-coronavirus-responsibly/">Mapping coronavirus, responsibly</a>.</li>
     <li class="pt10"><a href="http://cartonerd.com/">Kenneth's blog</a>.</li>
     <li class="pt10">Kenneth's UK cheese board, presented at GeomobLON in Septemebr 2018, was featured on the <a href="https://twitter.com/geomob/status/1069653744370049024">cover of the 2019 GeoHipster calendar</a>.</li>
   </ul>  
