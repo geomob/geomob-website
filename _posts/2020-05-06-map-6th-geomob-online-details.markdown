@@ -11,8 +11,8 @@ We have unfortunately had to cancel
 Instead we will have this online event.
 
 <div class="heading">When and where?</div>
-19:00 BST / 20:00 CEST on Wednesday the 6th of May 2020. This will be
-our first ever online event. We have space for about 100 people to watch
+19:00 BST / 20:00 CEST on Wednesday the 6th of May 2020.
+We have space for about 100 people to watch
 the talks. A sign up form will go out in the early-May [Geomob newsletter](https://thegeomob.com/mailing-list), and we will invite people to the live event
 based on whoever signed up first. Sorry we don't have a more fair way to do it. 
 
