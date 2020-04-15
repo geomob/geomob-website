@@ -21,8 +21,7 @@ based on whoever signed up first. Sorry we don't have a more fair way to do it.
 <div class="heading">Agenda / How will it work?</div>
 
 Our format for the evening will be as close to the format of our in-person
-events as possible. That said, please bear with us as we are doing this for
-the first time.
+events as possible.
 
 * Before the event please make sure you have [Zoom](https://zoom.us/) installed.
 
@@ -62,9 +61,6 @@ the talks.
 
 * Unless there is some sort of unplanned technical problem, we will post
 a recording of the event shortly after the event.
-
-* In general, please come with the right attitude and have patience as it is
-our first ever online event. If all goes well we will have more in the future.
 
 <div class="heading">The speakers:</div>
 
