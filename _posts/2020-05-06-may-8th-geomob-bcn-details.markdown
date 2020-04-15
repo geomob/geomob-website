@@ -10,6 +10,8 @@ permalink: /post/may-6th-2020-geomobbcn-details
 
 {% include cancelled.html %}
 
+We will instead [have an online event](/post/may-6th-2020-geomob-details).
+
 <span style="text-decoration:line-through">The next #geomobBCN will be at
 18:00 on Wednesday, the 6th of May, 2020.
 I am delighted that we can once again rely on the hospitality of our friends at
