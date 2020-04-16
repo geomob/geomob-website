@@ -69,7 +69,7 @@ a recording of the event shortly after the event.
 * [Mathias Kemeter](https://twitter.com/math1ask) from SAP
 where he works on developing an OGC compliant geo database (Spatial Engine in SAP HANA). He will talk about "_How a geo database (HANA in particular) can help to scale Spatial ML_". Some background reading on the SAP blog: [about SAP HANA](https://blogs.sap.com/2020/02/08/spatial-data-science-powered-by-sap-hana/) and [using SAP HANA to predict taxi destinations](https://blogs.sap.com/2020/03/25/predicting-taxi-destinations-with-sap-hana/).
 
-* [Anna Leggett](https://twitter.com/aslleggett) of [Stripe Partners](https://www.stripepartners.com/) will share some recent research they have been doing onthe geospatial industry.
+* [Anna Leggett](https://twitter.com/aslleggett) of [Stripe Partners](https://www.stripepartners.com/) will share some recent research they have been doing on the geospatial industry.
 
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
