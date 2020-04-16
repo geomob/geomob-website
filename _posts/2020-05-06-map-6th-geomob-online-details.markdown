@@ -71,6 +71,10 @@ where he works on developing an OGC compliant geo database (Spatial Engine in SA
 
 * [Anna Leggett](https://twitter.com/aslleggett) of [Stripe Partners](https://www.stripepartners.com/) will share some recent research they have been doing on the geospatial industry.
 
+* [Peter Thum-Bonanno](https://twitter.com/peter_t_b), co-founder of
+[GetAgent](https://www.getagent.co.uk), tells us about their
+[dashboard tracking the effects of the virus on the UK property market](https://www.getagent.co.uk/coronavirus-housing-market). 
+
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
 [Steven Feldman](https://twitter.com/StevenFeldman).
