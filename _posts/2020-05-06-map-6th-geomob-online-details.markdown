@@ -76,7 +76,7 @@ where he works on developing an OGC compliant geo database (Spatial Engine in SA
 [dashboard tracking the effects of the virus on the UK property market](https://www.getagent.co.uk/coronavirus-housing-market).
 
 * [Ed Parsons](https://twitter.com/edparsons), Google's Geospatial Technologist,
-will share with us some of their efforts in response to the virus.
+will discuss "_Responsible use of Geo during the COVID-19 outbreak_"
 
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
