@@ -78,7 +78,7 @@ where he works on developing an OGC compliant geo database (Spatial Engine in SA
 * [Ed Parsons](https://twitter.com/edparsons), Google's Geospatial Technologist,
 will discuss "_Responsible use of Geo during the COVID-19 outbreak_"
 
-* [Camila Gonzalez Arango](https://www.linkedin.com/in/camilagonzaleza/) of [Spare Labs](https://sparelabs.com) will present a case study in "_On demand transport in response to COVID-19_"
+* [Camila Gonzalez Arango](https://www.linkedin.com/in/camilagonzaleza/) of [Spare Labs](https://sparelabs.com) will present a case study in "_On demand transport in response to COVID-19_". [Learn more](https://drive.google.com/file/d/1gRaCX6Xj4ebZz5JHe4LWVJMM-a9qBM_2/view).
 
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
