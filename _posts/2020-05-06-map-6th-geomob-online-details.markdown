@@ -73,7 +73,10 @@ where he works on developing an OGC compliant geo database (Spatial Engine in SA
 
 * [Peter Thum-Bonanno](https://twitter.com/peter_t_b), co-founder of
 [GetAgent](https://www.getagent.co.uk), tells us about their
-[dashboard tracking the effects of the virus on the UK property market](https://www.getagent.co.uk/coronavirus-housing-market). 
+[dashboard tracking the effects of the virus on the UK property market](https://www.getagent.co.uk/coronavirus-housing-market).
+
+* [Ed Parsons](https://twitter.com/edparsons), Google's Geospatial Technologist
+will share with us some of their efforts in response to the virus.
 
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
