@@ -1,15 +1,19 @@
 --- 
 layout: post
-title: "April 7th, 2020 #geomob online details"
-date: 2020-03-31 07:14:38 +0000
-tags: 20200407 geomob
-permalink: /post/april-7th-2020-geomob-details
+title: "May 6th, 2020 #geomob online details"
+date: 2020-04-15 10:02:41 +0000
+tags: 20200506 geomob
+permalink: /post/may-6th-2020-geomob-details
 ---
 
+We have unfortunately had to cancel
+[the GeomobBCN originally scheduled for May 6th](/post/may-6th-2020-geomobbcn-details).
+Instead we will have this online event.
+
 <div class="heading">When and where?</div>
-19:00 BST / 20:00 CEST on Tuesday the 7th of April 2020. This will be
-our first ever online event. We have space for about 100 people to watch
-the talks. A sign up form will go out in the early-April [Geomob newsletter](https://thegeomob.com/mailing-list), and we will invite people to the live event
+19:00 BST / 20:00 CEST on Wednesday the 6th of May 2020.
+We have space for about 100 people to watch
+the talks. A sign up form will go out in the early-May [Geomob newsletter](https://thegeomob.com/mailing-list), and we will invite people to the live event
 based on whoever signed up first. Sorry we don't have a more fair way to do it. 
 
 {% include why_geomob.html %}
@@ -17,8 +21,7 @@ based on whoever signed up first. Sorry we don't have a more fair way to do it.
 <div class="heading">Agenda / How will it work?</div>
 
 Our format for the evening will be as close to the format of our in-person
-events as possible. That said, please bear with us as we are doing this for
-the first time.
+events as possible.
 
 * Before the event please make sure you have [Zoom](https://zoom.us/) installed.
 
@@ -58,30 +61,24 @@ the talks.
 
 * Unless there is some sort of unplanned technical problem, we will post
 a recording of the event shortly after the event.
-**UPDATE: The videos [have been posted](https://www.youtube.com/channel/UCI2eXLC6z4k4K9EvFcHfL5g)!**
-
-* In general, please come with the right attitude and have patience as it is
-our first ever online event. If all goes well we will have more in the future.
 
 <div class="heading">The speakers:</div>
 
-* [JP Mens](https://twitter.com/jpmens) will tell us about open-source, privacy-focused, self-hosted, location tracking service [OwnTracks](https://owntracks.org/). _Note: we unfortunately failed to record this talk, but here is [another talk by JP about OwnTracks](https://www.youtube.com/watch?v=ZOkit8TVUd8)_.
+* [David Nogué](https://twitter.com/ddnogue), founder of [EIXOS Economic Observatory](http://eixos.cat/) will present various post-quarantine scenarios for Barcelona based on their analysis of the retail landscape ([see blog post](http://blog.eixos.cat/?p=478)).
 
-* [Monika Swiderska](https://www.linkedin.com/in/monika-swiderska-aa370782/)
-will present a talk entitled "The power of keeping it simple".
-_[Watch the video](https://www.youtube.com/watch?v=bSthJKOMli8)_.
+* [Mathias Kemeter](https://twitter.com/math1ask) from SAP
+where he works on developing an OGC compliant geo database (Spatial Engine in SAP HANA). He will talk about "_How a geo database (HANA in particular) can help to scale Spatial ML_". Some background reading on the SAP blog: [about SAP HANA](https://blogs.sap.com/2020/02/08/spatial-data-science-powered-by-sap-hana/) and [using SAP HANA to predict taxi destinations](https://blogs.sap.com/2020/03/25/predicting-taxi-destinations-with-sap-hana/).
 
-* [Minlue Wang](https://www.linkedin.com/in/minlue-wang-b572b432/) from [Shipamax](https://shipamax.com).
-_[Watch the video](https://www.youtube.com/watch?v=RyZ9CXGi1BI)_.
+* [Anna Leggett](https://twitter.com/aslleggett) of [Stripe Partners](https://www.stripepartners.com/) will share some recent research they have been doing on the geospatial industry.
 
-* [Chris Barrington Brown](https://www.linkedin.com/in/chris-barrington-brown-410a9355/) of [Cunning Running](http://www.cunningrunning.co.uk) will discuss some of the work they do around threat analysis mapping.
-_[Watch the video](https://www.youtube.com/watch?v=p3IFam2_mOo)_.
+* [Peter Thum-Bonanno](https://twitter.com/peter_t_b), co-founder of
+[GetAgent](https://www.getagent.co.uk), tells us about their
+[dashboard tracking the effects of the virus on the UK property market](https://www.getagent.co.uk/coronavirus-housing-market).
 
-* [Dāvis Viļums](https://twitter.com/DavisVilums) will show off his [All the Streets](http://davis.vilums.me/all-the-streets/) project. _[Watch the video](https://www.youtube.com/watch?v=DMhsY_bFU50)_.
+* [Ed Parsons](https://twitter.com/edparsons), Google's Geospatial Technologist,
+will discuss "_Responsible use of Geo during the COVID-19 outbreak_"
 
-* Michael Langbein from [DLR](https://www.dlr.de) will give an overview of the work being done by the [RIESGOS](https://www.riesgos.de/en/)(Multi-risk analysis and information system components for the Andes region) project. _[Watch the video](https://www.youtube.com/watch?v=Mltqw14-hbA)_.
-
-
+* [Camila Gonzalez Arango](https://www.linkedin.com/in/camilagonzaleza/) of [Spare Labs](https://sparelabs.com) will present a case study in "_On demand transport in response to COVID-19_". [Learn more](https://drive.google.com/file/d/1gRaCX6Xj4ebZz5JHe4LWVJMM-a9qBM_2/view).
 
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
