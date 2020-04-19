@@ -11,7 +11,8 @@ permalink: /podcast/episode-13
 <div class="pt20">
 Ed and Steven look back on how our first Geomob online went. Does this format
 work? What could have gone better? Ed rants about how annoying video editing
-was.
+was. Please note - when we recorded we still had a few open speaking slots for the 6th of May event, but those have now all been filled
+([see the lineup](https://thegeomob.com/post/may-6th-2020-geomob-details)), but we always need speaker volunteers for future events so please do get in touch if you would like to speak in June or some other date in the future. 
 </div>
 
 <div class="pt20">
