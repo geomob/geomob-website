@@ -64,6 +64,8 @@ a recording of the event shortly after the event.
 
 * [Andrew Hoskin](https://www.linkedin.com/in/andrewhoskin/), co-founder of [LastMileXchange](http://www.lastmilexchange.com/), will discuss the challenges they face in address cleansing and matching heterogenous addresses databases.
 
+* [Ricardo Varela](https://twitter.com/phobeo), founder of [Localistico](https://localistico.com/)
+
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
 [Steven Feldman](https://twitter.com/StevenFeldman).
