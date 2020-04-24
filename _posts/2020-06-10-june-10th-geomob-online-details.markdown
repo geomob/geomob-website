@@ -68,6 +68,8 @@ a recording of the event shortly after the event.
 
 * [Ernest Artiaga](https://twitter.com/ernest_artiaga) from [Albora](https://albora.io/)
 
+* [Joana Simoes](https://twitter.com/doublebyte) from [CodeOp](https://codeop.tech/)
+
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
 [Steven Feldman](https://twitter.com/StevenFeldman).
