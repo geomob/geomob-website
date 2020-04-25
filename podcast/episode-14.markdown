@@ -9,7 +9,7 @@ permalink: /podcast/episode-14
 <iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/186085"></iframe>
 
 <div class="pt20">
-Ed talks with <a href="https://twitter.com/jpmens">Jan-Piet Mens</a>, one of the creators of open-source project <a href="https://owntracks.org">OwnTracks</a>, a privacy focused location tracking service. Jan-Piet presented the service at <a href="/post/april-7th-2020-geomob-details">the 7 April 2020 Geomob Online</a>.
+Ed talks with <a href="https://twitter.com/jpmens">Jan-Piet Mens</a>, one of the creators of open-source project <a href="https://owntracks.org">OwnTracks</a>, a privacy focused location tracking service. Jan-Piet presented the service at <a href="/post/april-7th-2020-geomob-details">the 7 April 2020 Geomob Online</a>. Unfortunately Ed stupidly started the recording of the talk a bit late, so we have no recording. But there is a link below to a longer, more detailed talk about OwnTracks if you want to learn more.
 </div>
 
 <div class="pt20">
