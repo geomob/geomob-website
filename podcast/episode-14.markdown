@@ -18,7 +18,9 @@ Ed talks with <a href="https://twitter.com/jpmens">Jan-Piet Mens</a>, one of the
     <li class="pt10"><a href="https://owntracks.org/">OwnTracks</a></li>
     <li class="pt10"><a href="https://twitter.com/OwnTracks">@OwnTracks on twitter</a></li>
     <li class="pt10"><a href="https://github.com/owntracks">The OwnTracks project on GitHub</a></li>
+    <li class="pt10"><a href="https://liberapay.com/OwnTracks.org/donate">Donate to support OwnTracks</a></li>
     <li class="pt10"><a href="https://www.youtube.com/watch?v=ZOkit8TVUd8">A video of Jan-Piet presenting OwnTracks in detail at a conference</a>.</li>
+    
   </ul>  
 </div>
 
