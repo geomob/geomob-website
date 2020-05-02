@@ -6,10 +6,6 @@ tags: 20200506 geomob
 permalink: /post/may-6th-2020-geomob-details
 ---
 
-We have unfortunately had to cancel
-[the GeomobBCN originally scheduled for May 6th](/post/may-6th-2020-geomobbcn-details).
-Instead we will have this online event.
-
 <div class="heading">When and where?</div>
 19:00 BST / 20:00 CEST on Wednesday the 6th of May 2020.
 We have space for about 100 people to watch
