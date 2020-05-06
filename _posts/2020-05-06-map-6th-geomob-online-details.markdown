@@ -6,10 +6,6 @@ tags: 20200506 geomob
 permalink: /post/may-6th-2020-geomob-details
 ---
 
-We have unfortunately had to cancel
-[the GeomobBCN originally scheduled for May 6th](/post/may-6th-2020-geomobbcn-details).
-Instead we will have this online event.
-
 <div class="heading">When and where?</div>
 19:00 BST / 20:00 CEST on Wednesday the 6th of May 2020.
 We have space for about 100 people to watch
@@ -45,8 +41,8 @@ about the event please do so on twitter using the hashtag #geomob.
 
 * Each speaker will present his/her slides, speaking for 10-15 minutes.
 
-* If you have a question for the speaker please send it by email to
-questions @ thegeomob.com.
+* If you have a question for the speaker please use the chat functionality in
+Zoom. Questions will only be visible to the admins.
 
 * After the speaker finishes his or her talk a moderator will ask one or two
 of the questions submitted by the audience. Hopefully in this way we can have
