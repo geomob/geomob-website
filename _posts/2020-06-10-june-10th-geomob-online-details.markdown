@@ -41,8 +41,8 @@ about the event please do so on twitter using the hashtag #geomob.
 
 * Each speaker will present his/her slides, speaking for 10-15 minutes.
 
-* If you have a question for the speaker please send it by email to
-questions @ thegeomob.com.
+* If you have a question for the speaker please use the chat functionality in Zoom.
+Questions will only be visible to the admins.
 
 * After the speaker finishes his or her talk a moderator will ask one or two
 of the questions submitted by the audience. Hopefully in this way we can have
@@ -55,8 +55,8 @@ Please just follow up one on one (or post it on twitter).
 discussion and #geobeers. Feel free to enjoy a #geobeer while watching
 the talks. 
 
-* Unless there is some sort of unplanned technical problem, we will post
-a recording of the event shortly after the event.
+* Unless there is some sort of unplanned technical problem, we will post videos of
+the talks here shortly after the event.
 
 <div class="heading">The speakers:</div>
 
