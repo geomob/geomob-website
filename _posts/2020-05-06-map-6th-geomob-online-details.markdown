@@ -8,12 +8,11 @@ permalink: /post/may-6th-2020-geomob-details
 
 
 <div class="heading">Event Summary</div>
+Thank you to the attendees, speakers, sponsors at our second Geomob online.
 Here's a thread summarising the evening, the videos are linked below:
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our first <a href="https://twitter.com/hashtag/geomob?src=hash&amp;ref_src=twsrc%5Etfw">#geomob</a> speaker of the evening: David Nogué <a href="https://twitter.com/ddnogue?ref_src=twsrc%5Etfw">@ddnogue</a> founder of EIXOS <a href="https://twitter.com/Eixoscat?ref_src=twsrc%5Etfw">@Eixoscat</a></p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1258096523407233024?ref_src=twsrc%5Etfw">May 6, 2020</a></blockquote> 
 
 <div class="heading">The speakers/videos</div>
-
 * [David Nogué](https://twitter.com/ddnogue), founder of [EIXOS Economic Observatory](http://eixos.cat/) will present various post-quarantine scenarios for Barcelona based on their analysis of the retail landscape ([see blog post](http://blog.eixos.cat/?p=478)). _[Watch the video](https://www.youtube.com/watch?v=hwLS1gAqJxM)_.
 
 * [Mathias Kemeter](https://twitter.com/math1ask) from SAP
