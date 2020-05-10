@@ -15,8 +15,10 @@ In this episode Ed chats with <a href="https://twitter.com/muthukumarceg">Muthuk
 <div class="pt20">
   Relevant links:
   <ul>
+    <li class="pt10"><a href="https://my.demio.com/ref/qXZc0vwmI699TQJ6">The upcoming (June 4th) Geoawesomeness Digital meetup</a></li>
     <li class="pt10"><a href="https://www.linkedin.com/in/muthukumarkumar/">Muthu on LinkedIn</a></li>
-    <li class="pt10"><a href="https://geoawesomeness.com/">Geoawesomeness</a></li>    
+    <li class="pt10"><a href="https://geoawesomeness.com/">Geoawesomeness</a></li>
+   
   </ul>  
 </div>
 
