@@ -70,7 +70,6 @@ the talks here shortly after the event.
 
 * [Joana Simoes](https://twitter.com/doublebyte), CTO of [CodeOp](https://codeop.tech/)
 
-* [Talib Qayyum](https://www.linkedin.com/in/talib-qayyum-333a773/) of [Parking Eagle](https://www.parkingeagle.com)
 
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
