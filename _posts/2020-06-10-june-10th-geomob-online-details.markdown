@@ -70,6 +70,7 @@ the talks here shortly after the event.
 
 * [Joana Simoes](https://twitter.com/doublebyte), CTO of [CodeOp](https://codeop.tech/)
 
+* [John Craig](https://www.linkedin.com/in/johncraigh/) will present "_Location-Based Advertising - Easy to understand, but tough to make successful_"
 
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
