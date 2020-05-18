@@ -9,7 +9,7 @@ permalink: /post/july-15th-2020-geomob-details
 <div class="heading">When and where?</div>
 19:00 BST / 20:00 CEST on Wednesday the 15th of July, 2020.
 We have space for about 100 people to watch
-the talks. A sign up form will go out in the early-Jule [Geomob newsletter](/mailing-list), and we will invite people to the live event
+the talks. A sign up form will go out in the early-July [Geomob newsletter](/mailing-list), and we will invite people to the live event
 based on whoever signed up first. Sorry we don't have a more fair way to do it. 
 
 {% include why_geomob.html %}
