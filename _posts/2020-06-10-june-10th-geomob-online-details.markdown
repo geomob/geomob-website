@@ -64,11 +64,14 @@ the talks here shortly after the event.
 
 * [Andrew Hoskin](https://www.linkedin.com/in/andrewhoskin/), co-founder of [LastMileXchange](http://www.lastmilexchange.com/), will discuss the challenges they face in address cleansing and matching heterogenous addresses databases.
 
+* [Mirta Pinilla](https://www.linkedin.com/in/mirtarodriguezpinilla/) of [Starlab](https://www.starlab.es) will speak about _[Pointout](https://targetdetection.com/app): a platform to build data sets for object detection in satellite imagery._
+
 * [Ricardo Varela](https://twitter.com/phobeo), founder of [Localistico](https://localistico.com/)
 
 * [Ernest Artiaga](https://twitter.com/ernest_artiaga) from [Albora](https://albora.io/)
 
 * [John Craig](https://www.linkedin.com/in/johncraigh/) will present "_Location-Based Advertising - Easy to understand, but tough to make successful_"
+
 
 <div class="heading">The organizer:</div>
 Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
