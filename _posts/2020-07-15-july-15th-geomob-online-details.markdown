@@ -20,6 +20,8 @@ based on whoever signed up first. Sorry we don't have a more fair way to do it.
 
 * [Julien Coupey](https://twitter.com/juliencoupey) from the [Vroom (Vehicle Routing Open-source Optimization Machine) project](http://vroom-project.org/)
 
+* [Victoria Crawford](https://twitter.com/VixCrawford), will present her work on finding urban henges.
+
 * [Dave Barter](https://www.linkedin.com/in/dave-barter-43ab672/), CEO of [Nautoguide](https://www.nautoguide.com/)
 
 * [Joana Simoes](https://twitter.com/doublebyte), CTO of [CodeOp](https://codeop.tech/)
