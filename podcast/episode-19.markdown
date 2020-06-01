@@ -18,8 +18,8 @@ Steven has been hard at work helping organize <a href="https://uk.osgeo.org/foss
     <li class="pt10"><a href="https://uk.osgeo.org/foss4gukonline2020/programme.html">the FOSS4GUK 2020 schedule</a></li>
     <li class="pt10"><a href="https://www.eventbrite.co.uk/e/foss4guk-2020-online-registration-105523419388">Registration for the event</a></li>
     <li class="pt10"><a href="https://twitter.com/foss4guk">@foss4guk on twitter</a></li>
-    <li class="pt10"><a href="https://mapaction.org/donate/">MapAction</a></li>
-    <li class="pt10"><a href="https://uk.osgeo.org">OSGeo:UK</a></li>
+    <li class="pt10"><a href="https://mapaction.org/donate/">Donate to MapAction</a></li>
+    <li class="pt10"><a href="https://paypal.me/osgeouk">Donate to OSGeo:UK</a></li>
     <li class="pt10">OpenCage's new <a href="https://opencagedata.com/reverse-geocoding">guide to reverse geocoding</a></li>
   </ul>  
 </div>
