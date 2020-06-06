@@ -18,6 +18,7 @@ Steven catches up with geo industry veteran <a href="https://twitter.com/acoote"
   <ul>
     <li class="pt10"><a href="https://www.consultingwhere.com/wp-content/uploads/2020/02/ConsultingWhere%20Location%20Market%20Survey%202020%20Summary%2020200201.pdf">Executive summary of the 2020 Location Market Survey</a></li>
      <li class="pt10"><a href="https://en.wikipedia.org/wiki/Hype_cycle">The Hype Cycle</a></li>
+     <li class="pt10"><a href="https://www.youtube.com/watch?v=p3IFam2_mOo&t=180s">Video of Chris Barrington Brown of Cunning Running</a>, which Andy named as one of his favorite Geomob talks.</li>
   </ul>
 </div>
 
