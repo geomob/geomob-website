@@ -3,7 +3,7 @@ layout: podcast-episode
 title: "Geomob Podcast - 18. Interview with Giuseppe Sollazzo"
 date: 2020-05-10 08:14:07 +0000
 tags: acoote, StevenFeldman, opendata, interview, ConsultingWhere
-permalink: /podcast/episode-18
+permalink: /podcast/episode-20
 ---
 
 <iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/201879"></iframe>
