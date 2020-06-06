@@ -1,6 +1,6 @@
 --- 
 layout: podcast-episode
-title: "Geomob Podcast - 18. Interview with Andy Coote of ConsultingWhere"
+title: "Geomob Podcast - 20. Interview with Andy Coote of ConsultingWhere"
 date: 2020-05-10 08:14:07 +0000
 tags: acoote, StevenFeldman, opendata, interview, ConsultingWhere
 permalink: /podcast/episode-20
