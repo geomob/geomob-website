@@ -6,6 +6,28 @@ tags: 20200610 geomob
 permalink: /post/june-10th-2020-geomob-details
 ---
 
+
+<div class="heading">Event Summary</div>
+Thank you to the attendees, speakers, sponsors at our June 10th, online event.
+Here's a thread summarising the evening:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tonight&#39;s <a href="https://twitter.com/geomob?ref_src=twsrc%5Etfw">@geomob</a> zoom link just went out, people are starting to trickle in. We&#39;ll start in 20 minutes. This tweet will start a thread about the evening, so follow along if you can&#39;t attend.</p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1270773772501606403?ref_src=twsrc%5Etfw">June 10, 2020</a></blockquote>
+
+<div class="heading">The speakers:</div>
+
+* [Miguel Marques](https://www.linkedin.com/in/migmarques/), founder of [Mapidea](https://www.mapidea.com/)
+
+* [Andrew Hoskin](https://www.linkedin.com/in/andrewhoskin/), co-founder of [LastMileXchange](http://www.lastmilexchange.com/), will discuss the challenges they face in address cleansing and matching heterogenous addresses databases.
+
+* [Mirta Pinilla](https://www.linkedin.com/in/mirtarodriguezpinilla/) of [Starlab](https://www.starlab.es) will speak about _[Pointout](https://targetdetection.com/app): a platform to build data sets for object detection in satellite imagery._
+
+* [Ricardo Varela](https://twitter.com/phobeo), founder of [Localistico](https://localistico.com/)
+
+* [Ernest Artiaga](https://twitter.com/ernest_artiaga) from [Albora](https://albora.io/)
+
+* [John Craig](https://www.linkedin.com/in/johncraigh/) will present "_Location-Based Advertising - Easy to understand, but tough to make successful_"
+
+
 <div class="heading">When and where?</div>
 19:00 BST / 20:00 CEST on Wednesday the 10th of June, 2020.
 We have space for about 100 people to watch
@@ -57,20 +79,6 @@ the talks.
 
 * Unless there is some sort of unplanned technical problem, we will post videos of
 the talks here shortly after the event.
-
-<div class="heading">The speakers:</div>
-
-* [Miguel Marques](https://www.linkedin.com/in/migmarques/), founder of [Mapidea](https://www.mapidea.com/)
-
-* [Andrew Hoskin](https://www.linkedin.com/in/andrewhoskin/), co-founder of [LastMileXchange](http://www.lastmilexchange.com/), will discuss the challenges they face in address cleansing and matching heterogenous addresses databases.
-
-* [Mirta Pinilla](https://www.linkedin.com/in/mirtarodriguezpinilla/) of [Starlab](https://www.starlab.es) will speak about _[Pointout](https://targetdetection.com/app): a platform to build data sets for object detection in satellite imagery._
-
-* [Ricardo Varela](https://twitter.com/phobeo), founder of [Localistico](https://localistico.com/)
-
-* [Ernest Artiaga](https://twitter.com/ernest_artiaga) from [Albora](https://albora.io/)
-
-* [John Craig](https://www.linkedin.com/in/johncraigh/) will present "_Location-Based Advertising - Easy to understand, but tough to make successful_"
 
 
 <div class="heading">The organizer:</div>
