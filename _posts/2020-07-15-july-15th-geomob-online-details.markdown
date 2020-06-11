@@ -22,8 +22,6 @@ based on whoever signed up first. Sorry we don't have a more fair way to do it.
 
 * [Victoria Crawford](https://twitter.com/VixCrawford), will present her work on finding urban henges.
 
-* [Dave Barter](https://www.linkedin.com/in/dave-barter-43ab672/), CEO of [Nautoguide](https://www.nautoguide.com/)
-
 * [Joana Simoes](https://twitter.com/doublebyte), CTO of [CodeOp](https://codeop.tech/)
 
 * [Jelte Liebrand](https://www.linkedin.com/in/jelte-liebrand/), founder of nautical navigation service [savvy navvy](https://www.savvy-navvy.com/)
