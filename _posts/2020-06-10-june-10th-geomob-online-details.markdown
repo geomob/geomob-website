@@ -13,7 +13,10 @@ Here's a thread summarising the evening:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tonight&#39;s <a href="https://twitter.com/geomob?ref_src=twsrc%5Etfw">@geomob</a> zoom link just went out, people are starting to trickle in. We&#39;ll start in 20 minutes. This tweet will start a thread about the evening, so follow along if you can&#39;t attend.</p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1270773772501606403?ref_src=twsrc%5Etfw">June 10, 2020</a></blockquote>
 
-<div class="heading">The speakers:</div>
+<div class="heading">The speakers/videos:</div>
+
+The videos from the event (of those speakers who agreed) can be seen
+<a href="https://www.youtube.com/playlist?list=PL0O40c1c5Xt3TAHC_ql-SHukgjnjfhUvp">in this playlist on YouTube</a>.
 
 * [Miguel Marques](https://www.linkedin.com/in/migmarques/), founder of [Mapidea](https://www.mapidea.com/)
 
