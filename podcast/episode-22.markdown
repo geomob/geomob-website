@@ -22,7 +22,8 @@ This week Ed catches up with one of the original geomobsters: <a href="https://t
      <li class="pt10"><a href="https://www.missingmaps.org">The Missing Maps project</a></li>
      <li class="pt10"><a href="https://www.hotosm.org">Humanitarian OpenStreetMap Team(HOT)</a></li>
      <li class="pt10"><a href="https://osmuk.org/">OSM UK</a></li>
-     <li class="pt10"><a href="https://wiki.openstreetmap.org/wiki/Talk:UK_Quarterly_Project">OSM UK Quarterly Projects</a></li>
+     <li class="pt10"><a href="https://wiki.openstreetmap.org/wiki/UK_Quarterly_Project">OSM UK Quarterly Projects</a></li>
+     <li class="pt10"><a href="https://harrywood.co.uk/blog/2012/05/22/hot-geomob/">Slides from Harry's Geomob talk about HOT way back in 2012</a></li>
   </ul>
 </div>
 
