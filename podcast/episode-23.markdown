@@ -10,7 +10,7 @@ permalink: /podcast/episode-23
 
 <div class="pt20">
 Steven chats with Denise McKenzie, director of the Benchmark Initiative, about their mission to encourage the use of ethical use of location data. She is also
-Chair of the AGI, 
+Chair of the AGI.
 </div>
 
 <div class="pt20">
