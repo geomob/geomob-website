@@ -2,7 +2,7 @@
 layout: podcast-episode
 title: "Geomob Podcast - 23. Interview with Denise McKenzie of the Benchmark Initiative"
 date: 2020-06-26 22:32:67 +0000
-tags: SpatialRed, StevenFeldman, BenchmarkInitiative, interview, Geovation, womeningeospatial, agi
+tags: SpatialRed, StevenFeldman, BenchmarkInitiative, interview, Geovation, agi
 permalink: /podcast/episode-23
 ---
 
@@ -20,7 +20,6 @@ Chair of the AGI,
     <li class="pt10"><a href="https://www.linkedin.com/in/denisemckenzie/">Denise on LinkedIn</a></li>
     <li class="pt10"><a href="https://benchmarkinitiative.com">The Benchmark Initiative</a></li>
     <li class="pt10"><a href="https://www.agi.org.uk">The Associaiton for Geographic Information (The AGI)</a></li>
-    <li class="pt10"><a href="https://www.womeningeospatial.org">Women in Geospatial</a></li>
   </ul>
 </div>
 
