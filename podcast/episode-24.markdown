@@ -17,7 +17,7 @@ Ed interviews Peter Karich, co-founder of routing software maker <a href="https:
   <ul>
     <li class="pt10"><a href="https://twitter.com/timetabling">Peter is on twitter as @timetabling</a></li>
     <li class="pt10"><a href="https://github.com/graphhopper">the Graphhopper open-source repositories on Github</a></li>
-    <li class="pt10"><a href="https://www.graphhopper.com/blog/2020/05/25/graphhopper-routing-engine-1-0-released/">Recent announcement of the ralease of Graphhopper 1.0</a></li>
+    <li class="pt10"><a href="https://www.graphhopper.com/blog/2020/05/25/graphhopper-routing-engine-1-0-released/">Recent announcement of the release of Graphhopper 1.0</a></li>
     <li class="pt10"><a href="https://wiki.osmfoundation.org/wiki/Main_Page">The OpenStreetMap Foundation</a> of which Graphhopper is a Gold Corporate member</li>
   </ul>
 </div>
