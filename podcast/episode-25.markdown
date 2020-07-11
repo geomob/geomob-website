@@ -16,8 +16,10 @@ Ed chats with geo industry veteran Randy Meech, co-founder of StreetCred. Pervio
   Relevant links:
   <ul>
     <li class="pt10"><a href="https://twitter.com/randyme">Randy is on twitter as @randyme</a></li>
+    <li class="pt10"><a href="https://www.linkedin.com/in/randymeech/">Randy on LinkedIn</a></li>
     <li class="pt10"><a href="https://www.streetcred.co">StreetCred</a></li>
     <li class="pt10"><a href="https://www.mapzen.com">Mapzen</a></li>
+    <li class="pt10"><a href="https://www.youtube.com/watch?v=MgEh9d9Rj74">Video of Randy's talk "O.S.M.B.A. The History and Future of Companies in OpenStreetMap" at SotM 2015</a></li>
   </ul>
 </div>
 
