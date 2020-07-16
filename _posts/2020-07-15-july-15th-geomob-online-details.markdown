@@ -6,16 +6,16 @@ tags: 20200715 geomob
 permalink: /post/july-15th-2020-geomob-details
 ---
 
-<div class="heading">When and where?</div>
-19:00 BST / 20:00 CEST on Wednesday the 15th of July, 2020.
-We have space for about 100 people to watch
-the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSfM_AweXQ8iAgAvjDaulokZy-tUbxChXPX3_qNIBec41OFnmQ/viewform). 
-The zoom link will be sent to everyone who has signed up about 30 minutes
-before the event.
+<div class="heading">Event Summary</div>
+Thank you to the attendees, speakers, sponsors at our June 10th, online event.
+Here's a thread summarising the evening:
 
-{% include why_geomob.html %}
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tonight&#39;s <a href="https://twitter.com/hashtag/geomob?src=hash&amp;ref_src=twsrc%5Etfw">#geomob</a> Zoom link is about to go out to everyone who signed up. We will use this tweet to start a read summarizing the evening. The talks kick off in 20 min</p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1283455616581881856?ref_src=twsrc%5Etfw">July 15, 2020</a></blockquote> 
 
-<div class="heading">The speakers:</div>
+<div class="heading">The speakers/videos:</div>
+
+The videos from the event (of those speakers who agreed) can be seen
+<a href="https://www.youtube.com/channel/UCI2eXLC6z4k4K9EvFcHfL5g">in our YouTube channel</a>.
 
 * [Sam Crawford](https://twitter.com/samcrawford_84), maker of [Trail Router](https://trailrouter.com/)
 
@@ -27,6 +27,15 @@ before the event.
 
 * [Jelte Liebrand](https://www.linkedin.com/in/jelte-liebrand/), founder of nautical navigation service [savvy navvy](https://www.savvy-navvy.com/)
 
+
+<div class="heading">When and where?</div>
+19:00 BST / 20:00 CEST on Wednesday the 15th of July, 2020.
+We have space for about 100 people to watch
+the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSfM_AweXQ8iAgAvjDaulokZy-tUbxChXPX3_qNIBec41OFnmQ/viewform). 
+The zoom link will be sent to everyone who has signed up about 30 minutes
+before the event.
+
+{% include why_geomob.html %}
 
 <div class="heading">Agenda / How will it work?</div>
 
