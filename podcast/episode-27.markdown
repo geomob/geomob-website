@@ -17,7 +17,7 @@ Ed speaks with industry veteran John Craig about the current state of play in Lo
   <ul>
     <li class="pt10"><a href="https://www.linkedin.com/in/johncraigh/">John on LinkedIn</a></li>
     <li class="pt10"><a href="https://glenevis.com">John's personal site/blog</a></li>
-    <li class="pt10"><a href="https://fil.forbrukerradet.no/wp-content/uploads/2020/01/2020-01-14-out-of-control-final-version.pdf">The Norwegian study John mentions</a></li>
+    <li class="pt10"><a href="https://fil.forbrukerradet.no/wp-content/uploads/2020/01/2020-01-14-out-of-control-final-version.pdf">The Norwegian Consumer Council report that John mentions</a></li>
     <li class="pt10"><a href="https://www.youtube.com/watch?v=CadXUr1-yqU">Video of John's talk from the June 10th Geomob</a></li>
    </ul>
    Start-ups challenging the current data paradigm and misuse. 
