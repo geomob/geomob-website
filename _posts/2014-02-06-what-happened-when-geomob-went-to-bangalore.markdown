@@ -16,7 +16,7 @@ Decks finished and talks polished, we headed around the edges of Ulsoor Lake to 
 
 Under a canopy in the garden, _surely_ a #geomob first, Ed started the proceedings with a talk about the challenges behind Geocoding India. In true Indian fashion, the power gave out and the backup generator kicked in but unfazed Ed forged forward and finished his talk without even pausing. Ed’s slide deck is now up on [SlideShare](http://www.slideshare.net/lokku/geocoding-india-talk-delivered-on-31-jan-2014-at-the-bangalore).
 
-<iframe frameborder="0" height="356" marginheight="0" marginwidth="0" scrolling="no" src="http://www.slideshare.net/slideshow/embed_code/30849030?rel=0" width="427"></iframe>
+<iframe frameborder="0" height="356" marginheight="0" marginwidth="0" scrolling="no" src="https://www.slideshare.net/slideshow/embed_code/30849030?rel=0" width="427"></iframe>
 
 After pausing for more refreshments, I rounded off the evening with a reworking of my talk on [How To Make A Map Go Viral](http://www.vicchi.org/2013/09/07/i-am-not-at-state-of-the-map-2013/), about the [Vaguely Rude Places Map](http://maps.geotastic.org/vaguely-rude-places/index.php). More refreshments, accompanied by some serious questions and answers rounded off the evening. My write up of my talk, plus my [personal recollections of how geo and India come together are already online.](http://www.vicchi.org/2014/02/05/in-india-just-because-you-can-map-something-doesnt-always-mean-you-should/)
 
