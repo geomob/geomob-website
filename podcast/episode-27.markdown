@@ -1,6 +1,6 @@
 --- 
 layout: podcast-episode
-title: "Geomob Podcast - 27. Interview with John Craig, dicussing Location Based Advertising"
+title: "Geomob Podcast - 27. Interview with John Craig, discussing Location Based Advertising"
 date: 2020-07-24 07:09:34 +0000
 tags: freyfogle, johncraig, location-based-advertising, interview, LBA
 permalink: /podcast/episode-27
