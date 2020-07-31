@@ -7,7 +7,7 @@ permalink: /post/july-15th-2020-geomob-details
 ---
 
 <div class="heading">Event Summary</div>
-Thank you to the attendees, speakers, sponsors at our June 10th, online event.
+Thank you to the attendees, speakers, sponsors at our July 15th, online event.
 Here's a thread summarising the evening:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tonight&#39;s <a href="https://twitter.com/hashtag/geomob?src=hash&amp;ref_src=twsrc%5Etfw">#geomob</a> Zoom link is about to go out to everyone who signed up. We will use this tweet to start a read summarizing the evening. The talks kick off in 20 min</p>&mdash; geomob (@geomob) <a href="https://twitter.com/geomob/status/1283455616581881856?ref_src=twsrc%5Etfw">July 15, 2020</a></blockquote> 
