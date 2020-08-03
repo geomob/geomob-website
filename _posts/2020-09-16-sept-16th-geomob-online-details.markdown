@@ -9,7 +9,8 @@ permalink: /post/sept-16th-2020-geomob-details
 <div class="heading">When and where?</div>
 19:00 BST / 20:00 CEST on Wednesday the 16th of September, 2020.
 We have space for about 100 people to watch
-the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSfM_AweXQ8iAgAvjDaulokZy-tUbxChXPX3_qNIBec41OFnmQ/viewform). 
+the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSfALS3EswDiHRsUltfy4OQBXiu4WnhCZxkoFOHYkbb_mpWsOQ/viewform)
+
 The zoom link will be sent to everyone who has signed up about 30 minutes
 before the event.
 
