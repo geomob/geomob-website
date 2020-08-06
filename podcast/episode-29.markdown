@@ -23,6 +23,7 @@ possible paths forward.
     <li class="pt10"><a href="https://www.linkedin.com/in/allan-mustard-884962b/">Allan on LinkedIn</a></li>
     <li class="pt10"><a href="https://wiki.osmfoundation.org/wiki/Main_Page">The OpenStreetMap Foundation</a></li>
     <li class="pt10"><a href="https://join.osmfoundation.org/">Join the OSMF!</a></li>
+    <li class="pt10"><a href="https://www.openstreetmap.org/user/apm-wa/diary/">Allan's OSM diary</a></li>
     <li class="pt10"><a href="https://2020.stateofthemap.org/sessions/RRVNAM/">Allan's talk "Winds of Change in OpenStreetMap" presented at SotM 2020</a></li>
     <li class="pt10"><a href="https://www.youtube.com/watch?v=JpHLulm-Wq4">Allan's talk "I'm Tired of Getting Lost", about how he got into OSM</a></li>
   </ul>
