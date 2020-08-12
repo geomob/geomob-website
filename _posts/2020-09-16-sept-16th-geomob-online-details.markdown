@@ -25,8 +25,6 @@ before the event.
 
 * [Hanc Naum](https://www.linkedin.com/in/hanc-naum-6b62a7b1/), founder of [PinApp](https://pinapp.online/)
 
-* more to be announced shortly
-
 {% include why_geomob.html %}
 
 <div class="heading">Agenda / How will it work?</div>
