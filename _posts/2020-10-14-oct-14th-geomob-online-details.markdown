@@ -17,7 +17,7 @@ before the event.
 <div class="heading">The speakers:</div>
 
 
-* [Claire Fram](https://twitter.com/claire_fram), of Arup
+* [Claire Fram](https://twitter.com/claire_fram), Arup
 
 * [David Greenwood](https://www.himynamesdave.com), founder of [Trek View](https://www.trekview.org/)
 
