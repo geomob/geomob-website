@@ -31,6 +31,9 @@ plugins:
 paginate: 10
 paginate_path: "/page/:num"
 
+include:
+  - _headers
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
