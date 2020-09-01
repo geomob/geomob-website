@@ -25,7 +25,6 @@ before the event.
 
 * [Laurence Penney](https://twitter.com/Lorp) "_Ptolemy and the first geospatial database_"
 
-* more to be announced shortly
 
 {% include why_geomob.html %}
 
