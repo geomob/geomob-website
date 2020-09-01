@@ -23,6 +23,8 @@ before the event.
 
 * [James Fee](https://twitter.com/jamesmfee) will tell us about [GeoJSON Ballparks](https://github.com/cageyjames/GeoJSON-Ballparks)
 
+* [Laurence Penney](https://twitter.com/Lorp) "_Ptolemy and the first geospatial database_"
+
 * more to be announced shortly
 
 {% include why_geomob.html %}
