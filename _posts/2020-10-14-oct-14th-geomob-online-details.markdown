@@ -77,4 +77,3 @@ Geomob is organized by [Ed Freyfogle](https://twitter.com/freyfogle) and
 
 {% include thanks.html %}
 {% include spread_the_word.html %}
-{% include sponsors_LON.html %}
