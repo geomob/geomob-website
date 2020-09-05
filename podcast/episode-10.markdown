@@ -1,7 +1,7 @@
 --- 
 layout: podcast-episode
 title: "Geomob Podcast - 10. Interview with Andy Allan of Thunderforest"
-date: 2020-04-6 18:02:19 +0000
+date: 2020-04-06 18:02:19 +0000
 tags: gravitystorm, AndyAllan, freyfogle, Thunderforest, interview
 permalink: /podcast/episode-10
 ---

@@ -1,7 +1,7 @@
 --- 
 layout: podcast-episode
 title: "Geomob Podcast - 12. Interview with Kenneth Field of Esri"
-date: 2020-04-6 18:02:19 +0000
+date: 2020-04-06 18:02:19 +0000
 tags: kennethfield, StevenFeldman, interview, mappingresponsibly
 permalink: /podcast/episode-12
 ---
