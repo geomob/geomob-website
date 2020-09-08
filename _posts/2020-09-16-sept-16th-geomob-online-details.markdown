@@ -17,7 +17,7 @@ before the event.
 <div class="heading">The speakers:</div>
 
 
-* [Jenny Allen](https://twitter.com/sjen), Maps Team Lead at Elastic
+* [Jenny Allen](https://twitter.com/sjen) and [Jorge Sanz](https://twitter.com/xurxosanz) from [the Elastic Maps](https://www.elastic.co/maps) team
 
 * [Ian Hannigan](https://twitter.com/IanHannigan), founder of [Formation](https://tryformation.com/)
 
