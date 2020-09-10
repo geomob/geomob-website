@@ -16,9 +16,9 @@ This is a delightful project turning a graffiti-covered wall into a physical
 representation of a visually extraordinary ceramic representation of a 15th
 century map. Nan shares the details of the project and how the local community
 came together to make it a reality. Do yourself a favor and check out the
-fantastic pictures in the links below. This project really shows the
-incredible power of physical cartographic art. Hopefully we can get Nan to
-a Geomob event in the future to share more about this map.
+fantastic pictures in the links below. This project shows the incredible
+power of physical cartographic art. Hopefully we can get Nan to a Geomob
+event in the future to share more about this map.
 </div>
 
 <div class="pt20">
