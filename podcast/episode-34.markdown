@@ -26,7 +26,7 @@ event in the future to share more about this map.
   <ul>
     <li class="pt10"><a href="http://www.keramiekenkaart.nl">De Keramieken Kaart</a> official website</li>
     <li class="pt10"><a href="https://www.instagram.com/keramieken_kaart/">Keramieken Kaart van Delft on Instagram</a></li>
-    <li class="pt10">Wikipedia page of<a href="https://en.wikipedia.org/wiki/Frederik_de_Wit">Frederik de Wit</a>, cartographer</li>
+    <li class="pt10">Wikipedia page of <a href="https://en.wikipedia.org/wiki/Frederik_de_Wit">Frederik de Wit</a>, cartographer</li>
     <li class="pt10"><a href="https://www.youtube.com/watch?v=dQMY4kTGzFE">YouTube video about the making of the map</a></li>
     <li class="pt10"><a href="https://smashing-tiles.com/">Nan's website</a></li>
     <li class="pt10"><a href="https://twitter.com/smashingtiles">Nan on twitter @smashingtiles</a></li>
