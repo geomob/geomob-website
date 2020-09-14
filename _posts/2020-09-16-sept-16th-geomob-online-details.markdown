@@ -19,7 +19,7 @@ before the event.
 
 * [Jenny Allen](https://twitter.com/sjen) and [Jorge Sanz](https://twitter.com/xurxosanz) from [the Elastic Maps](https://www.elastic.co/maps) team
 
-* [Ian Hannigan](https://twitter.com/IanHannigan), founder of [Formation](https://tryformation.com/)
+* [Ian Hannigan](https://twitter.com/IanHannigan), founder of [FORMATION](https://tryformation.com/)
 
 * [Olivier Cottray](https://www.linkedin.com/in/oliviercottray/), discussing using GIS for de-mining
 
