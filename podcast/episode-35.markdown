@@ -32,7 +32,8 @@ Interested in geocoding? Please get involved with Nominatim.
     <li class="pt10"><a href="https://nominatim.org/2020/09/14/Quo-Vadis.html">Recent blog post laying out the future development path of Nominatim</a></li>    
     <li class="pt10"><a href="https://github.com/osm-search/Nominatim/blob/master/CONTRIBUTING.md">Nominatim contributing guidelines</a></li>
     <li class="pt10"><a href="https://www.openstreetmap.org/user/lonvia">Sarah on OSM</a></li>
-    <li class="pt10"><a href="https://github.com/lonvia">Sarah on Github</a></li>    
+    <li class="pt10"><a href="https://github.com/lonvia">Sarah on Github</a></li>
+    <li class="pt10"><a href="https://lists.openstreetmap.org/listinfo/geocoding">the OSM geocoding mailing list</a></li>    
   </ul>
 </div>
 
