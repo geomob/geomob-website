@@ -6,16 +6,10 @@ tags: 20200916 geomob
 permalink: /post/sept-16th-2020-geomob-details
 ---
 
-<div class="heading">When and where?</div>
-19:00 BST / 20:00 CEST on Wednesday the 16th of September, 2020.
-We have space for about 100 people to watch
-the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSfALS3EswDiHRsUltfy4OQBXiu4WnhCZxkoFOHYkbb_mpWsOQ/viewform)
+<div class="heading">The speakers/videos:</div>
 
-The zoom link will be sent to everyone who has signed up about 30 minutes
-before the event.
-
-<div class="heading">The speakers:</div>
-
+The videos from the event can be seen
+<a href="https://www.youtube.com/channel/UCI2eXLC6z4k4K9EvFcHfL5g">in our YouTube channel</a>.
 
 * [Jenny Allen](https://twitter.com/sjen) and [Jorge Sanz](https://twitter.com/xurxosanz) from [the Elastic Maps](https://www.elastic.co/maps) team
 
@@ -24,6 +18,10 @@ before the event.
 * [Olivier Cottray](https://www.linkedin.com/in/oliviercottray/), discussing using GIS for de-mining
 
 * [Hanc Naum](https://www.linkedin.com/in/hanc-naum-6b62a7b1/), founder of [PinApp](https://pinapp.online/)
+
+<div class="heading">When and where?</div>
+19:00 BST / 20:00 CEST on Wednesday the 16th of September, 2020.
+
 
 {% include why_geomob.html %}
 
