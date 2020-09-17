@@ -1,7 +1,7 @@
 --- 
 layout: podcast-episode
 title: "Geomob Podcast - 35. Interview with Sarah Hoffmann"
-date: 2020-09-03 18:24:26 +0000
+date: 2020-09-17 13:17:49 +0000
 tags: freyfogle, interview, lonvia, nominatim, openstreetmap
 permalink: /podcast/episode-35
 ---
