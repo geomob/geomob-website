@@ -6,11 +6,12 @@ tags: geomob, freyfogle, StevenFeldman, mapillary, facebook, microsoft, openstre
 permalink: /podcast/episode-36
 ---
 
-<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/226704"></iframe>
+<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/245985"></iframe>
 
 <div class="pt20">
-With summer ending, and life adapting to the "new normal", Ed and Steve look 
-back on some interesting geo news from the last few months.
+With summer ending, and everyone slowly adapting to the "new normal",
+Ed and Steve discuss their respective projects, and look back on some
+interesting geo news from the last few months.
 </div>
 
 <div class="pt20">
