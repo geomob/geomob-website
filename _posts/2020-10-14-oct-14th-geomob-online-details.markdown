@@ -11,8 +11,12 @@ permalink: /post/oct-14th-2020-geomob-details
 We have space for about 100 people to watch
 the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSfqeFWHLA5sODdMt_bnXk7VxWbvMbSNbDlOy70PPBoyXGKBwQ/viewform)
 
-The zoom link will be sent to everyone who has signed up about 30 minutes
-before the event.
+
+The zoom link will be sent to everyone who has signed up a few hours before
+the event. From 30 minutes before the event we'll start letting people in, and
+put attendees in breakout rooms to mix and mingle with others. If you don't
+get a spot, please don't despair, we will put the video online shortly
+after the event.
 
 <div class="heading">The speakers:</div>
 
