@@ -21,6 +21,8 @@ after the event.
 
 <div class="heading">The speakers:</div>
 
+* [Sean Gorman](https://twitter.com/SeanGorman), co-founder of [Pixel8](https://www.pixel8.earth/)
+
 * To be announced, volunteers needed
 
 
