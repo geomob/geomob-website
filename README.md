@@ -1,2 +1,1 @@
-# geomob.github.io
-Github pages account for thegeomob.com website
+Jekyll account for thegeomob.com, hosted on netlify
