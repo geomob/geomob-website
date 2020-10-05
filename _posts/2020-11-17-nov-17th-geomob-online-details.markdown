@@ -23,7 +23,7 @@ after the event.
 
 * [Sean Gorman](https://twitter.com/SeanGorman), co-founder of [Pixel8](https://www.pixel8.earth/)
 
-* [Andrew Cutts](https://twitter.com/map_andrew), of the [Scene form Above podcast](http://scenefromabove.org), will discuss  _the current state of Earth Observation_.
+* [Andrew Cutts](https://twitter.com/map_andrew), of the [Scene from Above podcast](http://scenefromabove.org), will present "_The current state of Earth Observation_".
 
 * To be announced, volunteers needed
 
