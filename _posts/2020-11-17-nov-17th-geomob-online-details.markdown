@@ -25,6 +25,8 @@ after the event.
 
 * [Andrew Cutts](https://twitter.com/map_andrew), of the [Scene from Above podcast](http://scenefromabove.org), will present "_The current state of Earth Observation_".
 
+* [Morgan Crowley](https://twitter.com/morganahcrowley), of [Ladies of Landsat](https://twitter.com/LadiesOfLandsat)
+
 * To be announced, volunteers needed
 
 
