@@ -27,7 +27,8 @@ after the event.
 
 * [Morgan Crowley](https://twitter.com/morganahcrowley), of [Ladies of Landsat](https://twitter.com/LadiesOfLandsat)
 
-* To be announced, volunteers needed
+* [Keiko Nomura](https://twitter.com/Keiko_geo), will show us "_somthing fun with Earth Engine_
+
 
 
 {% include why_geomob.html %}
