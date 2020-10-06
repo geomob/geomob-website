@@ -25,6 +25,8 @@ after the event.
 
 * [Andrew Cutts](https://twitter.com/map_andrew), of the [Scene from Above podcast](http://scenefromabove.org), will present "_The current state of Earth Observation_".
 
+* [Hayley Evers-King](https://twitter.com/HayleyEversKing), will discuss _EO for Oceans_
+
 * [Morgan Crowley](https://twitter.com/morganahcrowley), of [Ladies of Landsat](https://twitter.com/LadiesOfLandsat)
 
 * [Keiko Nomura](https://twitter.com/Keiko_geo), will show us "_somthing fun with Earth Engine_
