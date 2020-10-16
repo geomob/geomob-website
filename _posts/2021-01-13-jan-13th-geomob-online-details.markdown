@@ -19,7 +19,7 @@ after the event.
 
 <div class="heading">The speakers:</div>
 
-* [Felix Palmer](https://twitter.com/pheeelicks/), co-founder of [Procedural Maps](https://www.procedural.eu/)
+* [Felix Palmer](https://twitter.com/pheeelicks/), founder of [Procedural Maps](https://www.procedural.eu/)
 
 * more to be announced shortly. Please volunteer if you would like to speak. 
 
