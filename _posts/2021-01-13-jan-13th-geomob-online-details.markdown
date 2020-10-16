@@ -21,6 +21,8 @@ after the event.
 
 * [Felix Palmer](https://twitter.com/pheeelicks/), founder of [Procedural Maps](https://www.procedural.eu/)
 
+* [James Fee](https://twitter.com/jamesmfee) will tell us about [GeoJSON Ballparks](https://github.com/cageyjames/GeoJSON-Ballparks)
+
 * more to be announced shortly. Please volunteer if you would like to speak. 
 
 

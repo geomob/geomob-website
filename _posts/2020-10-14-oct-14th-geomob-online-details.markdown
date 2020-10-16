@@ -20,12 +20,9 @@ after the event.
 
 <div class="heading">The speakers:</div>
 
-
 * [Claire Fram](https://twitter.com/claire_fram) of Arup on [Building an Agent Based Model (ABM) in response to COVID-19](https://medium.com/arupcitymodelling/innovate-uk-building-an-alpha-abm-as-a-response-to-covid-19-1de5b11d51e6)
 
 * [David Greenwood](https://www.himynamesdave.com), founder of [Trek View](https://www.trekview.org/)
-
-* [James Fee](https://twitter.com/jamesmfee) will tell us about [GeoJSON Ballparks](https://github.com/cageyjames/GeoJSON-Ballparks)
 
 * [Laurence Penney](https://twitter.com/Lorp) "_Ptolemy and the first geospatial database_"
 
