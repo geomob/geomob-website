@@ -7,7 +7,7 @@ permalink: /post/jan-13th-2021-geomob-details
 ---
 
 <div class="heading">When and where?</div>
-19:00 BST / 20:00 CEST on Wednesday the 13th of January, 2021.
+19:00 UK / 20:00 Europe on Wednesday the 13th of January, 2021.
 We have space for about 100 people to watch
 the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSdaQPtK0sZEHeWYXjmRk_TSDYhSNYnwbZ1Qy8J2AxsrhS-uDw/viewform).
 

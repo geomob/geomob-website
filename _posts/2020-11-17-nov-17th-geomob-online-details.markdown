@@ -7,7 +7,7 @@ permalink: /post/nov-17th-2020-geomob-details
 ---
 
 <div class="heading">When and where?</div>
-19:00 BST / 20:00 CEST on Tuesday the 17th of November, 2020.
+19:00 UK / 20:00 Europe on Tuesday the 17th of November, 2020.
 We have space for about 100 people to watch
 the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSd8Nj-M_kjM5mwJRh_-AtQ3yl5q8sxa6yPYn7u1dSZl-2P3ng/viewform)
 
