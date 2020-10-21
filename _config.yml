@@ -51,6 +51,10 @@ defaults:
     values:
       sitemap: false
     scope:
+      path: "ahrefs_3811dd145a0ef69c4e2f8066b0a1300cb9a7b8118bf4fa1abf6d715c94351780"
+    values:
+      sitemap: false      
+    scope:
       path: "mailing-list-success.html"
     values:
       sitemap: false
