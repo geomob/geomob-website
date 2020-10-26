@@ -29,8 +29,7 @@ after the event.
 
 * [Morgan Crowley](https://twitter.com/morganahcrowley), of [Ladies of Landsat](https://twitter.com/LadiesOfLandsat)
 
-* [Keiko Nomura](https://twitter.com/Keiko_geo), will show us "_somthing fun with Earth Engine_
-
+* [Keiko Nomura](https://twitter.com/Keiko_geo), will show us "_somthing fun with Earth Engine_"
 
 
 {% include why_geomob.html %}
