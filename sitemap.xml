@@ -1,0 +1,55 @@
+---
+layout: null
+currentyear: 2020
+years:
+  - 2020
+  - 2019
+  - 2018
+  - 2017
+  - 2016
+  - 2015
+  - 2014
+  - 2013
+  - 2012
+  - 2011
+  - 2010
+---
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{{ site.url }}</loc>
+    <changefreq>weekly</changefreq>    
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}/podcast</loc>
+    <changefreq>weekly</changefreq>    
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}/past-speakers</loc>
+    <changefreq>monthly</changefreq>    
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>{{ site.url }}/mailing-list</loc>
+    <changefreq>monthly</changefreq>    
+    <priority>1.0</priority>
+  </url>      
+  {% for year in page.years %}
+    <url>
+      <loc>{{ site.url }}/{{year}}/</loc>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  {% endfor %}
+  {% for post in site.posts %}
+    {% unless post.published == false %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    {% endunless %}
+  {% endfor %}
+</urlset>

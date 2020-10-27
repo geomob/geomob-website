@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<h1 class="archive-h1">Archive of events and posts from {{ page.date | date: "%Y" }}</h1>
+<div class="pt10">
+  <ul class="post-list">
+    {% for post in page.posts %}
+    <li class="pb10">
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      <br/>
+      {% assign date_format = site.minima.date_format | default: "%-d %b %Y" %}
+      <span class="pl10">{{ post.date | date: date_format }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

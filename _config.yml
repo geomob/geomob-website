@@ -25,11 +25,6 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-archives
-  - jekyll-paginate
-  - jekyll-sitemap
-
-paginate: 10
-paginate_path: "/page/:num"
 
 include:
   - _headers
@@ -42,24 +37,12 @@ exclude:
   - Gemfile.lock
   - README.md
 
-# exclude some pages from the sitemap
-# see https://github.com/jekyll/jekyll-sitemap
-defaults:
-  -
-    scope:
-      path: "google9a5d343ebd41e71b.html"
-    values:
-      sitemap: false
-    scope:
-      path: "ahrefs_3811dd145a0ef69c4e2f8066b0a1300cb9a7b8118bf4fa1abf6d715c94351780"
-    values:
-      sitemap: false      
-    scope:
-      path: "mailing-list-success.html"
-    values:
-      sitemap: false
+jekyll-archives:
+  enabled:
+    - year
+  layout: archive
+  layouts:
+    year: year-archive  
+  permalinks:
+    year: '/:year/'
 
-collections:
-  tagged:
-    output: true
-    permalink: /tagged/:name/
