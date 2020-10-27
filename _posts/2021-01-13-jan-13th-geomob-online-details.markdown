@@ -23,6 +23,8 @@ after the event.
 
 * [James Fee](https://twitter.com/jamesmfee) will tell us about [GeoJSON Ballparks](https://github.com/cageyjames/GeoJSON-Ballparks)
 
+* [Vaughn Hamilton](https://twitter.com/vaughncendiary), will present about _Understanding the effects of covid on small business in Barcelona_.
+
 * more to be announced shortly. Please volunteer if you would like to speak. 
 
 
