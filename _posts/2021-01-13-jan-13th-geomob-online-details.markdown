@@ -25,6 +25,8 @@ after the event.
 
 * [Vaughn Hamilton](https://twitter.com/vaughncendiary), will present about _Understanding the effects of covid on small business in Barcelona_.
 
+* [Kimmo Ihanus](https://twitter.com/ihmissuti), will share [PointNG](https://www.pointng.io), a tool for privacy protected location detection in JavaScript
+
 * more to be announced shortly. Please volunteer if you would like to speak. 
 
 
