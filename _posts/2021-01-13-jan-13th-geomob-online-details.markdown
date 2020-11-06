@@ -27,9 +27,7 @@ after the event.
 
 * [Kimmo Ihanus](https://twitter.com/ihmissuti), will share [PointNG](https://www.pointng.io), a tool for privacy protected location detection in JavaScript
 
-* more to be announced shortly. Please volunteer if you would like to speak. 
-
-
+* [Helen Ilus](https://twitter.com/HelenIlus), will discuss her [London Greenground Map](https://helenilus.com/greengroundmap/)
 
 {% include why_geomob.html %}
 
