@@ -6,7 +6,7 @@ tags: geomob, freyfogle, StevenFeldman
 permalink: /podcast/episode-43
 ---
 
-<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/245985"></iframe>
+<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/274019"></iframe>
 
 <div class="pt20">
 Another of our regular catch up episodes. Steven and Ed tell us what they've been up to.
