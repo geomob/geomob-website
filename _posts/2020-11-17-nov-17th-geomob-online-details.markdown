@@ -6,7 +6,8 @@ tags: 20201117 geomob
 permalink: /post/nov-17th-2020-geomob-details
 ---
 
-Here's our twitter thread [summary of the event](https://twitter.com/geomob/status/1328975388958199808). Videos will be up shortly. 
+
+Here's our twitter thread [summary of the event](https://twitter.com/geomob/status/1328975388958199808). The videos from the event can be seen <a href="https://www.youtube.com/channel/UCI2eXLC6z4k4K9EvFcHfL5g">in our YouTube channel</a>. 
 
 <div class="heading">The speakers:</div>
 
