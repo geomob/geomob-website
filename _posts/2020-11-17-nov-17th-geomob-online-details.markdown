@@ -6,6 +6,22 @@ tags: 20201117 geomob
 permalink: /post/nov-17th-2020-geomob-details
 ---
 
+Here's our twitter thread [summary of the event](https://twitter.com/geomob/status/1328975388958199808). Videos will be up shortly. 
+
+<div class="heading">The speakers:</div>
+
+
+* [Sean Gorman](https://twitter.com/SeanGorman), co-founder of [Pixel8](https://www.pixel8.earth/)
+
+* [Andrew Cutts](https://twitter.com/map_andrew), of the [Scene from Above podcast](http://scenefromabove.org), will present "_The current state of Earth Observation_".
+
+* [Hayley Evers-King](https://twitter.com/HayleyEversKing), will discuss _EO for Oceans_
+
+* [Morgan Crowley](https://twitter.com/morganahcrowley), of [Ladies of Landsat](https://twitter.com/LadiesOfLandsat)
+
+* [Keiko Nomura](https://twitter.com/Keiko_geo), will show us "_somthing fun with Earth Engine_"
+
+
 <div class="heading">When and where?</div>
 19:00 UK / 20:00 Europe on Tuesday the 17th of November, 2020.
 We have space for about 100 people to watch
@@ -19,17 +35,6 @@ get a spot, please don't despair, we will put the video online shortly
 after the event.
 
 
-<div class="heading">The speakers:</div>
-
-* [Sean Gorman](https://twitter.com/SeanGorman), co-founder of [Pixel8](https://www.pixel8.earth/)
-
-* [Andrew Cutts](https://twitter.com/map_andrew), of the [Scene from Above podcast](http://scenefromabove.org), will present "_The current state of Earth Observation_".
-
-* [Hayley Evers-King](https://twitter.com/HayleyEversKing), will discuss _EO for Oceans_
-
-* [Morgan Crowley](https://twitter.com/morganahcrowley), of [Ladies of Landsat](https://twitter.com/LadiesOfLandsat)
-
-* [Keiko Nomura](https://twitter.com/Keiko_geo), will show us "_somthing fun with Earth Engine_"
 
 
 {% include why_geomob.html %}
