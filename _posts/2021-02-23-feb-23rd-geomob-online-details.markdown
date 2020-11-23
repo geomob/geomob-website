@@ -9,7 +9,7 @@ permalink: /post/feb-23rd-2021-geomob-details
 <div class="heading">When and where?</div>
 19:00 UK / 20:00 Europe on Tuesday the 23rd of February, 2021.
 We have space for about 100 people to watch
-the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSdaQPtK0sZEHeWYXjmRk_TSDYhSNYnwbZ1Qy8J2AxsrhS-uDw/viewform).
+the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSdlmTAP2NWIxp1cAbdyLRKBRwcwdYYXru4dVPpqKRENikjNIA/viewform).
 
 The Zoom link will be sent to everyone who has signed up a few hours before
 the event. From 30 minutes before the event we'll start letting people in, and
