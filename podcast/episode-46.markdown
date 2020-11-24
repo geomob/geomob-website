@@ -12,7 +12,7 @@ permalink: /podcast/episode-46
 Any map lover who has ever been to London will know
 <a href="https://www.stanfords.co.uk/">Stanfords Map & Travel Bookshop</a> near Covent Garden. You can easily lose hours browsing in their amazing collection of maps, globes, and travel books covering every corner of the world. In this episode Steven chats with <a href="https://twitter.com/viviengodfrey">Vivien Godfrey</a>, CEO of Stanfords. Vivien reviews the almost 200-year history of Stanfords, and then they discuss the general challenges of physical retail in the age of the digital, and then get into the difficult specifics of trying to operate a business in the era of covid and lockdowns. The situation is difficult and Stanfords have launched <a href="https://payitforward.london.gov.uk/support-stanfords">a crowdfunding campaign</a> to help the business through this challenging period. 
 
-<div class="pt10">With the holidays just around the corner, we can unreservedly recommend Stanfords to the Geomob community as the place to find geo themed gifts for any map or travel lover in your life. Please have a look and see what you can do to support this long-standing resource for the London geo community.
+<div class="pt10">With the holidays just around the corner, we can unreservedly recommend Stanfords to the Geomob community as the place to find geo themed gifts for any map or travel lover in your life. Please have a look and see what you can do to support this much loved, long-standing resource for the London geo community.
 </div>
 
 <div class="pt20">
