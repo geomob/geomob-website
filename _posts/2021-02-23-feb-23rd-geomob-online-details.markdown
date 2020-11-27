@@ -20,6 +20,9 @@ after the event.
 <div class="heading">The speakers:</div>
 
 * [Ervin Ruci](https://twitter.com/geolytica), will present his geoparsing service [geocode.xyz](https://geocode.xyz/)
+
+* Henrique Köhler, presenting the [Munich Orientation Convention](http://www.volksnav.de)
+
 * more speakers to be announced shortly
 
 {% include why_geomob.html %}
