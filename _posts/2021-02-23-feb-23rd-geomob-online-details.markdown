@@ -21,7 +21,7 @@ after the event.
 
 * [Ervin Ruci](https://twitter.com/geolytica), will present his geoparsing service [geocode.xyz](https://geocode.xyz/)
 
-* Henrique Köhler, presenting the [Munich Orientation Convention](http://www.volksnav.de)
+* Henrique Köhler, inventor of the [Munich Orientation Convention](http://www.volksnav.de)
 
 * more speakers to be announced shortly
 
