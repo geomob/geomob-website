@@ -27,7 +27,7 @@ technology and industry trends for more than 15 years at
     <li class="pt10"><a href="https://cng.fireside.fm">Cageyjames & geobabbler</a> the podcast James co-hosts with Bill Dollins</li>
     <li class="pt10"><a href="https://aws.amazon.com/blogs/aws/amazon-location-add-maps-and-location-awareness-to-your-applications/">Amazon Location Services launch announcement</a></li>
     <li class="pt10">Details of <a href="https://thegeomob.com/post/jan-13th-2021-geomob-details">January 13th Geomob Online</a>, where James will be presenting</li>
-    
+    <li class="pt10"><a href="https://tile38.com">Tile38</a> - open source geofencing service that James mentions.</li>
   </ul>  
 </div>
 
