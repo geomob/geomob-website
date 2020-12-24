@@ -17,11 +17,13 @@ put attendees in breakout rooms to mix and mingle with others. If you don't
 get a spot, please don't despair, we will put the video online shortly
 after the event.
 
-<div class="heading">The speakers:</div>
+<div class="heading">Our speakers:</div>
 
 * [Ervin Ruci](https://twitter.com/geolytica), will present his geoparsing service [geocode.xyz](https://geocode.xyz/)
 
 * Henrique Köhler, inventor of the [Munich Orientation Convention](http://www.volksnav.de)
+
+* [Richard Hawthorn](https://twitter.com/richardhawthorn), of [traintrackr](https://www.traintrackr.io)
 
 * more speakers to be announced shortly
 
