@@ -21,6 +21,8 @@ after the event.
 
 * [Ervin Ruci](https://twitter.com/geolytica), will present his geoparsing service [geocode.xyz](https://geocode.xyz/)
 
+* [Nadine Alameh](https://twitter.com/nadinesa), CEO of the [OGC](https://www.ogc.org) will discuss "_Do we still need standards today_"
+
 * Henrique Köhler, inventor of the [Munich Orientation Convention](http://www.volksnav.de)
 
 * [Richard Hawthorn](https://twitter.com/richardhawthorn), of [traintrackr](https://www.traintrackr.io)
