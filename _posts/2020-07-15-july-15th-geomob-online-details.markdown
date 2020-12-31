@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "September 16th, 2020 #geomob online details"
+title: "July 15th, 2020 #geomob online details"
 date: 2020-05-18 06:24:12 +0000
 tags: 20200715 geomob
 permalink: /post/july-15th-2020-geomob-details
