@@ -27,7 +27,7 @@ after the event.
 
 * [Richard Hawthorn](https://twitter.com/richardhawthorn), of [traintrackr](https://www.traintrackr.io)
 
-* more speakers to be announced shortly
+* [Mike Hall](https://twitter.com/thisismikehall), freelance map designer ([website](https://www.thisismikehall.com))
 
 {% include why_geomob.html %}
 
