@@ -9,6 +9,7 @@ use Data::Dumper;
 $Data::Dumper::Sortkeys = 1;
 use File::Slurper qw(read_text read_dir);
 use Getopt::Long;
+use Time::Moment;
 
 my $help = 0;
 my $number = 0;
@@ -49,6 +50,17 @@ my $content = read_text($template);
 $content =~ s/EPISODENUMBER/$number/g;
 $content =~ s/EPISODETITLE/$title/g;
 $content =~ s/EPISODEHOST/$hosts{$host}/g;
+
+# date
+my $tm = Time::Moment->now_utc;
+my $dstring = $tm->year                 . '-'
+    . sprintf("%02d", $tm->month)        . '-'
+    . sprintf("%02d", $tm->day_of_month) . ' '
+    . sprintf("%02d", $tm->hour)         . ':'
+    . sprintf("%02d", $tm->minute)       . ':'
+    . sprintf("%02d", $tm->second)       . ' +0000';
+# say "dstring $dstring";
+$content =~ s/EPISODEDATE/$dstring/g;
 
 # write output file
 if ($outfile){
