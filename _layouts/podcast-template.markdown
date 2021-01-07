@@ -6,7 +6,7 @@ tags: geomob, EPISODEHOST,
 permalink: /podcast/episode-EPISODENUMBER
 ---
 
-<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/308988"></iframe>
+<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/"></iframe>
 
 <div class="pt20">
 
