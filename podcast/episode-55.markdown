@@ -21,7 +21,7 @@ OpenStreetMap (and geo in general).
 <div class="pt20">
   Relevant links:
   <ul>
-    <li class="pt10">Mirim on twitter: <a href="https://twitter.com/mapanauta">@mapanauta</a></li>
+    <li class="pt10">Miriam on twitter: <a href="https://twitter.com/mapanauta">@mapanauta</a></li>
     <li class="pt10"><a href="https://www.linkedin.com/in/miriamgonzalez2/">Miriam on LinkedIn</a></li>
     <li class="pt10"><a href="https://up42.com/">UP42</a></li>
     <li class="pt10"><a href="https://geochicas.org">Geochicas</a></li>
