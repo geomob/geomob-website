@@ -16,6 +16,7 @@ Recorded in the first week of 2021, in this episode Ed and Steven reflect on goa
   Relevant links:
   <ul>
     <li class="pt10"><a href="https://blog.opencagedata.com/post/2020-year-in-review">OpenCage 2020 year in review blog post</a></li>
+    <li class="pt10"><a href="">Mappery is recruiting!</a></a>
     <li class="pt10"><a href="https://joemorrison.substack.com/welcome">Joe Morrison's newsletter, A Closer Look</a></li>
     <li class="pt10"> Joe's article <a href="https://joemorrison.substack.com/p/google-maps-moat-is-evaporating">Google Maps' Moat is Evaporating</a></li>
     <li class="pt10">Christopher's Beddow article <a href="https://bedogged.substack.com/p/the-mobile-map-app-part-i-the-void">The Mobile Map App Part I: The Void</a></li>
