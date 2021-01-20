@@ -19,9 +19,9 @@ after the event.
 
 <div class="heading">Our speakers:</div>
 
-* To be announced shortly.
+* [Ben Foxall](https://twitter.com/benjaminbenben), _Visualising LIDAR data in a browser_
 
-Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDaQz98ef_tMCJmvYjspoTX5Yv8ll-fNHWO4Yk57ZCCDE__g/viewform">volunteer if you would like to speak</a>.
+More speakers to be announced shortly. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDaQz98ef_tMCJmvYjspoTX5Yv8ll-fNHWO4Yk57ZCCDE__g/viewform">volunteer if you would like to speak</a>.
 
 {% include why_geomob.html %}
 
