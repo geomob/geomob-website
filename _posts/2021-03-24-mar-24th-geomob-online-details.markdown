@@ -21,6 +21,9 @@ after the event.
 
 * [Ben Foxall](https://twitter.com/benjaminbenben), _Visualising LIDAR data in a browser_
 
+* [Michael Montani](https://twitter.com/MichaMontani), coordinator of crowdsourcing activities for [Unite Maps](https://geoportal.dfs.un.org/arcgis/apps/sites/#/unitemaps) & [UN Mappers](https://wiki.openstreetmap.org/wiki/Unite_Maps_Initiative/UN_Mappers)
+
+
 More speakers to be announced shortly. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDaQz98ef_tMCJmvYjspoTX5Yv8ll-fNHWO4Yk57ZCCDE__g/viewform">volunteer if you would like to speak</a>.
 
 {% include why_geomob.html %}
