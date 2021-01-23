@@ -23,6 +23,10 @@ after the event.
 
 * [Michael Montani](https://twitter.com/MichaMontani), coordinator of crowdsourcing activities for [Unite Maps](https://geoportal.dfs.un.org/arcgis/apps/sites/#/unitemaps) & [UN Mappers](https://wiki.openstreetmap.org/wiki/Unite_Maps_Initiative/UN_Mappers)
 
+* [Ed Parsons](https://twitter.com/edparsons), _A socially distanced tour illustrating the birth of the geospatial imagery industry_
+
+* [John Tertan](https://twitter.com/JohnTertan), [Virtualtrips](https://www.virtualtrips.io)
+
 
 More speakers to be announced shortly. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDaQz98ef_tMCJmvYjspoTX5Yv8ll-fNHWO4Yk57ZCCDE__g/viewform">volunteer if you would like to speak</a>.
 
