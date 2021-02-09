@@ -10,12 +10,11 @@ permalink: /podcast/episode-59
 
 <div class="pt20">
 Steven chats with Geomob regular <a href="https://twitter.com/Thierry_G">Thierry Gregorius</a>, who recently started <a href="https://truehorizoncoaching.com">True Horizon Coaching</a>, a coaching consultancy focused on helping develop
-professionals in the geospatial sector. Thierry brings a wealth of geospatial
-experience to the new business, having worked in various roles and
-organizations across the
-industry for 25 years. Thierry shares why he started the business,
-the role of a coach, and advice for anyone looking to take their
-geospatial career to the next level.
+professionals, and leaders of startups and small businesses across the
+geospatial sector. Thierry brings a wealth of geospatial experience to the new
+business, having worked in various roles and organizations across the industry
+for 25 years. Thierry shares why he started the business, the role of a coach,
+and advice for anyone looking to take their geospatial career to the next level.
 </div>
 
 <div class="pt20">
