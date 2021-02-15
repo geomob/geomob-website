@@ -13,7 +13,7 @@ Steven and Ed give updateson their respective projects. Ed has been hard at
 work on marketing for OpenCage, while Steven has found reinforcements to help
 with Mappery. From there the discussion ranges to the future of the internet
 to the digital age divide in using new technologies. Finally they recap some
-of the highlights of the <a href="/post/jan-13th-2021-geomob-details">Jan 13th Geomob</a>.
+of the highlights of the <a href="/post/jan-13th-2021-geomob-details">Jan 13th Geomob</a>, and preview some of the talks of <a href="https://thegeomob.com/post/feb-23rd-2021-geomob-details">the Feb 23rd event</a> - we hope to see you there.
 </div>
 
 <div class="pt20">
