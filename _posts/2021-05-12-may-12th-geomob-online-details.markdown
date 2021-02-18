@@ -23,7 +23,7 @@ after the event.
 
 * [Juan Gutiérrez](https://www.linkedin.com/in/juangutierrezbarquero/), _Dealing with the challenge of Nicaraguan addresses: [Ojtli](https://ojtli.app/)_
 
-* [Tim Glover](https://twitter.com/chaos_timothy), [Soar.Earth](https://soar.earth/)
+* [Darren Smith](https://twitter.com/DarrenStanleyS), [Soar.Earth](https://soar.earth/)
 
 More speakers to be announced shortly. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDaQz98ef_tMCJmvYjspoTX5Yv8ll-fNHWO4Yk57ZCCDE__g/viewform">volunteer if you would like to speak</a>.
 
