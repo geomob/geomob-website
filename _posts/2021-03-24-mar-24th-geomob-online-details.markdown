@@ -23,7 +23,7 @@ after the event.
 
 * [Michael Montani](https://twitter.com/MichaMontani), coordinator of crowdsourcing activities for [Unite Maps](https://geoportal.dfs.un.org/arcgis/apps/sites/#/unitemaps) & [UN Mappers](https://wiki.openstreetmap.org/wiki/Unite_Maps_Initiative/UN_Mappers)
 
-* [Alice Gadney](https://twitter.com/Silver7Mapping), [Mini Map-Makers](https://minimapmakers.com)
+* [Alice Gadney](https://twitter.com/Silver7Mapping), [Mini Map-Makers Global CIC](https://minimapmakers.com)
 
 * [Ed Parsons](https://twitter.com/edparsons), _A socially distanced tour illustrating the birth of the geospatial imagery industry_
 
