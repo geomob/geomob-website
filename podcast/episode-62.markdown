@@ -2,11 +2,11 @@
 layout: podcast-episode
 title: "Geomob Podcast - 62. Ben Dowling: IPinfo"
 date: 2021-03-01 18:42:44 +0000
-tags: geomob, freyfogle, ipinfo coderholic
+tags: geomob, freyfogle, ipinfo coderholic ip-geolocation
 permalink: /podcast/episode-62
 ---
 
-<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/"></iframe>
+<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/373182"></iframe>
 
 <div class="pt20">
 This week we chat with <a href="https://twitter.com/coderholic">Ben Dowling</a>,
@@ -14,7 +14,7 @@ founder and CEO of <a href="https://ipinfo.io">IPInfo</a>, a leading
 IP-geolocation service. Ed gets into the details with Ben about how they
 determine the location of an IP address, how they deal with wrangling
 the massive amounts of continually changing data, and advice on
-successfully growing an API-based geo business.
+successfully growing a geo business.
 </div>
 
 <div class="pt20">
