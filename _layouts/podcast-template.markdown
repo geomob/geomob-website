@@ -2,7 +2,7 @@
 layout: podcast-episode
 title: "Geomob Podcast - EPISODENUMBER. EPISODETITLE"
 date: EPISODEDATE
-tags: geomob, EPISODEHOST, 
+tags: geomob, EPISODEHOST, EPISODETWITTER, interview
 permalink: /podcast/episode-EPISODENUMBER
 ---
 
@@ -15,7 +15,8 @@ permalink: /podcast/episode-EPISODENUMBER
 <div class="pt20">
   Relevant links:
   <ul>
-    <li class="pt10"><a href=""></a></li>
+    <li class="pt10"><a href="https://twitter.com/EPISODETWITTER">@EPISODETWITTER</a></li>
+    <li class="pt10"><a href="EPISODEWEBSITE">EPISODEWEBSITE</a></li>
     <li class="pt10"><a href=""></a></li>
     <li class="pt10"><a href=""></a></li>    
   </ul>  

@@ -15,6 +15,8 @@ my $help = 0;
 my $number = 0;
 my $host;
 my $title;
+my $twitter;
+my $website;
 
 my %hosts = (
     'ed'     => 'freyfogle', 
@@ -22,10 +24,12 @@ my %hosts = (
 );
 
 GetOptions (
-    'help'     => \$help,
-    "host=s"     => \$host,    
-    "number=i" => \$number,
-    "title=s"    => \$title,
+    'help'      => \$help,
+    "host=s"    => \$host,    
+    "number=i"  => \$number,
+    "title=s"   => \$title,
+    "twitter=s" => \$twitter,
+    "website=s" => \$website,    
 
 ) or die "invalid options";
 
@@ -49,6 +53,8 @@ my $template = '../_layouts/podcast-template.markdown';
 my $content = read_text($template);
 $content =~ s/EPISODENUMBER/$number/g;
 $content =~ s/EPISODETITLE/$title/g;
+$content =~ s/EPISODETWITTER/$twitter/g;
+$content =~ s/EPISODEWEBSITE/$website/g;
 $content =~ s/EPISODEHOST/$hosts{$host}/g;
 
 # date
@@ -82,7 +88,7 @@ sub usage {
     create a Geomob podcast episode file
     usage:
 
-    ./podcast_episode.pl --host steven -n 54 -t "Guest Name: Topic"
+    ./podcast_episode.pl --host steven -n 54 --title "Guest Name: Topic" --twitter freyfogle --website https://freyfogle.com
     --
 
     parameters:
@@ -91,6 +97,8 @@ sub usage {
         --host              host name
         --number            episode number
         --title             brief title
+        --twitter           guest's twitter id
+        --website           guest's website
 
 
 END
