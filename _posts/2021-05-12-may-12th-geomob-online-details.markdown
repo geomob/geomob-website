@@ -27,7 +27,6 @@ after the event.
 
 * [Dan Aminzade](https://en.wikipedia.org/wiki/Dan_Maynes-Aminzade), [Long Tiny Loop](https://longtinyloop.com/)
 
-More speakers to be announced shortly. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdDaQz98ef_tMCJmvYjspoTX5Yv8ll-fNHWO4Yk57ZCCDE__g/viewform">volunteer if you would like to speak</a>.
 
 {% include why_geomob.html %}
 
