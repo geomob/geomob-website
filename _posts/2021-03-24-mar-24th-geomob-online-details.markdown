@@ -27,7 +27,7 @@ after the event.
 
 * [Ed Parsons](https://twitter.com/edparsons), _A socially distanced tour illustrating the birth of the geospatial imagery industry_
 
-* [John Tertan](https://twitter.com/JohnTertan), [Virtualtrips](https://www.virtualtrips.io)
+* [Raghav Rmadya](https://twitter.com/raghavrmadya), [Virtualtrips](https://www.virtualtrips.io)
 
 {% include why_geomob.html %}
 
