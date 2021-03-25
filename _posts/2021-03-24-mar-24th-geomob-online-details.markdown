@@ -6,16 +6,8 @@ tags: 20210324 geomob
 permalink: /post/mar-24th-2021-geomob-details
 ---
 
-<div class="heading">When and where?</div>
-19:00 UK / 20:00 Europe on Wednesday the 24th of March, 2021.
-We have space for about 100 people to watch
-the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSdTW0S9o11U9IBlzveG6i4J8nHHakg_Yx-_HCCtU1vuGy_lBg/viewform)
-
-The Zoom link will be sent to everyone who has signed up a few hours before
-the event. From 30 minutes before the event we'll start letting people in, and
-put attendees in breakout rooms to mix and mingle with others. If you don't
-get a spot, please don't despair, we will put the video online shortly
-after the event.
+Many thanks to everyone who attended the event. 
+Here's our twitter thread [summary of the event](https://twitter.com/geomob/status/1375004881363288066). The videos from the event will be available  <a href="https://www.youtube.com/channel/UCI2eXLC6z4k4K9EvFcHfL5g">in our YouTube channel</a> shortly. 
 
 <div class="heading">Our speakers:</div>
 
