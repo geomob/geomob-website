@@ -7,7 +7,7 @@ permalink: /post/mar-24th-2021-geomob-details
 ---
 
 Many thanks to everyone who attended the event. 
-Here's our twitter thread [summary of the event](https://twitter.com/geomob/status/1375004881363288066). The videos from the event will be available  <a href="https://www.youtube.com/channel/UCI2eXLC6z4k4K9EvFcHfL5g">in our YouTube channel</a> shortly. 
+Here's our twitter thread [summary of the event](https://twitter.com/geomob/status/1375004881363288066). The videos from the event are available  <a href="https://www.youtube.com/playlist?list=PL0O40c1c5Xt0DYOmluMfdKRs3kZtzYuNl">in our YouTube channel</a>. 
 
 <div class="heading">Our speakers:</div>
 
