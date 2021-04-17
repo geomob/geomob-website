@@ -6,7 +6,7 @@ tags: geomob, StevenFeldman, cornish_jack, interview, dontloseyourway, ramblers
 permalink: /podcast/episode-69
 ---
 
-<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/"></iframe>
+<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/420140"></iframe>
 
 <div class="pt20">
 Today's guest is <a href="https://twitter.com/cornish_jack">Jack Cornish</a>,
@@ -16,7 +16,7 @@ with Steven about this effort to support volunteers across
 England and Wales in reclaiming lost paths. Identifying the lost paths is
 the start of a long process to put them back on the map as public rights of
 way. Over 3,000 volunteers contributed time and effort, and over
-49,000 miles (> 78,800 kilometers) of potential rights of way
+49,000 miles (> 78,800 km) of potential rights of way
 were "discovered". Jack shares details of what exactly was done and what
 the next steps are.
 
