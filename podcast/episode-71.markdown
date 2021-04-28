@@ -10,7 +10,7 @@ permalink: /podcast/episode-71
 
 <div class="pt20">
 Fans of clever cartography are in for a treat - this week Steven interviews
-Eric Rodenbec and Alan McConchie of <a href="https://stamen.com/">Stamen</a>, a
+Eric Rodenbeck and Alan McConchie of <a href="https://stamen.com/">Stamen</a>, a
 well known data visualization and map design company. Over the years Stamen
 has created so many beautiful, thought-provoking, and widely used maps.
 Most recently they produced the design for Facebook's new OpenStreetMap-based,
