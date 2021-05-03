@@ -23,8 +23,6 @@ after the event.
 
 * [Juan Gutiérrez](https://www.linkedin.com/in/juangutierrezbarquero/), _Dealing with the challenge of Nicaraguan addresses: [Ojtli](https://ojtli.app/)_
 
-* [Darren Smith](https://twitter.com/DarrenStanleyS), [Soar.Earth](https://soar.earth/)
-
 * [Dan Aminzade](https://en.wikipedia.org/wiki/Dan_Maynes-Aminzade), [Long Tiny Loop](https://longtinyloop.com/)
 
 
