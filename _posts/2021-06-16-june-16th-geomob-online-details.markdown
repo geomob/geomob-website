@@ -20,7 +20,9 @@ after the event.
 
 <div class="heading">Our speakers:</div>
 
-To be announced shortly. Volunteers welcome
+* [Denise McKenzie](https://twitter.com/SpatialRed), _[Locus Charter](https://ethicalgeo.org/locus-charter/)_
+
+More to be announced shortly. Volunteers welcome
 
 
 {% include why_geomob.html %}
