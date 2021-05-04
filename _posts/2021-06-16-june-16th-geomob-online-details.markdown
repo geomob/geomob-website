@@ -20,6 +20,9 @@ after the event.
 
 <div class="heading">Our speakers:</div>
 
+* [Josh Baker](https://twitter.com/tidwall), _Geospatial Database &
+Geofencing Server [https://tile38.com/](Tile38)_ 
+
 * [Denise McKenzie](https://twitter.com/SpatialRed), _[Locus Charter](https://ethicalgeo.org/locus-charter/)_
 
 More to be announced shortly. Volunteers welcome
