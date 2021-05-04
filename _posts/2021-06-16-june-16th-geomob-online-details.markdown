@@ -22,6 +22,8 @@ after the event.
 
 * Rich Davies, _Environmental Noise Modelling and the associated geospatial data wrangling at [Quiet Places](https://www.quietplacesuk.com)_
 
+* [Anusuya Datta ](https://www.linkedin.com/in/anusuya-datta-a16b52a/), _Use of satellite imagery for investigative journalism_
+
 * [Josh Baker](https://twitter.com/tidwall), _Geospatial Database &
 Geofencing Server [Tile38](https://tile38.com/)_ 
 
