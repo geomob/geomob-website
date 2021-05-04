@@ -29,8 +29,6 @@ Geofencing Server [Tile38](https://tile38.com/)_
 
 * [Denise McKenzie](https://twitter.com/SpatialRed), _[Locus Charter](https://ethicalgeo.org/locus-charter/)_
 
-More to be announced shortly. Volunteers welcome
-
 
 {% include why_geomob.html %}
 
