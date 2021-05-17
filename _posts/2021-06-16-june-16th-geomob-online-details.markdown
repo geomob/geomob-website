@@ -27,8 +27,6 @@ after the event.
 * [Josh Baker](https://twitter.com/tidwall), _Geospatial Database &
 Geofencing Server [Tile38](https://tile38.com/)_ 
 
-* [Denise McKenzie](https://twitter.com/SpatialRed), _[Locus Charter](https://ethicalgeo.org/locus-charter/)_
-
 * [Fabien Girardin](https://twitter.com/fabiengirardin), _[Próximo](https://www.proximo.world)_
 
 {% include why_geomob.html %}
