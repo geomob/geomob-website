@@ -37,6 +37,7 @@ has been acquired by Snap. Finally, we close with a few musings about border dis
   <ul>
     <li class="pt10"><a href="https://knowwhereconsulting.co.uk/blog/malena-libman/">Steven's blog post in memory of Malena Libman</a></li>    
     <li class="pt10"><a href="https://mappery.org/wow/">Mappery post about the work of Ed Fairburn</a></li>
+    <li class="pt10"><a href="https://blog.opencagedata.com/post/geosearch-alpha-testers-wanted">OpenCage is seeking alpha testers for its coming Geosearch product</a></li>    
     <li class="pt10"><a href="https://2021.foss4g.org/">FOSS4G 2021</a> which will be held online from 27 Sept to 2nd Oct 2021</li>
     <li class="pt10"><a href="https://pixel8earth.medium.com/snapmapping-the-world-in-3d-cc20864bf10e">Pixel8 is joining Snap</a></li>
     <li class="pt10"><a href="https://www.youtube.com/watch?v=A77c4lSA3M4&list=PL0O40c1c5Xt0SXzuRoDloW0MgA8Zxm65M&index=1&t=3s">Sean Gorman's presentation at the November 2020 Geomob</a></li>        
