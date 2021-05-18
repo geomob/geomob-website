@@ -47,10 +47,6 @@ has been acquired by Snap. Finally, we close with a few musings about border dis
 
     <li class="pt10"><a href="https://twitter.com/OpenCage/status/1372514781178040321">OpenCage twitter thread about border disputes</a></li>
     <li class="pt10"><a href="https://en.wikipedia.org/wiki/Pheasant_Island">The island that changes between France and Spain</a></li>
-    <li class="pt10"><a href=""></a></li>
-    <li class="pt10"><a href=""></a></li>
-    <li class="pt10"><a href=""></a></li>
-    <li class="pt10"><a href=""></a></li>    
     
   </ul>  
 </div>
