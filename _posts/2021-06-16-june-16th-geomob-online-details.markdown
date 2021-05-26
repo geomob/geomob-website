@@ -22,6 +22,8 @@ after the event.
 
 * Rich Davies, _Environmental Noise Modelling and the associated geospatial data wrangling at [Quiet Places](https://www.quietplacesuk.com)_
 
+* Rob Nickerson, _OSMUK project to accelerate mapping of addresses_
+
 * [Josh Baker](https://twitter.com/tidwall), _Geospatial Database &
 Geofencing Server [Tile38](https://tile38.com/)_ 
 
