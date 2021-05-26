@@ -27,6 +27,7 @@ including free distribution of data.
     <li class="pt10"><a href="https://www.linkedin.com/in/alistairmaclenan/">Alistair on LinkedIn</a></li>  
     <li class="pt10">Alistair is on twitter as <a href="https://twitter.com/quarryali">@quarryali</a></li>
     <li class="pt10"><a href="https://www.quarry-one-eleven.com">Quarry One Eleven</a></li>
+    <li class="pt10"><a href="https://what3words.com">What3Words</a></li>    
     <li class="pt10"><a href="https://www.amazon.co.uk/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=sr_1_1">Crossing the Chasm</a>, by Geoffrey Moore</li>
     <li class="pt10"><a href="https://www.amazon.co.uk/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050/ref=sr_1_1">Value Proposition Design</a> by Alexander Osterwalder</li>
   </ul>  
