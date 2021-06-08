@@ -19,7 +19,7 @@ Ed is rejoined by <a href="https://twitter.com/AlexisBatlle">Alexis Battle</a>, 
     <li class="pt10">Alexis is on Twitter as <a href="https://twitter.com/AlexisBatlle">@AlexisBatlle</a></li>
     <li class="pt10"><a href="https://www.avuxi.com/topplace-location-page-real-estate">AVUXI's TopPlace Location page for real estate</a></li>    
     <li class="pt10"><a href="https://www.linkedin.com/in/alexisbatlle/">Alexis on LinkedIn</a></li>
-    <li class="pt10"><a href="https://www.avuxi.com/blog/time-to-thrive-welcome-to-our-new-investors">Recent AVUXI blog post announing new funding round and renewed growth</li>
+    <li class="pt10"><a href="https://www.avuxi.com/blog/time-to-thrive-welcome-to-our-new-investors">Recent AVUXI blog post announing new funding round and renewed growth</a></li>
     <li class="pt10"><a href="https://thegeomob.com/podcast/episode-8">Episode 8, where we first spoke with Alexis</a></li>
   </ul>  
 </div>
