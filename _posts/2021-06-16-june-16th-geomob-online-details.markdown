@@ -6,17 +6,9 @@ tags: 20210616 geomob
 permalink: /post/june-16th-2021-geomob-details
 ---
 
-<div class="heading">When and where?</div>
-19:00 UK / 20:00 Europe on Wednesday the 16th of June, 2021.
-We have space for about 100 people to watch
-the talks. You can [sign up for an invite here](https://docs.google.com/forms/d/e/1FAIpQLSeRk2UkB2XH5a6tmVxphFolb2akOnLj2949m3mMc9IUNfgTpw/viewform)
-
-
-The Zoom link will be sent to everyone who has signed up a few hours before
-the event. From 30 minutes before the event we'll start letting people in, and
-put attendees in breakout rooms to mix and mingle with others. If you don't
-get a spot, please don't despair, we will put the video online shortly
-after the event.
+Many thanks to everyone who attended the event. 
+Here's our twitter thread [summary of the event](https://twitter.com/geomob/status/1405204111302213632).
+The videos from the event will be up soon <a href="https://www.youtube.com/playlist?list=PL0O40c1c5Xt3vWBOVmvdFC_CUn0DrIPDX">in our YouTube channel</a>. 
 
 <div class="heading">Our speakers:</div>
 
