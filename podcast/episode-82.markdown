@@ -2,7 +2,7 @@
 layout: podcast-episode
 title: "Geomob Podcast - 82. Gregory Marler: State of the Map"
 date: 2021-06-28 06:50:16 +0000
-tags: geomob, freyfogle, gregorymarler, interview, stateofthemap, sotm, openstreetmap
+tags: geomob, freyfogle, gregorymarler, interview, stateofthemap, sotm, openstreetmap, SotM2021,
 permalink: /podcast/episode-82
 ---
 
