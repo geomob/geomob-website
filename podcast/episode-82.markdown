@@ -2,14 +2,15 @@
 layout: podcast-episode
 title: "Geomob Podcast - 82. Gregory Marler: State of the Map"
 date: 2021-06-28 06:50:16 +0000
-tags: geomob, freyfogle, gregorymarler, interview
+tags: geomob, freyfogle, gregorymarler, interview, stateofthemap, sotm, openstreetmap
 permalink: /podcast/episode-82
 ---
 
-<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/"></iframe>
+<iframe class="castos-iframe-player" src="https://5e2e9055a029d5-78101471.castos.com/player/515384"></iframe>
 
 <div class="pt20">
-Today Ed chats with long-time OpenStreetMap contributor Gregory Marler about
+Today Ed chats with long-time OpenStreetMap contributor
+<a href="https://twitter.com/gregorymarler">Gregory Marler</a> about
 the upcoming State of the Map (SotM), the annual OpenStreetMap conference,
 which will take place online from July 9-11. 
 
