@@ -18,7 +18,12 @@ Gregory is a member of the organizing committee, as he has been for many years.
 We discuss the format of this year's event, why someone should attend,
 and what attendees can look forward to. We then reminisce about past SotM's,
 and speculate about whether we will see a repeat of past geosinging
-incidents. 
+incidents.
+<div class="pt10">
+Unfortunately, in the interval since the episode was recorded, tickets to
+participate have "sold out". Nevertheless talks will be streamed online and
+watchable without registration. 
+</div>
 
 <div class="pt10">
 We look forward to seeing you at SotM! Many thanks to all the organizers,
