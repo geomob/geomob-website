@@ -38,10 +38,7 @@ speakers, and sponsors.
     <li class="pt10">Gregory is active on twitter as <a href="https://twitter.com/gregorymarler">@gregorymarler</a></li>
     <li class="pt10"><a href="https://2021.stateofthemap.org/">2021 State of the Map website</a></li>
     <li class="pt10"><a href="https://2021.stateofthemap.org/programme/">This year's programme</a></li>
-    <li class="pt10">Videos of past State of the Map events 
-    <a href="https://vimeo.com/openstreetmap">on vimeo</a> 
-    and 
-    <a href="https://vimeo.com/openstreetmap">youtube</a></li>
+    <li class="pt10"><a href="https://www.youtube.com/c/StateoftheMap/playlists">Videos of past State of the Map events on youtube</a></li>
     
   </ul>  
 </div>
